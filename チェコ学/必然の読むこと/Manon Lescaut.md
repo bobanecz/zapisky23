@@ -12,7 +12,6 @@
 > Povídá o krásné lásce dvou mladých lidí, která je zničená touhou po penězích.
 >  
 
-
 Na začátku je vypravěčem autor, který popisuje, jak se seznámil s přítelem Rytířem [[des Grieux]]. Poté vypráví o tom, jak ho opět potkal o téměř dva roky později, kde potkává Rytíře [[des Grieux]] v Calais. Pozval ho do svého pokoje v krčmě a nechal ho povídat příběh.
 
 > Od této doby není vypravěčem Prévost, ale [[des Grieux]]

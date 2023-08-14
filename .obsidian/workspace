@@ -4,27 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f4b845ac7b522e58",
-        "type": "split",
-        "children": [
-          {
-            "id": "3a2176b550b9496a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "a2cea8734c2be238",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
+        "id": "3a2176b550b9496a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "チェコ学/必然の読むこと/Farma Zvířat.md",
+            "mode": "source",
+            "source": false
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -88,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "チェコ学/必然の読むこと/Farma Zvířat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "チェコ学/必然の読むこと/Farma Zvířat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "チェコ学/必然の読むこと/Farma Zvířat.md"
+              }
             }
           }
         ]
@@ -134,10 +127,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "a2cea8734c2be238",
+  "active": "3a2176b550b9496a",
   "lastOpenFiles": [
-    "チェコ学/必然の読むこと/Farma Zvířat.md",
     "チェコ学/必然の読むこと/Manon Lescaut.md",
+    "チェコ学/必然の読むこと/Farma Zvířat.md",
     "地理学/Untitled.md"
   ]
 }

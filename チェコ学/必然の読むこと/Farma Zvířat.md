@@ -16,6 +16,6 @@ Napoleon - Prase, které napřed spolupracuje s ==Putišem???== ale pak se vzbou
 
 ==Putiš??== - Prase, které plně věřilo v myšlenky animalismu a snažilo se posunout Zvířecí farmu, aby se všechna zvířata měla lépe. Byl vyhnán Napoleonem aby Napoleon mohl získat absolutistickou vládu nad farmou.
 
-==Ten velký kůň== - Řídil se pravidlem "Když to nejde, přidej víc", čímž byl silnou inspirací pro ostatní zvířata. Poté se začal řídit aji pravidlem "Napoleon má vždy pravdu". Nakonec je zraněn Farmáři, kteří přišli zbořit větrný mlýn a Prasaty je poslán na salám. Tímto chce Orwell poukázat na hroznou krutost a bezcitnost socialistických/absolutistických vládců. Přesto, že měl být perfektním občanem, který dělal všechno pro rozvoj farmy, v ten moment, když se Prasatům nehodil byl odstraněn.
+Boxer - Řídil se pravidlem "Když to nejde, přidej víc", čímž byl silnou inspirací pro ostatní zvířata. Poté se začal řídit aji pravidlem "Napoleon má vždy pravdu". Nakonec je zraněn Farmáři, kteří přišli zbořit větrný mlýn a Prasaty je poslán na salám. Tímto chce Orwell poukázat na hroznou krutost a bezcitnost socialistických/absolutistických vládců. Přesto, že měl být perfektním občanem, který dělal všechno pro rozvoj farmy, v ten moment, když se Prasatům nehodil byl odstraněn.
 
 Mojžíš - 
