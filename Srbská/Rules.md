@@ -47,6 +47,8 @@ This Agreement ("Agreement") is entered into between Vitek (referred to as "Resi
 
 18.  **Basic Safety Rules**: Both parties shall adhere to basic safety rules, including but not limited to the prohibition of open fires and compliance with safety guidelines to be established as necessary. **Penalty:** Violation of safety rules may lead to fines or mandatory safety training.
 
+Payment of contractual fines does not preclude your right to claim damages.
+
 This Agreement is legally binding and serves to maintain a harmonious cohabitation environment for both Resident and Co-Resident. Any violation of the terms and conditions herein may result in corrective action or termination of this Agreement.
 
 By signing below, both Resident and Co-Resident acknowledge and agree to the terms set forth in this Agreement.
