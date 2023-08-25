@@ -40,14 +40,14 @@ This Agreement ("Agreement") is entered into between Vitek (referred to as "Resi
     
 16.  **Access to Resident's Room**: Co-Resident may only enter Resident's room when Resident is present in the Property and with prior consent. **Penalty:** Unauthorized entry may lead to restricted access and fines.
     
-17.  **No Key Duplication**: Co-Resident shall not duplicate or create copies of the key to the Property without the express written consent of Resident. **Penalty:** Key duplication may result in immediate eviction and costs associated with replacing locks.
+17.  **No Key Duplication**: Co-Resident shall not duplicate or create copies of the key to the Property without the express written consent of Resident. **Penalty:** Key duplication may result in immediate eviction, fines and costs associated with replacing locks.
     
 
 **Section IV: Safety and Compliance**
 
-18.  **Basic Safety Rules**: Both parties shall adhere to basic safety rules, including but not limited to the prohibition of open fires and compliance with safety guidelines to be established as necessary. **Penalty:** Violation of safety rules may lead to fines or mandatory safety training.
+18.  **Basic Safety Rules**: Both parties shall adhere to basic safety rules, including but not limited to the prohibition of open fires and compliance with safety guidelines to be established as necessary. **Penalty:** Violation of safety rules may lead to fines and mandatory safety training.
 
-Payment of contractual fines does not preclude your right to claim damages.
+Payment of contractual fines does not preclude a right to claim damages.
 
 This Agreement is legally binding and serves to maintain a harmonious cohabitation environment for both Resident and Co-Resident. Any violation of the terms and conditions herein may result in corrective action or termination of this Agreement.
 
