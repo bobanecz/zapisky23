@@ -10,4 +10,3 @@
 	- Deriváty karboxilových kyselin
 - Aldehydy
 - AL
-- 

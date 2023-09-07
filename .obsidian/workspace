@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "哲学/Počátek filosofování.md",
+            "file": "チェコ学/Májovci asi.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "哲学/Počátek filosofování.md",
+                "file": "チェコ学/Májovci asi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "哲学/Počátek filosofování.md",
+                "file": "チェコ学/Májovci asi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "哲学/Počátek filosofování.md"
+                "file": "チェコ学/Májovci asi.md"
               }
             }
           }
@@ -130,6 +130,7 @@
   "active": "3a2176b550b9496a",
   "lastOpenFiles": [
     "化学/Untitled.md",
+    "哲学/Počátek filosofování.md",
     "化学.md",
     "地理学/祭りたｗ/ww.md",
     "チェコ学/Májovci asi.md",
@@ -137,7 +138,6 @@
     "歴史学/Meziválečné československo.md",
     "README.md",
     "チェコ学/必然の読むこと/Farma Zvířat.md",
-    "チェコ学/必然の読むこと/Manon Lescaut.md",
-    "Srbská/Pravidla Srbská.md"
+    "チェコ学/必然の読むこと/Manon Lescaut.md"
   ]
 }
