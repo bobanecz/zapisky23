@@ -27,4 +27,63 @@
 
 - Měnová reforma - Alois Rašín
 
-- 
+## Politické strany
+@Umět 5 stran + u některých osobnosti
+
+### Agrární
+- Rolníci
+- Pozemková reforma
+- Švehla
+
+### ČS sociální demokracie
+- Dělníci
+- Tusar
+- 1921 rozkol ve straně, radikální levice se odtrhne
+- Vznikne KSČ
+	- 1929 bolševizace KSČ
+	- Gottwald
+
+### Národní socialisté
+- Drobní rolníci, řemeslníci, inteligence
+- Beneš
+
+### Národní demokraté
+- Inteligence, učitelé
+- Kramář
+- Rašín
+
+### Lidovci
+- Katolicky motivovaná strana
+- Jan Šrámek
+
+- Nedemokratické
+### DSAP
+- Zrušena
+- Obešli zrušení založením Sudetoněmecké strany
+
+### Hlinkova slovenská ĺudová strana
+- Chtěli se odtrhnout
+- Spolupracovali s Hitlerem
+
+## Politický život
+- Vládní koalice
+	- Všenárodní
+	- Rudozelená (sociální demokracie + agrární)
+	- Panská
+	- Široká
+- Neformální seskupení
+	- Skupina Hradu
+		- Poradní sbor kolem TGM
+		- Čapek
+	- Pětka
+		- Mimoparlamentní sdružení 5ti politických stran
+
+- 1919 volby
+- 1920 parlamentní volby
+	- Základní lidská práva
+	- Dělení moci
+	- Dvoukomorový parlament
+
+- Sedmileté volební období
+- TGM věl výjimku
+	- 4x byl zvolen
