@@ -65,7 +65,7 @@ Názorově byl s generací májovců spjat
 - Narodil se na Smíchově - v průmyslové čtvrti
 - Vystudoval reálku, zapsal se na techniku, ale nedokončil ji
 - Byl prvním významnějším spisovatelem s technickým vzděláním
-- Jeho racionalita se promítla i do jeho filozofie (všechny záhady jsou vysvětlitelné na podkladě přírodních zákonů)
+- Jeho nacionalita se promítla i do jeho filozofie (všechny záhady jsou vysvětlitelné na podkladě přírodních zákonů)
 - Rozhodl se pro literární dráhu a žurnalistiku (vliv přátelství s Nerudou)
 - Stal se redaktorem Národních listů, za svoje názory byl často vyšetřován a vězněn
 - Z Národních listů byl donucen odejít
@@ -74,7 +74,7 @@ Názorově byl s generací májovců spjat
 Tvorba
 - Psal drobné prózy a romány
 
-a) romaneta
+a) Romaneta
 - Tvoří nejhodnotnější část jeho tvorby
 - Románová skladba menšího rozsahu
 - Napínavý a tajemný děj je doprovázen vědecko-filozofickými úvahami
@@ -112,3 +112,5 @@ b) sociální romány
 
 Moderní upíři
 - Základní myšlenkou je to, že jedinec se může obohacovat jen vykořisťováním jiných
+
+# Písemka příští pondělí
