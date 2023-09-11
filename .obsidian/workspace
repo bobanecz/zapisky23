@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "歴史学/Meziválečné československo.md",
+            "file": "生物学/Genetika.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "歴史学/Meziválečné československo.md",
+                "file": "生物学/Genetika.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -106,6 +106,14 @@
                 }
               }
             }
+          },
+          {
+            "id": "dae0fc8a92425efd",
+            "type": "leaf",
+            "state": {
+              "type": "ObsiDOOM Side Panel",
+              "state": {}
+            }
           }
         ]
       },
@@ -120,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "歴史学/Meziválečné československo.md",
+                "file": "生物学/Genetika.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "歴史学/Meziválečné československo.md",
+                "file": "生物学/Genetika.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "歴史学/Meziválečné československo.md"
+                "file": "生物学/Genetika.md"
               }
             }
           }
@@ -171,15 +179,15 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "3a2176b550b9496a",
+  "active": "766566fc577bde26",
   "lastOpenFiles": [
+    "歴史学/Meziválečné československo.md",
     "チェコ学/Májovci asi.md",
     "化学/Untitled.md",
     "哲学/Počátek filosofování.md",
     "化学.md",
     "地理学/祭りたｗ/ww.md",
     "2023-09-06.md",
-    "歴史学/Meziválečné československo.md",
     "README.md",
     "チェコ学/必然の読むこと/Farma Zvířat.md",
     "チェコ学/必然の読むこと/Manon Lescaut.md"
