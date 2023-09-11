@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "チェコ学/Májovci asi.md",
+            "file": "チェコ学/2 - Rucháči a lumíráči.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "チェコ学/Májovci asi.md",
+                "file": "チェコ学/2 - Rucháči a lumíráči.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "チェコ学/Májovci asi.md",
+                "file": "チェコ学/2 - Rucháči a lumíráči.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "チェコ学/Májovci asi.md",
+                "file": "チェコ学/2 - Rucháči a lumíráči.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "チェコ学/Májovci asi.md"
+                "file": "チェコ学/2 - Rucháči a lumíráči.md"
               }
             }
           }
@@ -181,9 +181,9 @@
   },
   "active": "3a2176b550b9496a",
   "lastOpenFiles": [
+    "チェコ学/1 - Májovci asi.md",
     "生物学/Genetika.md",
     "歴史学/Meziválečné československo.md",
-    "チェコ学/Májovci asi.md",
     "化学/Untitled.md",
     "哲学/Počátek filosofování.md",
     "化学.md",
