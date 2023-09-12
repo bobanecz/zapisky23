@@ -16,3 +16,4 @@ Chybí:
 Kresba
 Tisk
 Spray?
+Křída
