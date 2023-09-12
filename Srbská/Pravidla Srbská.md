@@ -17,3 +17,4 @@ Kresba
 Tisk
 Spray?
 Křída
+Pixel?
