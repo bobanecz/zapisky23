@@ -33,7 +33,7 @@ Lumírovci = škola kosmopolitní
 
 Ruchovci
 
-Svatopluk Čech (1846 - 1908)
+## Svatopluk Čech (1846 - 1908)
 - nejvýznamnější básník ruchovské generace
 - narodil se na venkově, idyla venkova patřila k trvalým dojmům
 - stal se redaktorem Květů, zde pravidelně otiskoval své práce
@@ -99,7 +99,7 @@ Nový epochální výlet pana Broučka, tentokráte do XV. století
 - Brouček se probudí v sudu v hostinci
 
 
-Eliška Krásnohorská (1847 - 1926)
+## Eliška Krásnohorská (1847 - 1926)
 - bojovala proti kosmopolitismu
 - tento postoj nezměnila, odmítala i nové umělecké směry přicházející k nám v 90. letech
 
