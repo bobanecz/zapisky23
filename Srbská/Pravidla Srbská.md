@@ -8,13 +8,12 @@ Hudeová - Uhel? Přírodní prvky? Koláž?
 Padůchová - Olej?
 Kadlec - ???
 Střípek - ???
-Bláha - ???
+Bláha - Spray
 Klebanová - ???
 Kubů - Tempera
 
 Chybí:
 Kresba
 Tisk
-Spray?
 Křída
 Pixel?
