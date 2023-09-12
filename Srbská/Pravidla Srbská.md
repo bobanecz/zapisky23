@@ -6,3 +6,4 @@ Havlásek - Digital
 Říďa - ???
 Hudeová - Uhel? Přírodní prvky? Koláž?
 Padůchová - Olej?
+Kadlec - ???
