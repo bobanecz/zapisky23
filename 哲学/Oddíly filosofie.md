@@ -1,0 +1,29 @@
+- Ontologie
+	- Metafyzika
+- Empirsmus
+- Racionalismus
+- Vrozené ideje rozum
+- Skepce
+	- Nedůvěra v možnost objektivního poznání
+- Kosmologie
+	- Zbytečný bod
+	- Podmnožina ontologie
+	- Teorie o vzniku a uspořádání kosmu
+	- Uspořádaný svět
+	- Kosmetika
+- Etika
+	- Normativní
+	- Deskriptivní
+	- Aplikovaná
+		- Řešení konkrétních otázek a problémů
+		- např.
+			- Bioetika
+			- Lékařská Etika
+- Pomezní filosofické disciplíny
+	- Logika
+	- Estetika
+	- Filosofie společnosti
+	- Filosofie vědy
+	- Filosofie dějin
+	- Dějiny filosofie
+

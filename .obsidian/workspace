@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "チェコ学/2 - Rucháči a lumíráči.md",
+            "file": "哲学/Oddíly filosofie.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "チェコ学/2 - Rucháči a lumíráči.md",
+                "file": "哲学/Oddíly filosofie.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "チェコ学/2 - Rucháči a lumíráči.md",
+                "file": "哲学/Oddíly filosofie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "チェコ学/2 - Rucháči a lumíráči.md",
+                "file": "哲学/Oddíly filosofie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "チェコ学/2 - Rucháči a lumíráči.md"
+                "file": "哲学/Oddíly filosofie.md"
               }
             }
           }
@@ -179,17 +179,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "3a2176b550b9496a",
+  "active": "766566fc577bde26",
   "lastOpenFiles": [
+    "哲学/Počátek filosofování.md",
+    "チェコ学/2 - Rucháči a lumíráči.md",
     "チェコ学/1 - Májovci asi.md",
     "生物学/Genetika.md",
     "歴史学/Meziválečné československo.md",
     "化学/Untitled.md",
-    "哲学/Počátek filosofování.md",
     "化学.md",
     "地理学/祭りたｗ/ww.md",
     "2023-09-06.md",
-    "README.md",
-    "チェコ学/必然の読むこと/Farma Zvířat.md"
+    "README.md"
   ]
 }
