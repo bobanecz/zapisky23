@@ -1,0 +1,80 @@
+# History of GB 1
+#### 80BC to 43AD Celts
+- Tribes
+- Gaelic languages
+	- Still present
+		- Galeic (Scotland)
+		- Welsh
+		- Irish
+	- Local names - The Avon, Dover
+
+#### 43AD - 400 AD Romans
+- Emperor Claudius
+	- Pushed the Celts into
+		- W - Wales
+		- N - Scotland
+	- Education, Religion (Christianity)
+	- Sanitation, Roads, Trade
+	- Hadrian Wall
+		- Built - N
+		- Protection
+	- Cities, Towns - Bath
+		- Worchester, Leicester
+			- Castra = Military camp
+
+#### 407 - 1066 Anglo-Saxons
+- Tribes
+	- Angles
+	- Saxons
+	- Jutes
+- 7 Kingdoms
+	- Sussex
+	- Wessex
+	- Essex
+	- Kent
+	- East Anglia
+	- Northumbria
+	- Mercia
+
+#### 800 Vikings/Danes
+- Attacks from N
+- Like americans during black friday
+
+#### 829 AS kingdoms - united
+- 1st king Eubert
+
+#### 879 - 901 King Alfred the Great
+- Educated
+- Read, Write, Latin
+- Wrote a chronicle
+- Peace with the Vikings
+	- For money
+	- Danelaw
+		- Subscription fee for peace
+
+#### 1017 - 1035 Viking king in England
+- Canute, CNut, Knut
+
+#### 1035 AS back on the English throne
+- King
+	- Edward the Confessor
+		- As a child hiding in Normandy
+			- Duke of normandy was promised to become the king of England
+
+#### 1066 Edward died without ab heir
+- AS nobility chose Harold as their king
+X
+- William, Duke of Normandy
+1066 - Battle of hastings
+- Harolds army was injured from wars with the vikings
+- William attacked
+- The war was a stalemate for the first two days
+- Fake retreat prank
+- Harold died
+	- Church
+- William the Conqueror
+	- King
+	- Seat in London
+	- Built the Tower of Londong
+- AS speaking people + French speking nobility
+	- Modern English

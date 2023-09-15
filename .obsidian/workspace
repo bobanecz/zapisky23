@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "哲学/Oddíly filosofie.md",
+            "file": "英学/History of GB.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "哲学/Oddíly filosofie.md",
+                "file": "英学/History of GB.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "哲学/Oddíly filosofie.md",
+                "file": "英学/History of GB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "哲学/Oddíly filosofie.md",
+                "file": "英学/History of GB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "哲学/Oddíly filosofie.md"
+                "file": "英学/History of GB.md"
               }
             }
           }
@@ -179,8 +179,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "766566fc577bde26",
+  "active": "3a2176b550b9496a",
   "lastOpenFiles": [
+    "哲学/Oddíly filosofie.md",
     "哲学/Počátek filosofování.md",
     "チェコ学/2 - Rucháči a lumíráči.md",
     "チェコ学/1 - Májovci asi.md",
@@ -189,7 +190,6 @@
     "化学/Untitled.md",
     "化学.md",
     "地理学/祭りたｗ/ww.md",
-    "2023-09-06.md",
-    "README.md"
+    "2023-09-06.md"
   ]
 }
