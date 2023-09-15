@@ -1,4 +1,5 @@
 # History of GB 1
+#### Before that: Iberians
 #### 80BC to 43AD Celts
 - Tribes
 - Gaelic languages
@@ -75,6 +76,24 @@ X
 - William the Conqueror
 	- King
 	- Seat in London
-	- Built the Tower of Londong
+	- Built the Tower of London
 - AS speaking people + French speking nobility
 	- Modern English
+
+#### 1337 - 1453 100 years' war
+- England x France
+- French won
+
+#### 1350 Black death
+- 1/2 og the people died
+	- Shortage of manpower
+- Selfdom + Feudalism
+	- Collapsed
+- Sheep farming -> Trade
+
+#### 1455-1487 The war of two Roses
+- Yorks - White
+X
+- Lancaster - Red
+
+#### 1485 Tudors on the throne
