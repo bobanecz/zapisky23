@@ -1,0 +1,33 @@
+# Optika
+- Jedna z nejstarších oblastí fyziky (starověk)
+- 1862 - světlo je elmg. vlnění
+- Oblasti
+	- Vlnová
+	- Geometrická
+	- Kvantová
+- Em. spektrum
+![[Pasted image 20230915091256.png]]
+- Vlnová délka
+	- Jak dlouhá je vlna za periodu
+- Vititelná oblast spektra
+- $\lambda = \frac{c}{f}$ 
+- Světlo = zrakový vjem, který vyvolá elmg. vlnění různých frekvencí
+- Světlo 1 frekvence = Monofrekvenční
+- Sítnice lidského oka
+- Čípky: selektrivní, méně citlivé, hlavně kolem středu sítnice.
+- Největší citlivost na žlutozelené světlo (550nm)
+- Tyčinky: neselektivní, citlivé, hlavně u okrajů sítnice
+- Interakce světla a látkového prostředí
+	- Průchod
+	- Absorbce
+	- Disperze
+	- Odraz
+- Rozhraní dvou prostředí
+	- Odraz
+	- Lom
+	- Ohyb
+- Optická prostředí
+	- Průhledná
+	- Průsvitná
+		- Rozptyl
+	- Neprůhledná
