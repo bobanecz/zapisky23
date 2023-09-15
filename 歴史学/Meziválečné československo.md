@@ -87,3 +87,19 @@
 - Sedmileté volební období
 - TGM věl výjimku
 	- 4x byl zvolen
+
+- Zahraniční politika
+	- E. Beneš - Francie - Malá dohoda
+	- Hospodářská konjinktura
+
+- Duchovní život
+	- Náboženská svoboda
+	- Napjaté vztahy s papežem
+- Vztahy mezi Čechy a Slováky
+	- Složité
+	- Nárůst extrémních sil
+- Život v 1. republice
+	- Vilky
+	- Vilové čtvrti
+	- Činžáky
+	- 
