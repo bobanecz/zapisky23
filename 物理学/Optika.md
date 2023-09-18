@@ -38,6 +38,13 @@
 	- Anizotropní prostředí
 		- Různé vlastnosti
 - Barvy
-	- 
+	- RGB
+		- Základní
+		- #FFFFFF = bílá
+	- RYB
+	- CMYK
+		- Normální
+	- HSV/HSL
+		- Skill Issue
 
 - 11-13. října praha
