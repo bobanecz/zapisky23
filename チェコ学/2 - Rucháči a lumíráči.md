@@ -31,7 +31,7 @@ Lumírovci = škola kosmopolitní
 - skupinu tvořili J. V. Sládek, J. Vrchlický, J. Zeyer
 
 
-Ruchovci
+# Ruchovci
 
 ## Svatopluk Čech (1846 - 1908)
 - nejvýznamnější básník ruchovské generace
@@ -111,9 +111,9 @@ Tajemství
 
 
 
-Lumírovci
+# Lumírovci
 
-Josef Václav Sládek (1845 - 1912)
+## Josef Václav Sládek (1845 - 1912)
 - básník, překladatel
 - tvořil určité pojítko mezi školou národní a kosmopolitní
 - narodil se na venkově, venkovské prostředí se mu stalo ideálem
@@ -161,7 +161,7 @@ Překlady
 
 
 
-Jaroslav Vrchlický (1853 - 1912)
+## Jaroslav Vrchlický (1853 - 1912)
 - nejvýznamnější představitel lumírovců
 - básník, dramatik, překladatel
 - vlastním jménem Emil Frída

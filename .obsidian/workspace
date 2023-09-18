@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "チェコ学/1 - Májovci asi.md",
+            "file": "物理学/Optika.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "チェコ学/1 - Májovci asi.md",
+                "file": "物理学/Optika.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "チェコ学/1 - Májovci asi.md",
+                "file": "物理学/Optika.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "チェコ学/1 - Májovci asi.md",
+                "file": "物理学/Optika.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "チェコ学/1 - Májovci asi.md"
+                "file": "物理学/Optika.md"
               }
             }
           }
@@ -181,13 +181,13 @@
   },
   "active": "3a2176b550b9496a",
   "lastOpenFiles": [
+    "チェコ学/2 - Rucháči a lumíráči.md",
+    "チェコ学/1 - Májovci asi.md",
     "歴史学/Meziválečné československo.md",
     "物理学/Optika.md",
     "英学/History of GB.md",
     "哲学/Oddíly filosofie.md",
     "哲学/Počátek filosofování.md",
-    "チェコ学/2 - Rucháči a lumíráči.md",
-    "チェコ学/1 - Májovci asi.md",
     "生物学/Genetika.md",
     "化学/Untitled.md",
     "化学.md"

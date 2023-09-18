@@ -31,3 +31,13 @@
 	- Průsvitná
 		- Rozptyl
 	- Neprůhledná
+	- Homogenní
+		- Všude stejné
+	- Izotropní prostředí
+		- Ve všech směrech stejné optické vlastnosti
+	- Anizotropní prostředí
+		- Různé vlastnosti
+- Barvy
+	- 
+
+- 11-13. října praha
