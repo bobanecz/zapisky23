@@ -9,7 +9,7 @@
 - Národní výbor -> Revoluční národní shromáždění
 - Výkonná a správní moc
 - TGM
-- Premiér byl Slovák
+- Premiér byl Slovák - Tusar
 - Problémy:
 - Sudety, Slovensko, Těšínsko, Podkarpatská Rus
 - Pařížská konference
