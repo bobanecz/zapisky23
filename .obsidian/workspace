@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "歴史学/Meziválečné československo.md",
+            "file": "歴史学/Nacistické Německo.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "歴史学/Meziválečné československo.md",
+                "file": "歴史学/Nacistické Německo.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "歴史学/Meziválečné československo.md",
+                "file": "歴史学/Nacistické Německo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "歴史学/Meziválečné československo.md",
+                "file": "歴史学/Nacistické Německo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "歴史学/Meziválečné československo.md"
+                "file": "歴史学/Nacistické Německo.md"
               }
             }
           }
@@ -181,8 +181,8 @@
   },
   "active": "3a2176b550b9496a",
   "lastOpenFiles": [
-    "Pasted image 20230915091256.png",
     "歴史学/Meziválečné československo.md",
+    "Pasted image 20230915091256.png",
     "チェコ学/2 - Rucháči a lumíráči.md",
     "物理学/Optika.md",
     "チェコ学/1 - Májovci asi.md",
