@@ -192,10 +192,11 @@ Okna v bouři
 
 - formalistní lyrika
 - zavádí do české poezie nové útvary a formy, především z románských a orientálních literatur
-- např. ritornel, rondel, rondó, balata, rispet, sestina, sonet, villónská balada, gazel
-Moje sonáta
+- např. ritornel, rondel, rondó, ==balata==, rispet, sestina, ==sonet==, ==villónská balada==, gazel
+Moje sonáta - sbírka
 	- balata = lyrická báseň ustálené formy
-	- má 4+10 veršů s přesným rýmovým pořadím, první a poslední verš se vždy shodují
+	- má 4+10 veršů s přesným rýmovým pořadím
+	- první a poslední verš se vždy shodují
 
 
 b) epika
