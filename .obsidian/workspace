@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "歴史学/Nacistické Německo.md",
+            "file": "チェコ学/2 - Rucháči a lumíráči.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "歴史学/Nacistické Německo.md",
+                "file": "チェコ学/2 - Rucháči a lumíráči.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "歴史学/Nacistické Německo.md",
+                "file": "チェコ学/2 - Rucháči a lumíráči.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "歴史学/Nacistické Německo.md",
+                "file": "チェコ学/2 - Rucháči a lumíráči.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "歴史学/Nacistické Německo.md"
+                "file": "チェコ学/2 - Rucháči a lumíráči.md"
               }
             }
           }
@@ -181,6 +181,7 @@
   },
   "active": "3a2176b550b9496a",
   "lastOpenFiles": [
+    "歴史学/Nacistické Německo.md",
     "歴史学/Meziválečné československo.md",
     "Pasted image 20230915091256.png",
     "チェコ学/2 - Rucháči a lumíráči.md",
@@ -189,7 +190,6 @@
     "英学/History of GB.md",
     "哲学/Oddíly filosofie.md",
     "哲学/Počátek filosofování.md",
-    "生物学/Genetika.md",
-    "化学/Untitled.md"
+    "生物学/Genetika.md"
   ]
 }

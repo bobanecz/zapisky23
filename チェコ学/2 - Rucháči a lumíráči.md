@@ -229,6 +229,7 @@ Noc na Karlštejně
 - odehrává se v době vlády císaře Karla IV., využívá známého motivu zákazu vstupu žen na hrad
 - tento zákaz porušila Karlova žena Eliška a neteř purkrabího Alena, nakonec je zákaz zrušen
 - podle hry byla natočena hudební komedie (1973, Z. Podskalský)
+- Nejde mu o historii, ale o rodinné vztahy
 
 Překlady
 - překládal celkem z 18 cizích jazyků
@@ -236,7 +237,7 @@ Překlady
 
 
 
-Julius Zeyer (1841 - 1901)
+## Julius Zeyer (1841 - 1901)
 - básník, prozaik, dramatik
 - narodil se v Praze, v německo-francouzské rodině
 - navštěvoval reálku, byl vyučen tesařem (měl převzít otcův závod), začal však studovat jazyky, filozofii a umění
@@ -245,7 +246,7 @@ Julius Zeyer (1841 - 1901)
 - žil stranou literárních bojů, byl samotář
 
 Tvorba
-- byl typickým novoromantikem
+- byl typickým ==novoromantikem==
 - ve své fantazii unikal do historie, mýtů, legend a pověstí, vysnil si nový svět, vznešený, často s nádechem mysticismu
 - osobitě zpracovával cizí látky
 
@@ -271,10 +272,8 @@ Drama
 - zpracovával pohádkové a mýtické náměty cizí i domácí
 - výrazným rysem je lyričnost
 
-Radúz a Mahulena
+### Radúz a Mahulena
 - romantická veršovaná pohádka podle slovenského námětu
 - o síle opravdové lásky, která zachraňuje před mocí zla
 - později byla zhudebněna Josefem Sukem
-- známá je i filmová podoba z roku 1970 (J. Tříska, M. Vašaryová)
-
-
+- známá je i filmová podoba z roku 1970 ==(J. Tříska==, M. Vašaryová)
