@@ -39,7 +39,7 @@
 
 #### 800 Vikings/Danes
 - Attacks from N
-- Like americans during black friday
+- Like americans during black friday, but the stores are villages and the discount is 100%
 
 #### 829 AS kingdoms - united
 - 1st king Eubert
@@ -97,3 +97,21 @@ X
 - Lancaster - Red
 
 #### 1485 Tudors on the throne
+
+
+# History of GB 2
+- Henry VIII
+	- 6 wives
+
+#### 1534 - Reformation/Church of England
+- Wanted to break up with wife (Latina(Spanish))
+	- Pope said no
+	- Oops, accidentally made a new religion
+- Accidentally made the church mad (^^')
+- Reporting hidden catholics to grab their wealth
+	- Like agar.io
+
+#### Elizabeth I (Virgin queen)
+- Defeated the Spanish fleet
+- Pirates
+![[Pasted image 20230922074401.png]]
