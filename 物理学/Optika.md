@@ -53,4 +53,11 @@
 
 ![[Pasted image 20230922090854.png]]
 
+- Index lomu prostředí
+$$n = \frac{c}{v}$$
+- Odraz světla
+- Na rozhraní dvou prostředí dochází k odrazu a lomu dopadajícího světla
+	- $\alpha$ -úhel dopadu
+	- $\alpha'$ - úhel odrazu
+- Vždycky od kolmice
 - 

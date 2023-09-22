@@ -1,6 +1,7 @@
 {
   "enabledCssSnippets": [
-    "image_center"
+    "image_center",
+    "print bg"
   ],
   "cssTheme": "YYng"
 }
