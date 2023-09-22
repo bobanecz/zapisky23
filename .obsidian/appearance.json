@@ -1,1 +1,6 @@
-{}
+{
+  "enabledCssSnippets": [
+    "image_center"
+  ],
+  "cssTheme": "YYng"
+}

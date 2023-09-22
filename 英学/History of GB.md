@@ -114,4 +114,81 @@ X
 #### Elizabeth I (Virgin queen)
 - Defeated the Spanish fleet
 - Pirates
+- Died without an Heir
+	- Skill Issue
+- Stuarts on the throne - Scotland
+
 ![[Pasted image 20230922074401.png]]
+
+#### James the I(VI in Scotland)
+	- Scotland          x      England
+	- Catholics         x      Protestants
+	- Absolute king     x      Parliament
+	- Feudalism         x      Capitalism
+- James I - Compromise -> His son
+- Charles I - Starts civil war
+
+```
+	King                      x Parliament
+	- Landed aristocracy      x Bourgeoisie
+	- Church of England
+	- Stronger in the N       x Stronger in the S
+	- Soldiers - Cavaliers    x Roundheads
+	                            Group of puritans prevail
+                                Leader Oliver Cromwell
+                                Reorganised Parlament army
+	                            Ranks by experience
+```
+
+#### 1644  -  Battle of Marston Moor
+- Parliament won
+- 1649 War ends
+	- Charles I - Arrested + Executed
+
+#### The Commonwealth 1649-1660
+- Supposed to be a republic butt......
+- Oops, missclick, *abolished the parliament*
+	- Oliver Cromwell
+	- Named himself "Lord Protector"
+> It was a Military dictatorship
+- He was a puritan
+
+#### 1660 - People not 'happy'
+- Commonwealth collapsed
+- Return to monarchy
+- 1660-89 Restoration of Monarchy
+- Charles II
+	- Lesser power than before
+- Parliament - Main power
+- 2 parties
+	- Whigs and Tories
+
+![[Pasted image 20230922082709.png]]
+
+#### James II - Glorious Revolution
+- Tried to abolish the parliament
+	- Become absolute monarch
+	- Not enough supporters
+- Parliament said ***NO*** and named *William of Orange* the king of England
+
+#### Why will?
+- From Nether Lands
+	- Enemy of Spain
+	- Protestant
+	- Married to James's daughter
+
+![[Pasted image 20230922082211.png]]
+
+#### 1689 - The Bill of Rights
+- William of Orange signed
+- Limitation of his powers
+- No changes since then
+
+#### Industrial revolution winners
+- Had coal and Iron
+- Were already capitalsim
+	- Before 'murica
+
+![[Pasted image 20230922082607.png]]
+
+#### 
