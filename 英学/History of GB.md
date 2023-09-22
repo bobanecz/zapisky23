@@ -152,6 +152,7 @@ X
 	- Named himself "Lord Protector"
 > It was a Military dictatorship
 - He was a puritan
+	- He ruined *all* the fun
 
 #### 1660 - People not 'happy'
 - Commonwealth collapsed
@@ -190,5 +191,3 @@ X
 	- Before 'murica
 
 ![[Pasted image 20230922082607.png]]
-
-#### 

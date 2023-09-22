@@ -47,4 +47,10 @@
 	- HSV/HSL
 		- Skill Issue
 
-- 11-13. října praha
+- Bodový zdroj světla: Zanedbatelné rozměry
+- V opticky homogenním a izotrompím preostředí jsou jeho *vlnoplochy* soustředné kulové plochy
+- Huygensův princip
+
+![[Pasted image 20230922090854.png]]
+
+- 
