@@ -6,7 +6,7 @@
 	- Němců, kteří žijí pod jinými národy
 - Zneužití historických pramenů
 
-Situace
+#### Situace
 - Výmarská republika
 	- Nestabilita a problémy
 - Sociální nespokojenost
@@ -19,6 +19,24 @@ Situace
 	- Expansivní politika
 	- "Umožníme vám práci"
 		- Boj x Komunisti
-- Cesta hitlera k moci
 
-# Říct učitelce: Během 3 let parlamentní volby, jak rychle stoupali voliči
+#### Cesta hitlera k moci
+- 1932 Zvítězila NSDAP ve volbách
+- Leden 1933 hitler kancléřem
+- Požár říšského sněmu
+	- Budova německého parlamentu
+	- Záminka pro stíhání politických protivníků
+- Zmocňovací zákon
+	- Omezuje pravomoce Prezidenta a Parlamentu
+	- Posiluje moc Kancléře
+- Po smrti prezidenta hindenburga spojí role kancléře a prezidenta
+- Období *fuhrera*
+- Ernst Rohm
+- 1934 - Noc dlouhých nožů
+	- Proti velitelům SA
+	- Odstranit Konkurenci
+- Nacistická diktatura
+
+#### Upevnění moci
+- Výchova mládeže
+- 
