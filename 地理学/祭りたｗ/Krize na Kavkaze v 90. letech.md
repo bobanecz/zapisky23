@@ -4,6 +4,7 @@
 	- Kavkaz leží na jihozápadu Asie mezi Černým a Kaspickým mořem
 
 #### Náhorní Karabach
+- Území na východě Kavkazu, které tvoří enklávu v Azerbajdžánu oddělenou Lačinským korridorem od Arménie
 - Už před 90. lety zde vládly nepokoje
 	- Náhorní Karabach byl součástí sovětského svazu
 	- Sověti tuto oblast připsali Azerbajdžánu, přestože složení obyvatel bylo kolem 90% arménské
@@ -13,7 +14,12 @@
 		- 2/1988 - Pogrom
 	- Silná antiazerbajdžánská kampaň
 		- Pogromy v Gutarkhu, Spitaku a Stěpanavanu
-		- 
+			- Vystěhovávání 220 000 Azerů
+- 30.8.1991 - Azerbajdžán vyhlásil nezávislost na SSSR
+- 2.9. - Náhorní Karabach vyhlásil nezávislost na Azerbajdžánu
+- 28.11. - AZE zrušil Karabašskou autonomii
+- 1992-94 - Válka
+	- Masakr v Chodžali
 
 - Postoj ČR
 - Akásie
