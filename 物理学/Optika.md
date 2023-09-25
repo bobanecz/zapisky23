@@ -59,5 +59,26 @@ $$n = \frac{c}{v}$$
 - Na rozhraní dvou prostředí dochází k odrazu a lomu dopadajícího světla
 	- $\alpha$ -úhel dopadu
 	- $\alpha'$ - úhel odrazu
-- Vždycky od kolmice
-- 
+	- $\beta$ - úhel lomu
+	- k - kolmice dopadu
+- *Vždycky od kolmice*
+![[Pasted image 20230925125640.png]]
+- Zákon odrazu
+	- Úhel dopadu == Úhel odrazu
+		- *Vždycky*
+- Zákon lomu
+- Velikost úhlu lomu závisí na *frekvenci* světla
+$$\frac{sin \alpha}{sin \beta}=\frac{v_1}{v_2}$$
+- Snellův zákon
+$$n_1\sin\alpha=n_2\sin\beta$$
+- Dva případy lomu
+	- Lom ke kolmici $\alpha>\beta$
+		- Druhé prostředí je opticky *hustší*, rychlost světla menší
+		- $v_1 > v_2$
+	- Lom od kolmice $\alpha<\beta$
+		- Druhé prostředí je opticky *řidší*
+		- $v_1 < v_2$ 
+
+- Když $\beta=90°$ **->** $\alpha_m =$ *mezní úhel*
+	- Když $\beta>90°$ **->** nastává *úplný odraz*
+	- Optický kabel
