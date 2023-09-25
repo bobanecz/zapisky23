@@ -34,6 +34,21 @@
 
 #### Čečensko
 
+- Čečensko-Ingušská *autonomní oblast SSSR*
+- Během obsazení německem naděje na vybudování nezávislosti
+	- 1944 - *Likvidace republiky*
+	- Deportace
+- 1957 - Po smrti stalina obnovena
+
+- *1/1991* - Po rozpadu SSSR *vyhlášení čečenské republiky Ičkerie*
+	- Zavedení výjmečného stavu
+	- Odpojení Ingušska
+	- 3/1992 - *Odmítnutí federální smlouvy* rusku
+		- Vojenské intervence
+	- Opoziční hnutí podporované ruskem
+
+- *12/1994* - 
+
 
 - Postoj ČR
 - Akásie
