@@ -81,8 +81,38 @@
 - 2/2007 - *Ramzan Kadyrov* prezidentem
 	- Stabilizace bezpečnostní situace
 
-#### Rusko-gruzínská válka
+#### Abcházie
+- Království
+- USSR
+	- Část Gruzie
+- 1925 - Abchazská ústava
+- Řízená imigrace
+- Druhá světová válka
+	- Zákaz abchazštiny
+- Po smrti Stalina kulturní obrození
+- V letech 1957, 67 a 78 žádosti o přechod z Gruzínské SFSR do Ruské
+	- Později žádost o navrácení statusu svazové republiky
+- 1978 - Protesty
+	- Abcházie obvinila Gruzii z politické a kulturní diskriminace
+	- Ústřední výbor KSSS zařídil ústupky a velké dotace na rozvoj kultury a školství
+- 1988 - Stížnost
+- 3/1989 - Petice pro úplnou autonomii
+	- 30 000 respondentů (1/3 Abchazců)
 
+- *1992-1993* - **Občanská válka**
+- 16.7.1989 - Nepokoje v Suchumi
+	- 16 gruzínců
+	- Sovětská armáda
+- 9/1990 - Zákon utlačující menšiny v Gruzii
+- 10/1990 - Deklarace o státní suverenitě Abchazské SSR
+	- *Vladislav Ardzinba*
+- 4/1991 - Samostatnost gruzie
+	- Zviad Gamsachurdia
+- 12/1991 - Uznání gruzie i s abcházií OSN
+- 1-1992
+- Ústava z roku 1921
+	- 23.7.1992 - Úplná nezávislost na Gruzii
+- 
 
 
 - Postoj ČR
