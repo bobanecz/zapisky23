@@ -273,7 +273,10 @@ Drama
 - výrazným rysem je lyričnost
 
 ### Radúz a Mahulena
+- konec 19. stol
 - romantická veršovaná pohádka podle slovenského námětu
 - o síle opravdové lásky, která zachraňuje před mocí zla
 - později byla zhudebněna Josefem Sukem
 - známá je i filmová podoba z roku 1970 ==(J. Tříska==, M. Vašaryová)
+
+# Kdo byl kdo a co chtěli .-.
