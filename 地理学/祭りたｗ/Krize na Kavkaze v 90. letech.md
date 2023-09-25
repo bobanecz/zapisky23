@@ -86,29 +86,29 @@
 - USSR
 	- Část Gruzie
 - 1925 - Abchazská ústava
-- Řízená imigrace
+- *Řízená imigrace*
 - Druhá světová válka
 	- Zákaz abchazštiny
-- Po smrti Stalina kulturní obrození
-- V letech 1957, 67 a 78 žádosti o přechod z Gruzínské SFSR do Ruské
+- Po smrti Stalina *kulturní obrození*
+- V letech 1957, 67 a 78 *žádosti o přechod* z Gruzínské SFSR do Ruské
 	- Později žádost o navrácení statusu svazové republiky
 - 1978 - Protesty
 	- Abcházie obvinila Gruzii z politické a kulturní diskriminace
 	- Ústřední výbor KSSS zařídil ústupky a velké dotace na rozvoj kultury a školství
 - 1988 - Stížnost
 - 3/1989 - Petice pro úplnou autonomii
-	- 30 000 respondentů (1/3 Abchazců)
+	- 30 000 respondentů (1/3 Abchazců nebo 1/10 obyvatel území)
 
 - *1992-1993* - **Občanská válka**
 - 16.7.1989 - Nepokoje v Suchumi
 	- 16 gruzínců
 	- Sovětská armáda
-- 9/1990 - Zákon utlačující menšiny v Gruzii
+- 9/1990 - *Zákon utlačující menšiny v Gruzii*
 - 10/1990 - Deklarace o státní suverenitě Abchazské SSR
 	- *Vladislav Ardzinba*
 - 4/1991 - Samostatnost gruzie
 	- Zviad Gamsachurdia
-- 12/1991 - Uznání gruzie i s abcházií OSN
+- 12/1991 - *Uznání gruzie i s abcházií OSN*
 - Ústava z roku 1921
 	- 23.7.1992 - Úplná nezávislost na Gruzii
 **Ozbrojený konflikt
@@ -116,17 +116,17 @@
 	- Eduard Ševardnadze
 	- Obvinění příznivců starého režimu (Zviadovců) únosem několika politiků na západ Gruzie
 	- Tažení 3 000 vojáků
-	- Útok na Suchumi
+	- *Útok na Suchumi*
 - Konfederace kavkazských národů
-- Přesun hlavního města do Gudauty
+- Přesun hlavního města do *Gudauty*
 - Postoj ruska
 	- Neúspěšná mírová smlouva
 - 10/1992 - Bitva o Gagru
-- 5/1993 - Dohoda o klidu zbraní
+- 5/1993 - *Dohoda o klidu zbraní*
 	- Podepsána jen Jelcinem a Ševardnadzem
 	- Trvala asi měsíc
 - Zločinecké organizace a Zviadovci
-- 27.7.1993 dohoda o stažení gruzínských vojsk a kavkazských jednotek
+- 27.7.1993 *dohoda* o stáhnutí gruzínských vojsk a kavkazských jednotek
 	- Soči
 - 9/1993 - Ofenzíva na Suchumi
 - Zviadovci obsadili Poti a Samtredii
@@ -135,8 +135,8 @@
 	- 30 000 mrtvých
 	- 250 000 uprchlíků
 - OSCE ->Blokáda Abcházie od elektřiny
-- Umístění ruských vojsk podél řeky Inguri
-- 4.12.1994 - Deklarace o opatřeních k politickému urovnání gruzínsko-abchazského konfliktu
+- *Umístění ruských vojsk podél řeky Inguri*
+- 4.12.1994 - *Deklarace o opatřeních k politickému urovnání gruzínsko-abchazského konfliktu*
 	- Uznání práva na existenci autonomní republiky
 	- Nemají ale úplnou samostatnost
 - Šestidenní válka
@@ -144,7 +144,19 @@
 	- 300 povstalců proti 1500 Abchazům
 	- Asi 300 mrtvých
 
-
-- Postoj ČR
-- Akásie
-- Otásie
+#### Osetie
+- Původ konfliktu
+	- 5/1918 - Gruzie vyhlásila nezávislost na USSR
+	- Brutální potlačení Osetských rolníků
+	- Odmítnutí regionu udělit autonomii
+	- 6/1920 - *Ruskem podporované Osetské síly útočí na gruzii*
+	- Rudá armáda úspěšně napadla gruzii
+	- *Jihoosetská autonomní oblast*
+	- 1989 - Neúspěšná žádost o povýšení statutu na autonomní republiku
+- 20.9.1990 - Vyhlášení suverenity
+- 11. 12.1990 - Gruzie ruší autonomní status J. Osetie
+- 5.-6.1.1991 - *Útok Gruzie na Cchinvali*
+	- Více než 2 000 mrtvých
+	- Podpora Osetie ruskými vojsky
+- 24.6.1992 - *Dohoda o příměří*
+	- Nedohodla status, ale Osetie de facto drží vládu nad oblastí
