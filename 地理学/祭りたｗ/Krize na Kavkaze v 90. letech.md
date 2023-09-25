@@ -33,7 +33,7 @@
 
 
 #### Čečensko
-
+- Severní část kavkazu
 - Čečensko-Ingušská *autonomní oblast SSSR*
 - Během obsazení německem naděje na vybudování nezávislosti
 	- 1944 - *Likvidace republiky*
@@ -81,8 +81,10 @@
 - 2/2007 - *Ramzan Kadyrov* prezidentem
 	- Stabilizace bezpečnostní situace
 
+#### Rusko-gruzínská válka
+
+
 
 - Postoj ČR
 - Akásie
 - Otásie
-- 
