@@ -40,17 +40,49 @@
 	- Deportace
 - 1957 - Po smrti stalina obnovena
 
-- *1/1991* - Po rozpadu SSSR *vyhlášení čečenské republiky Ičkerie*
-	- Zavedení výjmečného stavu
-	- Odpojení Ingušska
-	- 3/1992 - *Odmítnutí federální smlouvy* rusku
-		- Vojenské intervence
-	- Opoziční hnutí podporované ruskem
+- *1/1991* - Po rozpadu SSSR **vyhlášení čečenské republiky Ičkerie**
+- Zavedení výjmečného stavu
+- Džochar Dudajev
+- Odpojení Ingušska
+- 3/1992 - *Odmítnutí federální smlouvy* rusku
+	- Vojenské intervence
+- Opoziční hnutí podporované ruskem
 
-- *12/1994* - 
+- *12/1994* - **První rusko-čečenská válka**
+- Ropa
+	- Boris Jelcin
+- Obsazení města Groznyj
+	- Lev Rochlin
+- *Partyzánská válka*
+- Boje I mimo území čečenska
+	- Buďonnovsk a Kilzjar
+- *6/1996 - Příměří*
+- Status republiky odložen
+- Množství obětí sporné
+	- Dle ruska 20 000-30 000
+	- Dle čečenska *100 000*
+
+- *1996-1999* - **Druhá nezávislost**
+- Aslan Maschadov
+- Únosy
+- Čečensko obvinilo FSB
+
+- *1999-2009* - **Druhá rusko-čečenská válka**
+- 9/1999 - Nálety
+- 12/1999 - 50% oblasti pod ruskou kontrolou
+- 6.12.1999 - *Masakr utečeneckého konvoje* v Grozném
+- *2/2000* - Obsazení posledního města
+	- Volební kampaň Putina
+- 2002 - Ukončení ozbrojených akcí
+- "normalizace"
+- *3/2003 - Nová Ústava*
+	- Kadyrov
+- 5/2004 - Atentát
+- 2/2007 - *Ramzan Kadyrov* prezidentem
+	- Stabilizace bezpečnostní situace
 
 
 - Postoj ČR
 - Akásie
 - Otásie
-- Čečensko
+- 
