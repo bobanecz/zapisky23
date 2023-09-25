@@ -109,10 +109,40 @@
 - 4/1991 - Samostatnost gruzie
 	- Zviad Gamsachurdia
 - 12/1991 - Uznání gruzie i s abcházií OSN
-- 1-1992
 - Ústava z roku 1921
 	- 23.7.1992 - Úplná nezávislost na Gruzii
-- 
+**Ozbrojený konflikt
+- 1/1992 - Zhroucení režimu Gruzie
+	- Eduard Ševardnadze
+	- Obvinění příznivců starého režimu (Zviadovců) únosem několika politiků na západ Gruzie
+	- Tažení 3 000 vojáků
+	- Útok na Suchumi
+- Konfederace kavkazských národů
+- Přesun hlavního města do Gudauty
+- Postoj ruska
+	- Neúspěšná mírová smlouva
+- 10/1992 - Bitva o Gagru
+- 5/1993 - Dohoda o klidu zbraní
+	- Podepsána jen Jelcinem a Ševardnadzem
+	- Trvala asi měsíc
+- Zločinecké organizace a Zviadovci
+- 27.7.1993 dohoda o stažení gruzínských vojsk a kavkazských jednotek
+	- Soči
+- 9/1993 - Ofenzíva na Suchumi
+- Zviadovci obsadili Poti a Samtredii
+	- Kapitulace Gruzínských jednotek
+- *Masakr v Suchumi*
+	- 30 000 mrtvých
+	- 250 000 uprchlíků
+- OSCE ->Blokáda Abcházie od elektřiny
+- Umístění ruských vojsk podél řeky Inguri
+- 4.12.1994 - Deklarace o opatřeních k politickému urovnání gruzínsko-abchazského konfliktu
+	- Uznání práva na existenci autonomní republiky
+	- Nemají ale úplnou samostatnost
+- Šestidenní válka
+	- "Bílá legie" a "Bratrstvo lesa"
+	- 300 povstalců proti 1500 Abchazům
+	- Asi 300 mrtvých
 
 
 - Postoj ČR
