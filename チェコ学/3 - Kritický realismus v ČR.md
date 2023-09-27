@@ -72,6 +72,7 @@ a) nejstarší období dějin
 
 ##### Staré pověsti české
 - dobré
+- dají se z toho odnést věci
 - soubor pověstí z dávných dob, beletristické zpracování mýtických počátků našich dějin
 - čerpal hlavně z Kosmovy a Dalimilovy kroniky
 - příběhy o praotci Čechovi, Bivojovi, Libuši, Horymírovi…
@@ -79,7 +80,7 @@ a) nejstarší období dějin
 - ale i novější pověsti (Žižka, Jánošík…)
 
 
-b) husitství
+##### husitství
 - obraz husitství zobrazil v románové trilogii
 
 Mezi proudy
@@ -92,20 +93,20 @@ Bratrstvo
 
 c) doba pobělohorská
 
-Psohlavci
+##### Psohlavci
 - román o povstání Chodů vedených Janem Sladkým Kozinou proti Lamingerovi koncem 17. století
 - psohlavci = chodští strážci hranic, měli řadu výsad (byli svobodní, bez robot)
 - když upadli do nevolnictví (byli prodáni trhanovskému pánu Lamingerovi = Lomikar), vzbouřili se
 - Kozina byl odsouzen k oběšení (před smrtí volá Lomikara do roka a do dne na boží soud)
 
-Temno
+##### Temno
 - román z období protireformace (20. léta 18. století), zabývá se působením jezuitů
 - vystupuje zde i skutečná postava pátera Koniáše, zavilého odpůrce evangelíků, nechal zničit české nekatolické knihy
 - osudy tajných nekatolíků, kteří pro uchování víry museli utíkat za hranice
 
 d) doba národního obrození
 
-F. L. Věk
+##### F. L. Věk
 - pětidílný román
 - podává obraz počátků národního obrození (divadla, básnictví, vědy, vlastenectví…)
 - hlavním hrdinou je skutečná postava dobrušského kupce Františka Ladislava Heka
