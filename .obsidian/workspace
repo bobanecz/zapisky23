@@ -4,26 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "39328985ec53dcaa",
-        "type": "leaf",
-        "dimension": 63.99572649572649,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "チェコ学/3 - Kritický realismus v ČR.md",
-            "mode": "source",
-            "source": true
-          }
-        }
-      },
-      {
         "id": "fba68f32fab087be",
         "type": "leaf",
-        "dimension": 36.004273504273506,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "地理学/祭りたｗ/Maturitní otázka 3.md",
+            "file": "物理学/Optika.md",
             "mode": "source",
             "source": false
           }
@@ -92,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "チェコ学/3 - Kritický realismus v ČR.md",
+                "file": "物理学/Optika.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -115,7 +101,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.18630210983175552,
+                  "scale": 0.24835252748495973,
                   "close": true
                 }
               }
@@ -142,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "チェコ学/3 - Kritický realismus v ČR.md",
+                "file": "物理学/Optika.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "チェコ学/3 - Kritický realismus v ČR.md",
+                "file": "物理学/Optika.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "チェコ学/3 - Kritický realismus v ČR.md"
+                "file": "物理学/Optika.md"
               }
             }
           }
@@ -193,7 +179,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "39328985ec53dcaa",
+  "active": "fba68f32fab087be",
   "lastOpenFiles": [
     "地理学/祭りたｗ/Maturitní otázka 3.md",
     "チェコ学/3 - Kritický realismus v ČR.md",

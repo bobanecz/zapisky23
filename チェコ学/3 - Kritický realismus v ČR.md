@@ -189,7 +189,7 @@ b) romány
 - když se Kaliba dozví, že ho Karla podvádí a že dítě není jeho, zabije ji a sám umírá
 
 
-Antal Stašek (1843 - 1931)
+#### Antal Stašek (1843 - 1931)
 - vlastním jménem Antonín Zeman (otec Ivana Olbrachta)
 - narodil se v Podkrkonoší
 
@@ -200,8 +200,8 @@ Blouznivci našich hor
 - povídkový cyklus
 - těžkosti života na venkově vhánějí vesničany mezi spiritisty
 
-Teréza Nováková (1853 - 1912)
-- narodila se v Praze, ale téměř celý život prožila ve východních Čechách (Polička, Litomyšl, Skuteč)
+#### Teréza Nováková (1853 - 1912)
+- narodila se v Praze, ale téměř celý život prožila ve východních Čechách (==Polička, Litomyšl, Skuteč==)
 - byla pokračovatelkou K. Světlé, kterou považovala za svoji učitelku
 - zemřela v Praze (u svého syna, literárního kritika a historika Arne Nováka)
 
@@ -209,17 +209,16 @@ Tvorba
 - vrcholem tvorby je 5 historických románů ze života lidu východních Čech
 - všechny hlavní postavy skutečně žily, chtěla zobrazit typ hloubavého venkovského člověka
 - hrdinové usilují především o pravdu a lepší život v křesťanském duchu, jejich snahy však ztroskotávají
-Jan Jílek
+##### Jan Jílek
 - hrdinou je českobratrský emigrant, který se tajně vrátí, ale trpí zde pro svou víru, přesto vytrvává
-Jiří Šmatlán
+##### Jiří Šmatlán
 - příběh chudého tkalce, původně katolíka, hledá lepší víru u evangelíků, ale je zklamán
 
 
-Karel Klostermann (1848 - 1923)
+#### Karel Klostermann (1848 - 1923)
 - látku ke svým povídkám a románům čerpal z jižních Čech a Šumavy
 - zachycoval život šumavských dřevorubců, sklářů, vorařů a pytláků, podmanivé obrazy šumavské přírody
 Próza z městského prostředí
-
 - na zpodobňování města se soustředili už májovci (Neruda, Arbes)
 - všichni autoři vycházeli z prostředí Prahy, zachycovali dobovou atmosféru
 

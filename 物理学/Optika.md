@@ -82,3 +82,10 @@ $$n_1\sin\alpha=n_2\sin\beta$$
 - Když $\beta=90°$ **->** $\alpha_m =$ *mezní úhel*
 	- Když $\beta>90°$ **->** nastává *úplný odraz*
 	- Optický kabel
+	- Refraktometry měří index lomu
+
+$$\frac{\alpha_m}{\sin90\degree}=\sin\alpha_m=\frac{n_2}{n_1}$$
+
+Disperze světla
+- Poprvé provedl *Isaac Newton* v pokusu se slunečním světlem a hranolem
+- Bílé světlo "obsahuje" složky, které už dále rozložit nelze
