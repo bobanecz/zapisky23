@@ -53,17 +53,52 @@
 
 ### Slapové jevy
 - Mění se pohybem jak měsíce kolem země, tak země kolem své osy
-- Příliv je na dvou místech zároveň
+- Voda se táhne k a od barycentra Země a Měsíce
+	- Příliv je na dvou místech zároveň
+- Vliv slunce
+- Perioda je zhruba 15 dní
+	- Skočné hnutí
+		- Země, Slunce a Měsíc leží na jedné přímce
+			- Během novu nebo úplňku
+		- Vliv Slapových jevů je větší
+	- Hluché dmutí
+		- Země, Měsíc a Slunce svírají pravý úhel
+		- Vliv Slapových jevů je nejmenší
 - Důsledky:
-	- Změny výšky hladiny
+	- Změny výšky hladiny ~ Příliv a Odliv
 	- Na některých místech důležité pro přepravu (amazonka)
+	- Vznik slapových proudů
 	- Roznášení živočichů a planktonu po moři
 
 ![[Pasted image 20231002221751.png]]
 
 ## Argentina, Peru, Chile, Uruguay a Bolívie
-Geografické vymezení
-- Leží v jižní části Jižní Ameriky
+### Geografické vymezení
+- Leží v jižní části Jižní Ameriky, spíše na západní straně u Tichého oceánu
+
+### Povrch
 - Peru, Chile a Argentina mají dlouhé pobřeží
-- Velká část území leží na pohoří Andy
+- Pohoří Andy
+- Laplatská Nížina
+- Nízká kvalita půdy
+- Na jihu pouště a polopouště 
+- Pampy a Prérie
+- Lesy a Pralesy
+
+### Vodstvo
+- Největší řeka - Paraná
+- Jezero Ticataca
+
+### Podnebí
+- Mezi Tropickým až po začátek subtropického pásu
+- Silný vliv nadmořské výšky
+- Na západě oblasti v Andách velmi nízké srážky
+- Na jihu velmi vysoké srážky
+- Vliv El nino
+	- Přináší teplo
+
+### Obyvatelstvo
+- Jazyk = španělština 
+- Římští katolíci
+- Prezidentské republiky
 - 
