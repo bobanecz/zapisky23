@@ -74,13 +74,13 @@
 
 ## Argentina, Peru, Chile, Uruguay a Bolívie
 ### Geografické vymezení
-- Leží v jižní části Jižní Ameriky, spíše na západní straně u Tichého oceánu
+- Leží v jižní části Jižní Ameriky
 
 ### Povrch
 - Peru, Chile a Argentina mají dlouhé pobřeží
 - Pohoří Andy
 - Laplatská Nížina
-- Nízká kvalita půdy
+- Na západě nízká kvalita půdy
 - Na jihu pouště a polopouště 
 - Pampy a Prérie
 - Lesy a Pralesy
@@ -101,4 +101,21 @@
 - Jazyk = španělština 
 - Římští katolíci
 - Prezidentské republiky
-- 
+- Argentina je nejlidnatější
+	- Nejvíce obyvatel v Buenos aires
+	- Třetina obyvatel v aglomeraci
+- Poměrně velký přírůstek obyvatel
+
+### Ekonomika
+- Chile, Argentina a Uruguay v poměru se zbytkem J. Ameriky bohaté
+- Bolívie a Peru Patří mezi nejchudší státy v J. Americe
+- Mnoho obyvatel v zemědělství
+	- Peru a bolívie mají více než 1/4 obyvatel v zemědělství
+	- Ostatní státy mezi 5 a 15 procenty
+- Těžba surovin
+	- Barevné kovy, Železná ruda, Zlato
+- Buenos aires
+	- Turistický ruch
+	- Největší ekonomická oblast
+- Uruguay
+	- Maso, Ovoce, Dřevo
