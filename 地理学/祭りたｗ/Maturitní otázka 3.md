@@ -10,6 +10,7 @@
 - Trvá 23h 56m 4s
 	- "Jeden siderický den"
 - Úhlová rychlost ~15°/hod
+- Rychlost se maličko mění
 - Osa
 	- Sklon na ekliptiku je asi 23,5°
 	- Ovlivněná *precesí a nutací*
@@ -18,6 +19,7 @@
 	- Střídání dne a noci
 	- *Slapové jevy*
 #### Precese a nutace
+
 ### Země měsíc
 ### Oběh kolem slunce
 ### Apsida
