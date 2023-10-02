@@ -17,7 +17,10 @@
 - Důsledky:
 	- Coriolisovy síly
 	- Střídání dne a noci
+		- Cirkadiánní rytmus u živočichů a rostlin
 	- *Slapové jevy*
+	- Země je trošku zploštělá
+	- 
 #### Precese a nutace
 
 ### Země měsíc
