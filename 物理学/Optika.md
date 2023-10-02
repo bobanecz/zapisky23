@@ -89,3 +89,12 @@ $$\frac{\alpha_m}{\sin90\degree}=\sin\alpha_m=\frac{n_2}{n_1}$$
 Disperze světla
 - Poprvé provedl *Isaac Newton* v pokusu se slunečním světlem a hranolem
 - Bílé světlo "obsahuje" složky, které už dále rozložit nelze
+- *Index* lomu *Indigové je větší*, než červené
+- Fialová je pomalejší
+
+![[Pasted image 20231002132007.png]]
+
+- Různá prostředí -> *Frekvence konstantní*
+- *Vlnová délka* světla se v prostředí *n krát zmenší* oproti vlmové délce ve vakuu
+
+$$\frac{c}{\lambda_0}=\frac{v}{\lambda}\space\space\space\space\space\space\space\space\space\\n\frac{c}{v}=\frac{\lambda_0}{\lambda}$$
