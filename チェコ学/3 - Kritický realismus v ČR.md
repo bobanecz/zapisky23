@@ -109,27 +109,24 @@ d) doba národního obrození
 ##### F. L. Věk
 - pětidílný román
 - podává obraz počátků národního obrození (divadla, básnictví, vědy, vlastenectví…)
-- hlavním hrdinou je skutečná postava dobrušského kupce Františka Ladislava Heka
+- hlavním hrdinou je skutečná postava dobrušského kupce ==Františka Ladislava Heka==
 - odejde studovat do Prahy, seznámí se a přátelí se s řadou historických postav (V. Thám, V. M. Kramerius,
   Š. Hněvkovský, J. Dobrovský, také se pozná s Mozartem)
 - život na univerzitě ho zavede k divadlu a k hudbě, přivydělává si jako domácí učitel krásné, ale němé Pauly Butteauové, ta 
   však miluje Tháma
 - zanedbává školu, otec ho vezme ze studií a František se stane dobrušským kupcem
-- po otcově smrti se vydá do Prahy, Thámovu rodinu najde v úplném rozkladu (po narození dítěte se Paule
-  vrátila řeč, je však Thámovi nevěrná a ten pije)
+- po otcově smrti se vydá do Prahy, Thámovu rodinu najde v úplném rozkladu (po narození dítěte se Paule vrátila řeč, je však Thámovi nevěrná a ten pije)
 - při korunovaci Leopolda II. českým králem se sblíží se svou budoucí ženou Márinkou (z Dobrušky)
 - vrací se do Dobrušky a národně uvědomuje venkovský lid
 - v dalších dílech se stěžejní postavou stává jeho syn Václav
 
-Filozofská historie
+##### Filozofská historie
 - novela z cyklu Maloměstské historie
 - vypráví o životě litomyšlských studentů
 - popisuje události roku 1848 (boje na pražských barikádách), kterými je narušena idyla života mladých lidí, jejich lásek...
 - vlastenci x poněmčené měšťanstvo
 
-
-Drama
-
+#### Drama
 a) témata historická
 - husitská trilogie
 Jan Hus
@@ -137,9 +134,8 @@ Jan Žižka
 Jan Roháč
 	- osudy tří hrdinů husitské éry
 
-
 b) pohádkové hry
-Lucerna
+##### Lucerna
 - hra má vlastenecký charakter
 - pohádkový svět prostupuje světem panstva a poddaných
 - hrdý mlynář musí splnit svou povinnost - doprovodit s lucernou kněžnu do lesního zámečku
@@ -150,42 +146,44 @@ Lucerna
 
 
 
-Venkovská próza
-
+### Venkovská próza
 - navazuje na práce Němcové, Hálka, Světlé
 - podává obraz vesnice i s jejími nedostatky (generační spory, peněžní spory, vytrácejí se staré formy žití)
-- vesnice už není ideálním prostředím, zdrojem harmonie, ani protikladem zkaženého města, určitá idealizace ale přetrvává
+- vesnice ==už není ideálním== prostředím, zdrojem harmonie, ani protikladem zkaženého města, určitá idealizace ale přetrvává
 - literatura má regionální charakter - autor vyjadřuje vztah k určitému kraji
-- užívá se nářečí - to přispívá k charakteristice prostředí i postav
+- ==užívá se nářečí== - to přispívá k charakteristice prostředí i postav
 - píše se především povídka a román
+- ==Pamatujeme si především region, jako kdyby to někoho zajímalo duh==
 
-Karel Václav Rais (1859 - 1926)
-- narodil se v Podkrkonoší
-- vystudoval učitelský ústav a působil jako učitel na Českomoravské vysočině (Trhová Kamenice, Hlinsko)
+#### Karel Václav Rais (1859 - 1926)
+- narodil se v ==Podkrkonoší==
+- vystudoval učitelský ústav a působil jako učitel na ==Českomoravské vysočině== (Trhová Kamenice, Hlinsko)
 
 Tvorba
 - zobrazoval těžký život venkovanů v horských krajích (bídu, vztahy ovlivněné penězi, generační problémy…)
-- pojetí venkova je u Raise odlišné, rozhodující roli podle něho sehrála inteligence (učitelé, kněží…)
+- pojetí venkova je u Raise odlišné, ==rozhodující roli== podle něho sehrála ==inteligence== (učitelé, kněží…)
 - vylíčil i krásy horské krajiny (upozornil na tento kraj i výtvarné umělce - A. Slavíčka)
+- =="Dokáže být perfektně realistický"==
 
 a) povídkové soubory
 - zachycují generační konflikty, utrpení starých lidí odstrkovaných nevděčnými dětmi, touhu po majetku
-Výminkáři
-Rodiče a děti
+##### Výminkáři
+##### Rodiče a děti
 	- často až otřesné obrazy lidské tvrdosti, lakoty, sobectví, bezcitnosti
 b) romány
 - v románové tvorbě se soustředil na idylický obraz venkova v minulosti
 - zobrazoval obětavou a nezištnou práci vesnické inteligence (zvláště učitelů a farářů)
-Zapadlí vlastenci
+##### Zapadlí vlastenci
+- =="Sentimentální"==
 - román z Podkrkonoší, inspirován zápisky starého kantora, odehrává se na sklonku obrození
 - zapadlými vlastenci jsou farář, učitel a učitelský pomocník, kteří pomáhají šířit národní uvědomění horského lidu
-Západ
+##### Západ
 - psychologický román z Českomoravské vysočiny
 - popisuje závěr života venkovského faráře, jeho ušlechtilé působení mezi chudými
 - prožil mezi farníky přes 50 let, jeho jediným přáním je, aby měl pohřeb z fary, to se mu splnilo, zemřel v den stěhování
 
 - kontrastní k idylickým románům je 
-Kalibův zločin
+##### Kalibův zločin
 - román inspirovaný skutečnou událostí, kritický pohled na skutečnost, až naturalistický obraz mravního rozkladu
 - hlavní postavou je dobrácký starší mládenec Kaliba, ožení se s dívkou Karlou, která si ho vezme na nátlak matky
 - když se Kaliba dozví, že ho Karla podvádí a že dítě není jeho, zabije ji a sám umírá

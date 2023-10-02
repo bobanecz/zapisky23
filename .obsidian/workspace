@@ -6,10 +6,24 @@
       {
         "id": "39328985ec53dcaa",
         "type": "leaf",
+        "dimension": 63.99572649572649,
         "state": {
           "type": "markdown",
           "state": {
             "file": "チェコ学/3 - Kritický realismus v ČR.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "fba68f32fab087be",
+        "type": "leaf",
+        "dimension": 36.004273504273506,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "地理学/祭りたｗ/Maturitní otázka 3.md",
             "mode": "source",
             "source": false
           }
@@ -181,6 +195,8 @@
   },
   "active": "39328985ec53dcaa",
   "lastOpenFiles": [
+    "地理学/祭りたｗ/Maturitní otázka 3.md",
+    "チェコ学/3 - Kritický realismus v ČR.md",
     "地理学/祭りたｗ/Zjednodušený kavkaz.md",
     "地理学/祭りたｗ/Krize na Kavkaze v 90. letech.md",
     "物理学/Optika.md",
@@ -188,8 +204,6 @@
     "生物学/Genetika.md",
     "歴史学/Nacistické Německo.md",
     "英学/History of GB.md",
-    "物理学/Optika.pdf",
-    "英学/History of GB.pdf",
-    "化学/Untitled.md"
+    "物理学/Optika.pdf"
   ]
 }
