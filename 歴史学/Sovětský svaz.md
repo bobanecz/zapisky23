@@ -40,4 +40,3 @@
 		- Řadové obyvatelstvo
 		- Církevní hodnostáři
 - Zahraniční politika
-- 
