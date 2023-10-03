@@ -100,7 +100,7 @@
 	- Přináší teplo
 
 ### Obyvatelstvo
-- Jazyk = španělština 
+- Jazyk = Španělština
 - Římští katolíci
 - Prezidentské republiky
 - Argentina je nejlidnatější
@@ -137,6 +137,7 @@
 - Nejvyšší hora: Aconcagua (6961m. n. m.)
 - Laplatská nížina
 - Patagonia
+- Chaco
 - Pampy
 - Prérie
 
@@ -234,11 +235,44 @@
 - Vliv nadmořské výšky
 
 #### Zemědělství :
-- Sója, Rýže
-- Rýže, pšenice, kukuřice, slunečnice, řepa, ovoce a zelenina
-- Tuři, Ovce 
+- Sója, Rýže, Citrusy, Kukuřice, Slunečnice
+- Tuři, Ovce
+
+#### Průmysl:
+- Zpracování masa, ryb, mléčných výrobků, cukru, džusů a vína
+- Chemický průmysl a farmaceutický
+
+### Bolívie
+- Hlavní města
+	- Sucre dle ústavy
+	- La Paz - Sídlo vlády
+- 12,1 mil. obyvatel
+- HDP - 7 197 USD
+	- Nejchudší země Jižní Ameriky
+- Měna - Boliviano (~3.4czk) 
+- 35 Úředních jazyků
+- 59% Indiáni - Kečuové a Aymarové
+- Náboženství
+	- Římští katolíci 70%
+	- Protestanti 17.3%
+	- Ateisté 10%
+
+### Povrch:
+- Pohoří Andy
+- Amazonie
+- Chaco
+- Jezero Titicaca
+
+### Podnebí:
+- Tropické
+	- Léto srážky
+	- Zima sucho
+
+### Zemědělství:
+- Sójové boby, Káva, Cukrová třtina
+- Skot a prasata
 
 ### Průmysl :
-- Potravinářský průmysl, zpracování masa, ryb, mléčných výrobků, cukru, džusů a vína
-- Chemický průmysl a farmaceutický 
-- Křemen, v menší míře těží zlato, stříbro a wolfram
+- Petrolej
+- Zinek, Vzácné kovy, Olovo, Cín, Zlato, Stříbro
+- Výroba kávy, cukru
