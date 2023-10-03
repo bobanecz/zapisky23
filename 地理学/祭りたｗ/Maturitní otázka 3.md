@@ -129,28 +129,116 @@
 - HDP - 20 402 USD
 - 23 provincií a jedno autonomní město - Buenos Aires
 - Hustota zalidnění - 14,43 ob. / km² 
-- Měna - Argentinské peso
+- Měna - Argentinské peso (~0,05czk)
 - Náboženství - Římskokatolíci (93%)
+- Fotbal
 
-### Povrch:
+#### Povrch:
 - Nejvyšší hora: Aconcagua (6961m. n. m.)
 - Laplatská nížina
 - Patagonia
 - Pampy
 - Prérie
 
-### Zemědělství:
+#### Zemědělství:
 - Zemědělská oblast mezi řekami Paraná a Uruguay
 - Kukuřice, pšenice, sójové boby 
 - Chov ovcí, koz, skotů, koní, drůbeže, prasat
 
-### Průmysl: 
-- Výroba mléčných výrobků a vlny
+#### Průmysl:
+- Mléčné výrobky
+- Vlna
 - Elektrotechnický
-- Automobilový
 - Velký producent vína 
 - Těžba lithia, stříbra a dalších minerálů
 - Vlastní jaderný program
 
-### Služby:
-- Cestovní ruch
+### Peru
+- Hlavní město - Lima
+- 33.72 mil. obyvatel
+- HDP - 13 093 USD
+- Měna - Sol (~6czk)
+- Náboženství - Římskokatolíci (76%)
+
+#### Povrch:
+- Poušť Sechura
+- Andy
+- Amazonská nížina 
+- Jezero Titicaca
+
+#### Podnebí:
+- Při pobřeží chladno sucho
+- Severovýchod - Horko, Sucho
+- Ovlivněno nadmořskou výškou 
+
+#### Zemědělství:
+- 36% lidí v zemědělství, 
+- Pastevectví ovcí, lam a alpak
+- Cukrová třtina, Bavlník, Vinná réva, Rýže, Tabák, Olivy
+- Rybolov
+
+#### Průmysl:
+- Těžba  mědi, stříbra, železa, zlata, ropy, uhlí
+- Průmysl potravinářský a textilní
+- Výroba cementu, oceli, stavba lodí, montáž aut
+- Hydroelektrárny
+
+### Chile
+- Hlavní  město - Santiago de Chile
+- 19.49 mil. obyvatel
+- HDP - 23 661 USD
+- Měna - Chilské peso (~0.025czk) 
+- Náboženství
+	- Římští katolíci 75%
+	- Protestanti 13 %,
+	- Bez vyznání 6 %
+
+#### Povrch:
+- Andy
+- Poušť Atacama
+- Magalhãesův region
+- Darwinovo pohoří
+
+#### Podnebí:
+- Ze severu na jih teplota klesá
+- Málo srážek na Severu
+- Až 7000mm srážek na Jihu
+
+#### Zemědělství:
+- Rybolov - losos, sardinky, makrely
+- Chov skotů, prasat
+- Víno
+
+#### Průmysl:
+- Těžba a zpracování mědi
+- Zlato
+- Zpracovávání železa a oceli
+
+### Uruguay
+- Hl. město - Montevideo 
+- 3.44 mil. obyvatel 
+- HDP - 22 148 USD
+- Měna - Uruguayské peso (~0.6czk)
+- Náboženství - Římští katolíci 66 %
+
+#### Povrch
+- Brazilska vysočina
+- Pohoří Carapé 
+
+#### Vodstvo:
+- Uruguay, Rio de la Plata, Negro, řeka Yí a řeka Santa Lucia
+
+#### Podnebí :
+- Sever - Subtropické
+- Jih - Mírné
+- Vliv nadmořské výšky
+
+#### Zemědělství :
+- Sója, Rýže
+- Rýže, pšenice, kukuřice, slunečnice, řepa, ovoce a zelenina
+- Tuři, Ovce 
+
+### Průmysl :
+- Potravinářský průmysl, zpracování masa, ryb, mléčných výrobků, cukru, džusů a vína
+- Chemický průmysl a farmaceutický 
+- Křemen, v menší míře těží zlato, stříbro a wolfram
