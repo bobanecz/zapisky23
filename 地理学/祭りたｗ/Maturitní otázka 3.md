@@ -84,6 +84,7 @@
 - Na jihu pouště a polopouště 
 - Pampy a Prérie
 - Lesy a Pralesy
+- Na jihu Ledovce
 
 ### Vodstvo
 - Největší řeka - Paraná
@@ -93,7 +94,8 @@
 - Mezi Tropickým až po začátek subtropického pásu
 - Silný vliv nadmořské výšky
 - Na západě oblasti v Andách velmi nízké srážky
-- Na jihu velmi vysoké srážky
+- Na jihu velmi vysoké srážky v létě
+	- Západ od And
 - Vliv El nino
 	- Přináší teplo
 
@@ -119,3 +121,36 @@
 	- Největší ekonomická oblast
 - Uruguay
 	- Maso, Ovoce, Dřevo
+
+### Argentina
+- Hlavní město - Buenos Aires
+- Rozloha - 2 780 400 km²
+- 45.81 mil. obyvatel
+- HDP - 20 402 USD
+- 23 provincií a jedno autonomní město - Buenos Aires
+- Hustota zalidnění - 14,43 ob. / km² 
+- Měna - Argentinské peso
+- Náboženství - Římskokatolíci (93%)
+
+### Povrch:
+- Nejvyšší hora: Aconcagua (6961m. n. m.)
+- Laplatská nížina
+- Patagonia
+- Pampy
+- Prérie
+
+### Zemědělství:
+- Zemědělská oblast mezi řekami Paraná a Uruguay
+- Kukuřice, pšenice, sójové boby 
+- Chov ovcí, koz, skotů, koní, drůbeže, prasat
+
+### Průmysl: 
+- Výroba mléčných výrobků a vlny
+- Elektrotechnický
+- Automobilový
+- Velký producent vína 
+- Těžba lithia, stříbra a dalších minerálů
+- Vlastní jaderný program
+
+### Služby:
+- Cestovní ruch
