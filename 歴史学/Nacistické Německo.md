@@ -39,4 +39,3 @@
 
 #### Upevnění moci
 - Výchova mládeže
-- 

@@ -3,5 +3,6 @@
     "image_center",
     "print bg"
   ],
-  "cssTheme": "YYng"
+  "cssTheme": "YYng",
+  "baseFontSize": 21
 }

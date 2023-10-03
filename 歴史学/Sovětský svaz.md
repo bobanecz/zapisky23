@@ -1,0 +1,43 @@
+# Sovětský svaz
+- Stalin
+- Kolektivizace
+- ____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+- Boj o politickou moc
+	- Soupeř L.D.Trockij
+		- Zavražděn cepínem v Mexiku
+- Forma vlády založena na Stalinově vizi
+	- Totalita
+- Centrální řízení ekonomiky
+	- Kolektivizace a Industrializace
+	- Jednotná ideologie
+- Represivní složky
+- Tajná poliice
+- Kult osobnosti
+- Proměna ekonomiky
+	- NEP
+		- Nová Ekonomická Politika
+			- Zrušena
+	- Kolektivizace
+		- Sovchozy, Kolchozy - Státní družstva, Kolektivní zemědělská sídla
+			- Robota
+		- Kulaci
+			- Nejbohatší části rolníků
+			- Vyvražďováni
+		- Zákaz stěhování do měst
+	- 1. Pětiletý plán
+		- Indistrializace
+		- Centrální plánování
+		- Údernické hnutí
+- Stalinské čistky
+	- "Moskevské politické procesy"
+	- Týrání
+	- Přiznání
+	- Cíle
+		- Ve straně
+			- Kirov, Bucharin, Ježov, Kameněv
+		- Kominterna
+		- Armáda
+		- Řadové obyvatelstvo
+		- Církevní hodnostáři
+- Zahraniční politika
+- 
