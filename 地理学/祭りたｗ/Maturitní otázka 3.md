@@ -18,9 +18,16 @@
 	- Coriolisovy síly
 	- Střídání dne a noci
 		- Cirkadiánní rytmus u živočichů a rostlin
-	- Časová pásma
-		- Důsledek 
-		- Úhlove rychlosti zeme, kolik pasem, podle ceho vznikaji, datova mez
+	- *Časová pásma*
+		- Rodzělují zemi po 15° z.d.
+		- Odvijí se od úhlové rychlosti rotace země
+		- Čas se počítá od GMT v Greenwichi
+		- Všude mezi GMT+14 a GMC-12
+		- Ne striktně geografické
+			- Aby malé státy neměly dvě zóny
+		- *Datová mez*
+			- Kolem 180° z.d.
+			- Posun o 24h
 	- *Slapové jevy*
 	- Země je trošku zploštělá
 #### Precese a nutace
@@ -42,7 +49,7 @@
 
 ### Oběh kolem slunce
 - Oběh kolem slunce ve tvaru elipsy
-- Vzdálenost mezi Zemí a Sluncem se pohybuje v rozmezí 147 097 000 km až do 152 099 000 km
+- Vzdálenost mezi Zemí a Sluncem se pohybuje v rozmezí 147 097 000 km (perihelium) až do 152 099 000 km (afelium)
 	- Průměrná vzdálenost (149 597 870 700 km) se nazývá astronomická jednotka (AU)
 - Jarní bod - Místo, kde se slunce nachází v době jarní rovnodennosti
 - Siderický rok - Doba za kterou země oběhne slunce vůči hvězdám (365d 6h 9min 9s)
@@ -50,9 +57,21 @@
 	- Přestupné roky
 		- Každé 4 roky
 		- Cenetární roky (...00) jsou přestupné pouze pokud jsou dělitelné 400
+- Důležité dny
+	- Jarní rovnodennost - 20.-21.3.
+	- Podzimní rovnodennost - 22.-23.3.
+	- Perihelium - 3.-4.1.
+		- Země nejdále od slunce
+	- Afélium - 3.-4.7.
+		- Země nejblíže slunci
+	- Letní slunovrat - 20.-21.6.
+		- 
+	- Zimní slunovrat - 21.-22.12.
 - Důsledky:
 	- Změna ročních období
 	- Změna délky dne v různých částech roku
+
+![[Pasted image 20231004222956.png]]
 
 ### Slapové jevy
 - Mění se pohybem jak měsíce kolem země, tak země kolem své osy
