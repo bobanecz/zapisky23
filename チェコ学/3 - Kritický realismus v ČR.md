@@ -222,47 +222,50 @@ Próza z městského prostředí
 - na zpodobňování města se soustředili už májovci (Neruda, Arbes)
 - všichni autoři vycházeli z prostředí Prahy, zachycovali dobovou atmosféru
 
-Ignát Herrmann (1854 - 1939)
+#### Ignát Herrmann (1854 - 1939)
  - prozaik a žurnalista
 - psal především humoristickou prózu (smysl pro humorné situace)
 - drobné žánrové obrázky, mistrně charakterizoval postavy, idealizace, soucitný tón
 - zobrazoval typy lidiček žijících maloměstským stylem (starost o dobré živobytí, společenský vzestup…)
 
-U snědeného krámu
+##### U snědeného krámu 1890
 - román s autobiografickými prvky (vyučil se kupcem)
 - tragédie důvěřivého muže ožebračeného ženou
-- Martin Žemla byl v mládí kupeckým učněm, touží po vlastní živnosti, otevře si malý obchod
+- Martin ==Žemla== byl v mládí kupeckým učněm, touží po vlastní živnosti, otevře si malý obchod
 - stane se však kořistí vypočítavých žen, paní Šustrové a její dcery Pavlínky, která si ho vezme jen kvůli obchodu
+- chtěla se zbavit matky
 - nenajde v sobě sílu ženám odporovat, zdrcen perspektivou bankrotu spáchá sebevraždu, Pavlína skončí jako prostitutka
+- prvky naturalismu
 
 
-Karel Matěj Čapek - Chod  (1860 - 1927)
+#### Karel Matěj Čapek-Chod  (1860 - 1927)
+- "==Čapek-Chod=="
 - k odlišení od Karla Čapka si dal přídomek Chod
 - narodil se v Domažlicích, v Praze studoval práva, ale nedokončil, stal se žurnalistou a spisovatelem
 
 Tvorba
-- je představitelem naturalismu v české literatuře
+- je ==představitelem naturalismu== v české literatuře
 - čeští naturalisté si vybírali postavy sobců, surových opilců, zvrhlých synů...
 - hrdinové jsou determinováni podmínkami okolí, prostředí je ubíjí
 - spisovatelé chtějí zaujmout drastickými scénami, hrubšími výrazy
 - od světového naturalismu se český liší lidským soucitem
 
-Kašpar Lén mstitel
-- román, tragický příběh zedníka Léna - mstitele, vraha
+##### Kašpar Lén mstitel
+(KLm)
 - měl jediného přítele, zedníka Kryštofa, ten se však ze zoufalství utopil, protože jeho dcera Mařka se stala prostitutkou
-- když se Lén dozví, že Mařku zkazil vychytralý kupec, rozhodne se mu pomstít
+- když se Lén dozví, že Mařku zkazil vychytralý kupec konopík, rozhodne se mu pomstít
 - pracuje na stavbě kupcova domu a hodí na něho cihlu, než může být odsouzen, umírá
 
 - naturalismem byli ovlivněni i další autoři
 
-Josef Karel Šlejhar (1894 - 1914)
+#### Josef Karel Šlejhar (1894 - 1914)
 - proslavil se povídkou s autobiografickými rysy
 Kuře melancholik
 - paralela mezi trpícím dítětem a nemocným kuřetem
 - obraz bezcitnosti a surovosti lidí, kteří si vybíjejí zlost na bezbranném sirotkovi
 
 
-Realistické drama
+### Realistické drama
 
 - rozmach dramatické tvorby nastal v 60. letech v souvislosti s otevřením Prozatímního divadla (1862)
 - 70. - 80. léta = generace Národního divadla, v roce 1883 bylo Národní divadlo definitivně otevřeno
@@ -271,7 +274,7 @@ Realistické drama
 
 - vynikajících úspěchů v ND i na jiných scénách dosáhl první dramaturg Národního divadla
 
-Ladislav Stroupežnický (1850 - 1892)
+#### Ladislav Stroupežnický (1850 - 1892)
 - prozaik a dramatik
 - pocházel z jižních Čech
 - po neúspěšném pokusu o sebevraždu (v 17 letech) zůstal trvale zohyzděn v obličeji
@@ -304,7 +307,7 @@ Její pastorkyňa
 Hlavní postavou je Buryjovka - zvaná Kostelnička. V mládí se zamilovala do necharakterního mladíka, který ji nechal být. Starala se o schovanku Jenůfu (schovanka = pastorkyňa). Ta se zamiluje do bratrance Števy, ale ten si ji nevezme. Kostelnička chce zabránit hanbě. Lidem namluví, že Jenůfa odjela do Vídně, a když se jí narodí dítě, odnese ho pryč a hodí pod led. Jenůfě řekne, že dítě zemřelo. Vina Kostelničky vyjde najevo a musí do vězení. Jenůfa se provdá za Števova bratra, hodného Laca, který ji měl rád a před lidmi ji bránil.
 
 
-Alois a Vilém Mrštíkovi (1861 - 1925, 1863 - 1912)
+#### Alois a Vilém Mrštíkovi (1861 - 1925, 1863 - 1912)
 - oba se narodili v Jimramově, přestěhovali se do Ostrovačic
 - společně se věnovali literární tvorbě
 - Vilémova umělecká i osobní krize vedla ke spáchání sebevraždy
