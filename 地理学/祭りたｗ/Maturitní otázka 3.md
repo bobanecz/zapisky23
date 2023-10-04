@@ -110,18 +110,22 @@
 - Leží v jižní části Jižní Ameriky
 
 ### Povrch
-- Peru, Chile a Argentina mají dlouhé pobřeží
-- Pohoří Andy
+- Kromě Bolívie přímořské státy
+	- Tichý oceán na západě
+	- Atlantský oceán na východě
+- Andy
 - Laplatská Nížina
 - Na západě nízká kvalita půdy
 - Na jihu pouště a polopouště 
 - Pampy a Prérie
 - Lesy a Pralesy
 - Na jihu Ledovce
+- Čím jižněji, tím vyšší členitost
 
 ### Vodstvo
 - Největší řeka - Paraná
 - Jezero Ticataca
+- Drakeův průliv
 
 ### Podnebí
 - Mezi Tropickým až po začátek subtropického pásu
@@ -133,37 +137,26 @@
 	- Přináší teplo
 
 ### Obyvatelstvo
-- Jazyk = Španělština
-- Římští katolíci
-- Prezidentské republiky
-- Argentina je nejlidnatější
-	- Nejvíce obyvatel v Buenos aires
-	- Třetina obyvatel v aglomeraci
 - Poměrně velký přírůstek obyvatel
 
 ### Ekonomika
 - Chile, Argentina a Uruguay v poměru se zbytkem J. Ameriky bohaté
 - Bolívie a Peru Patří mezi nejchudší státy v J. Americe
-- Mnoho obyvatel v zemědělství
-	- Peru a bolívie mají více než 1/4 obyvatel v zemědělství
-	- Ostatní státy mezi 5 a 15 procenty
 - Těžba surovin
-	- Barevné kovy, Železná ruda, Zlato
-- Buenos aires
-	- Turistický ruch
-	- Největší ekonomická oblast
-- Uruguay
-	- Maso, Ovoce, Dřevo
 
 ### Argentina
 - Hlavní město - Buenos Aires
+- Federativní prezidentská republika
 - Rozloha - 2 780 400 km²
 - 45.81 mil. obyvatel
 - HDP - 20 402 USD
+- Jazyk - Španělština
 - 23 provincií a jedno autonomní město - Buenos Aires
 - Hustota zalidnění - 14,43 ob. / km² 
 - Měna - Argentinské peso (~0,05czk)
 - Náboženství - Římskokatolíci (93%)
+- Nejvíce obyvatel v Buenos aires
+	- 15mil. v aglomeraci
 - Fotbal
 
 #### Povrch:
@@ -188,12 +181,17 @@
 - Těžba lithia, stříbra a dalších minerálů
 - Vlastní jaderný program
 
+![[Pasted image 20231005001034.png]]
+
 ### Peru
 - Hlavní město - Lima
+- Prezidentská republika
+- Jazyk - Španělština a Kečuánština
 - 33.72 mil. obyvatel
 - HDP - 13 093 USD
 - Měna - Sol (~6czk)
 - Náboženství - Římskokatolíci (76%)
+- Kečuové
 
 #### Povrch:
 - Poušť Sechura
@@ -218,10 +216,14 @@
 - Výroba cementu, oceli, stavba lodí, montáž aut
 - Hydroelektrárny
 
+![[Pasted image 20231005001104.png]]
+
 ### Chile
 - Hlavní  město - Santiago de Chile
+- Prezidentská republika
 - 19.49 mil. obyvatel
 - HDP - 23 661 USD
+- Jazyk - Španělština
 - Měna - Chilské peso (~0.025czk) 
 - Náboženství
 	- Římští katolíci 75%
@@ -250,8 +252,12 @@
 - Zlato
 - Zpracovávání železa a oceli
 
+![[Pasted image 20231005001145.png]]
+
 ### Uruguay
-- Hl. město - Montevideo 
+- Hl. město - Montevideo
+- Prezidentská republika
+- Jazyk - Španělština
 - 3.44 mil. obyvatel 
 - HDP - 22 148 USD
 - Měna - Uruguayské peso (~0.6czk)
@@ -278,10 +284,13 @@
 - Zpracování masa, ryb, mléčných výrobků, cukru, džusů a vína
 - Chemický průmysl a farmaceutický
 
+![[Pasted image 20231005001235.png]]
+
 ### Bolívie
 - Hlavní města
 	- Sucre dle ústavy
 	- La Paz - Sídlo vlády
+- Prezidentská republika
 - 12,1 mil. obyvatel
 - HDP - 7 197 USD
 	- Nejchudší země Jižní Ameriky
@@ -305,6 +314,7 @@
 	- Zima sucho
 
 #### Zemědělství:
+- 29.3% Zaměstnanost
 - Sójové boby, Káva, Cukrová třtina
 - Skot a prasata
 
@@ -312,3 +322,5 @@
 - Petrolej
 - Zinek, Vzácné kovy, Olovo, Cín, Zlato, Stříbro
 - Výroba kávy, cukru
+
+![[Pasted image 20231005001307.png]]
