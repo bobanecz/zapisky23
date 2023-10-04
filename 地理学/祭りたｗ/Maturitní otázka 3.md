@@ -52,26 +52,37 @@
 - Vzdálenost mezi Zemí a Sluncem se pohybuje v rozmezí 147 097 000 km (perihelium) až do 152 099 000 km (afelium)
 	- Průměrná vzdálenost (149 597 870 700 km) se nazývá astronomická jednotka (AU)
 - Jarní bod - Místo, kde se slunce nachází v době jarní rovnodennosti
-- Siderický rok - Doba za kterou země oběhne slunce vůči hvězdám (365d 6h 9min 9s)
-- Tropický rok - Doba než Slunce dvakrát projde jarním bodem
-	- Přestupné roky
-		- Každé 4 roky
-		- Cenetární roky (...00) jsou přestupné pouze pokud jsou dělitelné 400
+- Přestupné roky
+	- Každé 4 roky
+	- Cenetární roky (...00) jsou přestupné pouze pokud jsou dělitelné 400
+![[Pasted image 20231004222956.png]]
 - Důležité dny
 	- Jarní rovnodennost - 20.-21.3.
+		- S - Dny se začínají prodlužovat
+		- J - Dny se začínají krátit
 	- Podzimní rovnodennost - 22.-23.3.
+		- S - Dny se začínají krátit
+		- J - Dny se začínají prodlužovat
 	- Perihelium - 3.-4.1.
 		- Země nejdále od slunce
 	- Afélium - 3.-4.7.
 		- Země nejblíže slunci
 	- Letní slunovrat - 20.-21.6.
-		- 
+		- Zemská osa je v největší deklinaci vůči slunci
+		- Většina slunečních paprsků dopadá na severní polokouli
+		- S - Nejdelší den
+		- J - Nejkratší den
 	- Zimní slunovrat - 21.-22.12.
+		- Zemská osa je v nejmenší deklinaci vůči slunci
+		- Většina slunečních paprsků dopadá na jižní polokouli
+		- S - Nejkratší den
+		- J - Nejdelší den
 - Důsledky:
 	- Změna ročních období
 	- Změna délky dne v různých částech roku
+	- Rozdíly mezi severní a jižní polokoulí
+![[Pasted image 20231004230057.png]]
 
-![[Pasted image 20231004222956.png]]
 
 ### Slapové jevy
 - Mění se pohybem jak měsíce kolem země, tak země kolem své osy
@@ -164,6 +175,7 @@
 - Prérie
 
 #### Zemědělství:
+- 5.3% obyvatel
 - Zemědělská oblast mezi řekami Paraná a Uruguay
 - Kukuřice, pšenice, sójové boby 
 - Chov ovcí, koz, skotů, koní, drůbeže, prasat
@@ -195,7 +207,7 @@
 - Ovlivněno nadmořskou výškou 
 
 #### Zemědělství:
-- 36% lidí v zemědělství, 
+- 25% lidí v zemědělství, 
 - Pastevectví ovcí, lam a alpak
 - Cukrová třtina, Bavlník, Vinná réva, Rýže, Tabák, Olivy
 - Rybolov
@@ -228,6 +240,7 @@
 - Až 7000mm srážek na Jihu
 
 #### Zemědělství:
+- 10% Zaměstnanost
 - Rybolov - losos, sardinky, makrely
 - Chov skotů, prasat
 - Víno
@@ -257,6 +270,7 @@
 - Vliv nadmořské výšky
 
 #### Zemědělství :
+- 13% Zaměstnanost
 - Sója, Rýže, Citrusy, Kukuřice, Slunečnice
 - Tuři, Ovce
 
@@ -279,22 +293,22 @@
 	- Protestanti 17.3%
 	- Ateisté 10%
 
-### Povrch:
+#### Povrch:
 - Pohoří Andy
 - Amazonie
 - Chaco
 - Jezero Titicaca
 
-### Podnebí:
+#### Podnebí:
 - Tropické
 	- Léto srážky
 	- Zima sucho
 
-### Zemědělství:
+#### Zemědělství:
 - Sójové boby, Káva, Cukrová třtina
 - Skot a prasata
 
-### Průmysl :
+#### Průmysl :
 - Petrolej
 - Zinek, Vzácné kovy, Olovo, Cín, Zlato, Stříbro
 - Výroba kávy, cukru
