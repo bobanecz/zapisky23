@@ -19,7 +19,8 @@
 	- Střídání dne a noci
 		- Cirkadiánní rytmus u živočichů a rostlin
 	- Časová pásma
-		- 
+		- Důsledek 
+		- Úhlove rychlosti zeme, kolik pasem, podle ceho vznikaji, datova mez
 	- *Slapové jevy*
 	- Země je trošku zploštělá
 #### Precese a nutace
