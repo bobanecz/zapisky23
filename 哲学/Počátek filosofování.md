@@ -13,3 +13,5 @@
 	- Filosof může vycházet pouze z přirozených poznávacích schopností člověka
 4) Umění
 	- Někteří používali umění k vyjádření věcí
+
+Pythagoras: Všechno je kvantifikovatelné
