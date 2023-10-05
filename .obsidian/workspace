@@ -4,22 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "71c1cba15c7ce002",
-        "type": "leaf",
-        "dimension": 78.63247863247864,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "哲学/Počátek filosofování.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "d7a13c9b4bc13503",
         "type": "leaf",
-        "dimension": 21.367521367521366,
         "state": {
           "type": "markdown",
           "state": {
