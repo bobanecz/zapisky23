@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ドラマ/Strach.md",
+            "file": "英学/EU.md",
             "mode": "source",
             "source": false
           }
@@ -70,6 +70,7 @@
       {
         "id": "a804d557d109a8e0",
         "type": "tabs",
+        "dimension": 36.84210526315789,
         "children": [
           {
             "id": "766566fc577bde26",
@@ -77,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ドラマ/Strach.md",
+                "file": "英学/EU.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -100,7 +101,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.08861419585161692,
+                  "scale": 0.2504592940110345,
                   "close": true
                 }
               }
@@ -119,6 +120,7 @@
       {
         "id": "24188272da54f83f",
         "type": "tabs",
+        "dimension": 63.1578947368421,
         "children": [
           {
             "id": "48d3e35ce567a099",
@@ -126,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ドラマ/Strach.md",
+                "file": "英学/EU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ドラマ/Strach.md",
+                "file": "英学/EU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ドラマ/Strach.md"
+                "file": "英学/EU.md"
               }
             }
           }
@@ -177,17 +179,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "d7a13c9b4bc13503",
+  "active": "766566fc577bde26",
   "lastOpenFiles": [
-    "哲学/Počátek filosofování.md",
-    "ドラマ/Strach.md",
-    "地理学/祭りたｗ/Maturitní otázka 3.md",
+    "Pasted image 20230922074401.png",
+    "英学/EU.md",
+    "英学/History of GB.md",
     "チェコ学/3 - Kritický realismus v ČR.md",
+    "ドラマ/Strach.md",
+    "哲学/Počátek filosofování.md",
+    "地理学/祭りたｗ/Maturitní otázka 3.md",
     "歴史学/Sovětský svaz.md",
     "歴史学/Nacistické Německo.md",
-    "チェコ学/2 - Rucháči a lumíráči.md",
-    "物理学/Optika.md",
-    "地理学/祭りたｗ/Zjednodušený kavkaz.md",
-    "地理学/祭りたｗ/Krize na Kavkaze v 90. letech.md"
+    "チェコ学/2 - Rucháči a lumíráči.md"
   ]
 }
