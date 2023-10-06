@@ -1,0 +1,21 @@
+# Španělská Občanská Válka
+- Do roku 1913 monarchií
+- Republikáni (L)
+- Frankisté (P)
+	- Nacionalisté
+	- Falanga
+	- Monarchisté
+- 1936 - Lidová Fronta - reformy & protesty
+-  Občanská válka
+	- Velká propaganda
+	- Brutalita
+	- Pád Madridu 1939
+	-  Interbrigadisté
+		- Mezinárodní pomoc
+	- Itálie a německo podporují
+	- Guernika
+		- Trh
+		- Bombardováno
+		- Civilisté
+		- Luft waffle
+![[Pasted image 20231006104525.png]]

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "物理学/Optika.md",
+            "file": "歴史学/Španělská Občanská Válka.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "物理学/Optika.md",
+                "file": "歴史学/Španělská Občanská Válka.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "物理学/Optika.md",
+                "file": "歴史学/Španělská Občanská Válka.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "物理学/Optika.md",
+                "file": "歴史学/Španělská Občanská Válka.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "物理学/Optika.md"
+                "file": "歴史学/Španělská Občanská Válka.md"
               }
             }
           }

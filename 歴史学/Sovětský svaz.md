@@ -40,3 +40,14 @@
 		- Řadové obyvatelstvo
 		- Církevní hodnostáři
 - Zahraniční politika
+	- Prolomení diplomatické izolace
+		- Rapall
+	- Diplomatické vztahy
+	- Kolektivní bespečnost
+		- Politika vzájemných smluv -> garance míru
+		- Neúspěšná
+		- S francií a čs první svazky
+	- Společnost národů
+	- Kominterna - Interbrigády ve Španělsku
+	- Sbližování s Hitlerem -> *Pakt o neútočení* ~ Ribbentrop Molotov
+
