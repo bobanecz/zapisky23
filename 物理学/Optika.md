@@ -98,4 +98,12 @@ Disperze světla
 - *Vlnová délka* světla se v prostředí *n krát zmenší* oproti vlmové délce ve vakuu
 
 $$\frac{c}{\lambda_0}=\frac{v}{\lambda}\space\space\space\space\space\space\space\space\space\\n\frac{c}{v}=\frac{\lambda_0}{\lambda}$$
+- *Interference*
+	- Konstruktivní
+		- Vlnění se *zvětší*
+	- Destruktivní
+- Vidíme jen *koherentní světlo*
+	- Fázový rozdíl je stejný
+- Fáze se rychle mění -> *Různý obrazec*
+- Youngův interferenční pokus
 - 
