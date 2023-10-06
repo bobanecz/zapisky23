@@ -79,4 +79,15 @@
 
 #### Advantages of EU
 - Use phone
+- protecc
+- food standards
+- mord, live, stufy shop everywhere
+- subsidies - could be negative
+
+#### Symbols
+- Flag
+- Ode to joy喜びの歌
+- Motto
+	- "United in Diversity"
+	- In all the 24 languages
 - 
