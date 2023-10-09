@@ -52,35 +52,70 @@
 - Vzdálenost mezi Zemí a Sluncem se pohybuje v rozmezí 147 097 000 km (perihelium) až do 152 099 000 km (afelium)
 	- Průměrná vzdálenost (149 597 870 700 km) se nazývá astronomická jednotka (AU)
 - Jarní bod - Místo, kde se slunce nachází v době jarní rovnodennosti
+- Polární noc & den
+	- 66°33′ sš a jš
 - Přestupné roky
 	- Každé 4 roky
 	- Cenetární roky (...00) jsou přestupné pouze pokud jsou dělitelné 400
 ![[Pasted image 20231004222956.png]]
-- Důležité dny
-	- Jarní rovnodennost - 20.-21.3.
-		- S - Dny se začínají prodlužovat
-		- J - Dny se začínají krátit
-	- Podzimní rovnodennost - 22.-23.3.
-		- S - Dny se začínají krátit
-		- J - Dny se začínají prodlužovat
-	- Perihelium - 3.-4.1.
-		- Země nejdále od slunce
-	- Afélium - 3.-4.7.
-		- Země nejblíže slunci
-	- Letní slunovrat - 20.-21.6.
-		- Zemská osa je v největší deklinaci vůči slunci
-		- Většina slunečních paprsků dopadá na severní polokouli
-		- S - Nejdelší den
-		- J - Nejkratší den
-	- Zimní slunovrat - 21.-22.12.
-		- Zemská osa je v nejmenší deklinaci vůči slunci
-		- Většina slunečních paprsků dopadá na jižní polokouli
-		- S - Nejkratší den
-		- J - Nejdelší den
-- Důsledky:
-	- Změna ročních období
-	- Změna délky dne v různých částech roku
-	- Rozdíly mezi severní a jižní polokoulí
+#### Důležité dny
+- **Jarní rovnodennost** - 20.-21.3.
+	- Paprsky dopadají kolmo na osu země
+	- Délka dne a noci stejná  - 12h
+	- Severní polokoule
+		- Dny se začínají prodlužovat
+		- Začíná polární den
+		- Jaro
+	- Jižní polokoule
+		- Dny se začínají krátit
+		- Začíná polární noc
+		- Podzim
+
+- **Podzimní rovnodennost** - 22.-23.3.
+	- Paprsky dopadají kolmo na osu země
+	- Délka dne a noci stejná - 12h
+	- Severní polokoule
+		- Dny se začínají krátit
+		- Začíná polární noc
+		- Podzim
+	- Jižní polokoule
+		- Dny se začínají prodlužovat
+		- Začíná polární den
+		- Jaro
+- Perihelium - 3.-4.1.
+	- Země nejdále od slunce
+- Afélium - 3.-4.7.
+	- Země nejblíže slunci
+
+- **Letní slunovrat** - 20.-21.6.
+	- Zemská osa je v největší deklinaci vůči slunci
+		~ 23,45°
+	- Většina slunečních paprsků dopadá na severní polokouli
+	- Severní polokoule
+		- Nejdelší den
+		- Střed polárního dne
+		- Léto
+	- Jižní polokoule
+		- Nejkratší den
+		- Střed polární noci
+		- Zima
+	- Na jižní polokouli za polárním kruhem polární noc
+
+- **Zimní slunovrat** - 21.-22.12.
+		~ -23,45°
+	- Zemská osa je v nejmenší deklinaci vůči slunci
+	- Většina slunečních paprsků dopadá na jižní polokouli
+	- Severní polokoule
+		- Nejkratší den
+		- Střed polární noci
+	- Jižní polokoule
+		- Nejdelší den
+		- Střed polárního dne
+
+#### Důsledky:
+- Změna ročních období
+- Změna délky dne v různých částech roku
+- Rozdíly mezi severní a jižní polokoulí
 ![[Pasted image 20231004230057.png]]
 
 

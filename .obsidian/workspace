@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f179340b2a46ee34",
+        "id": "9b761fc078dcfa31",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "地理学/祭りたｗ/Maturitní otázka 3.md",
+            "file": "生物学/Genetické pojmy.md",
             "mode": "source",
             "source": false
           }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "42ef0a35763c7227",
@@ -79,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "地理学/祭りたｗ/Maturitní otázka 3.md",
+                "file": "生物学/Genetické pojmy.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -129,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "地理学/祭りたｗ/Maturitní otázka 3.md",
+                "file": "生物学/Genetické pojmy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "地理学/祭りたｗ/Maturitní otázka 3.md",
+                "file": "生物学/Genetické pojmy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "地理学/祭りたｗ/Maturitní otázka 3.md"
+                "file": "生物学/Genetické pojmy.md"
               }
             }
           }
@@ -178,20 +177,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "1296702ef31ca976",
+  "active": "9b761fc078dcfa31",
   "lastOpenFiles": [
+    "地理学/祭りたｗ/Maturitní otázka 3.md",
+    "生物学/Genetické pojmy.md",
+    "生物学/Genetika.md",
     "地理学/祭りたｗ/Zjednodušený kavkaz.md",
     "化学/Untitled.md",
     "歴史学/Španělská Občanská Válka.md",
     "歴史学/Sovětský svaz.md",
     "物理学/Optika.md",
     "英学/EU.md",
-    "Pasted image 20230922074401.png",
-    "英学/History of GB.md",
-    "チェコ学/3 - Kritický realismus v ČR.md",
-    "ドラマ/Strach.md"
+    "Pasted image 20230922074401.png"
   ]
 }

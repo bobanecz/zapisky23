@@ -33,3 +33,23 @@ uši
 thyroxin
 kde spermie?
 varlata
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
