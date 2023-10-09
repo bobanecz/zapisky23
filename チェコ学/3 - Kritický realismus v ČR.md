@@ -260,20 +260,18 @@ Tvorba
 
 #### Josef Karel Šlejhar (1894 - 1914)
 - proslavil se povídkou s autobiografickými rysy
-Kuře melancholik
+##### Kuře melancholik
 - paralela mezi trpícím dítětem a nemocným kuřetem
 - obraz bezcitnosti a surovosti lidí, kteří si vybíjejí zlost na bezbranném sirotkovi
-
+- nebrat k maturiě
 
 ### Realistické drama
-
 - rozmach dramatické tvorby nastal v 60. letech v souvislosti s otevřením Prozatímního divadla (1862)
 - 70. - 80. léta = generace Národního divadla, v roce 1883 bylo Národní divadlo definitivně otevřeno
 - hrály se zde především módní francouzské konverzační veselohry nebo patetické tragédie z národních dějin
 - novým proudům se divadlo otvíralo zvolna
 
 - vynikajících úspěchů v ND i na jiných scénách dosáhl první dramaturg Národního divadla
-
 #### Ladislav Stroupežnický (1850 - 1892)
 - prozaik a dramatik
 - pocházel z jižních Čech
@@ -313,8 +311,7 @@ Hlavní postavou je Buryjovka - zvaná Kostelnička. V mládí se zamilovala do 
 - Vilémova umělecká i osobní krize vedla ke spáchání sebevraždy
 
 Společná tvorba
-
-Maryša
+##### Maryša
 - realistická tragédie ze slovácké vesnice
 - o úloze peněz a síle předsudků v tehdejším životě
 - Maryša je rodiči donucena ke sňatku se starým mlynářem Vávrou, miluje však Francka
