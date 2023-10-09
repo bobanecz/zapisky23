@@ -39,4 +39,14 @@
 
 - Genom
 	- Soubor genů v jádře
-	- Jaderný gen
+	- Jaderný genom a mimojaderný genom
+	- Semiautonomní organely
+		- Mitochondrie
+		- Plastidy
+	- Výjimka prokariotická buňka
+	- Jeden chromosom a jednu alelu
+
+- Genofont
+	- Soubor genů v populaci
+
+- Všechny somatický buňky mají stejný genom
