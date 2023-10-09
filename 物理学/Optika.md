@@ -106,4 +106,14 @@ $$\frac{c}{\lambda_0}=\frac{v}{\lambda}\space\space\space\space\space\space\spac
 	- Fázový rozdíl je stejný
 - Fáze se rychle mění -> *Různý obrazec*
 - Youngův interferenční pokus
+	- Dvě dírky vedle sebe
+		- Dráhový rozdíl -> $\Delta\\l=l_2-l_1$
+![[Pasted image 20231009130534.png]]
+- Podmínky pro *vznik maxima*
+	- Sudý počet půlvln
+$$\Delta\\l=2k\frac{\lambda}{2};\space\space\\k\in\\N_0$$
+- Podmínky pro *vznik minima*
+	- Sudý počet půlvln
+$$\Delta\\l=2\lambda\\k;\space\space\\k\in\\N_0$$
+- ^^^ Ta dvojka se tam nedává???
 - 
