@@ -310,15 +310,18 @@ Hlavní postavou je Buryjovka - zvaná Kostelnička. V mládí se zamilovala do 
 - společně se věnovali literární tvorbě
 - Vilémova umělecká i osobní krize vedla ke spáchání sebevraždy
 
-Společná tvorba
 ##### Maryša
+- Společná tvorba
+- Založená na několika reálných událostech
 - realistická tragédie ze slovácké vesnice
 - o úloze peněz a síle předsudků v tehdejším životě
 - Maryša je rodiči donucena ke sňatku se starým mlynářem Vávrou, miluje však Francka
+- Rodiče toho litují po tom co jim Vávra nevrátí peníze
 - když se Francek vrátí z vojny, chodí za Maryšou
 - Vávra ho chce zabít a nešťastná Maryše Vávru otráví
 - prudký dějový spád, výrazná charakteristika postav, nářečí
-
+- silné nářečí
+- byla pro diváky příliš těžká
 
 Próza V. Mrštíka
 - ovlivněna naturalismem
