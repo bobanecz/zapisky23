@@ -5,6 +5,7 @@
 	- Nacionalisté
 	- Falanga
 	- Monarchisté
+- Do cca 1931 ne republikou
 - 1936 - Lidová Fronta - reformy & protesty
 -  Občanská válka
 	- Velká propaganda
