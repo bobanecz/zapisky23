@@ -115,5 +115,15 @@ $$\Delta\\l=2k\frac{\lambda}{2};\space\space\\k\in\\N_0$$
 - Podmínky pro *vznik minima*
 	- Sudý počet půlvln
 $$\Delta\\l=2\lambda\\k;\space\space\\k\in\\N_0$$
-- ^^^ Ta dvojka se tam nedává???
-- 
+$$\uparrow\text{Ta dvojka se tam nedává???}\uparrow$$
+
+- *Interference* na tenké vrstvě
+![[Pasted image 20231016130843.png]]
+- Na rozhraní s řidším prostředím
+	- Odraz *bez změny fáze*
+- Odraz vlnění s hustřím prostředím
+	- *Změna o $\pi$*
+- Vlnová délka o indexu lomu n nkrát menší než ve vakuu
+
+$$2nd+\frac{\lambda}{2}=2k\frac\lambda2$$
+$\frac\lambda2$ - započítání vlivu změny fáze na opticky hustším prostředí
