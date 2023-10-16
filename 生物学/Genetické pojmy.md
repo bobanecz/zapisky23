@@ -50,3 +50,4 @@
 	- Soubor genů v populaci
 
 - Všechny somatický buňky mají stejný genom
+- 
