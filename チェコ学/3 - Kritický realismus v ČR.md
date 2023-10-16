@@ -272,6 +272,7 @@ Tvorba
 - novým proudům se divadlo otvíralo zvolna
 
 - vynikajících úspěchů v ND i na jiných scénách dosáhl první dramaturg Národního divadla
+
 #### Ladislav Stroupežnický (1850 - 1892)
 - prozaik a dramatik
 - pocházel z jižních Čech
@@ -279,16 +280,16 @@ Tvorba
 - měl uzavřenou povahu, byl zatrpklý, jízlivý (jako člověk si sympatie nezískal)
 Tvorba
 - trvalý úspěch mu přinesla veselohra ze života jihočeské vesnice
-Naši furianti
+##### Naši furianti
 - zápletku tvoří spor o místo ponocného v obci
 - největší nárok by měl mít vysloužilý voják Bláha, to si myslí i starosta Dubský, radní Bušek však dává přednost krejčímu
 - nejde o blaho obce, ale o osobní spory
-- Bušek a Dubský se mají stát příbuznými (dcera a syn se mají rádi), stojí proti sobě jako furianti,
-  nechtějí ustoupit, raději by překazili dětem svatbu
+- Bušek a Dubský se mají stát příbuznými (dcera a syn se mají rádi), stojí proti sobě jako furianti, nechtějí ustoupit, raději by překazili dětem svatbu
 - po různých intrikách a peripetiích se ponocným stane Bláha, svatba se může konat
 - přesvědčivé zobrazení vesnického života, výrazné typy vesničanů - domýšlivých furiantů
 - nejvíce vyniká jejich tvrdohlavost, pýcha, domýšlivost, intrikářství, ale i vtipnost
-Gabriela Preissová (1862 - 1946)
+
+#### Gabriela Preissová (1862 - 1946)
 - pocházela z Kutné Hory
 - provdala se na Moravu
 
