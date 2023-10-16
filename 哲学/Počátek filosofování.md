@@ -15,3 +15,8 @@
 	- Někteří používali umění k vyjádření věcí
 
 Pythagoras: Všechno je kvantifikovatelné
+
+Parmenidas - Jen jsoucno jest, nejsoucno není
+prej chaos o fyzice, já si myslím, že je to metafora o náboženství
+
+Zenon - Nesmyslné argumenty
