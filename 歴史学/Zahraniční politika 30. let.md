@@ -39,4 +39,28 @@ Agrese - Německo:
 	- Březen 1938
 	- 97% pro německo
 
-A
+Agrese itálie
+- Italská Etiopie
+- Italsko-Etiopská válka
+- UN vyhlásila sankce proti Itálii
+- Itálie zvítězila
+	- Italská východní afrika
+- Itálie a Německo sblížení
+	- Osa Berlín - Řím
+	- Vzájemná vojenská pomoc
+
+Agrese Japonska
+- Nacismus
+- Expanze do Číny
+- Předchozí války
+- Mandžusko
+	- Proti offenzívě ruska
+	- Těžba železné rudy
+- Mugdenský incident
+- Tažení do číny (1937)
+- Osa Berlín - Řím - 東京
+	- Pakt proti kominterně
+		- Kominterna - Komunistická internacionála
+
+Zápas na obranu demokreacie a republiky
+- 
