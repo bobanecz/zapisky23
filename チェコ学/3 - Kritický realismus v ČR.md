@@ -292,18 +292,17 @@ Tvorba
 #### Gabriela Preissová (1862 - 1946)
 - pocházela z Kutné Hory
 - provdala se na Moravu
-
 Tvorba
 - ve svých dramatech podala přesvědčivý, realistický obraz moravského vesnického života (Moravské  Slovácko)
-Gazdina roba
+##### Gazdina roba
 - tragédie
 - příběh chudé švadleny Evy, která opustí manžela, odejde se ženatým milencem, žije s ním pouze jako družka
 - raději volí smrt, vrhne se do Dunaje
-Její pastorkyňa
+##### Její pastorkyňa
 - tragédie
 - osud schovanky Jenůfy, jejíž nemanželské dítě utopí její ochránkyně Kostelnička (z obavy před hanbou)
 - zhudebnil L. Janáček
-Hlavní postavou je Buryjovka - zvaná Kostelnička. V mládí se zamilovala do necharakterního mladíka, který ji nechal být. Starala se o schovanku Jenůfu (schovanka = pastorkyňa). Ta se zamiluje do bratrance Števy, ale ten si ji nevezme. Kostelnička chce zabránit hanbě. Lidem namluví, že Jenůfa odjela do Vídně, a když se jí narodí dítě, odnese ho pryč a hodí pod led. Jenůfě řekne, že dítě zemřelo. Vina Kostelničky vyjde najevo a musí do vězení. Jenůfa se provdá za Števova bratra, hodného Laca, který ji měl rád a před lidmi ji bránil.
+Hlavní postavou je Buryjovka - zvaná Kostelnička. V mládí se zamilovala do necharakterního mladíka, který ji nechal být. Starala se o schovanku Jenůfu (schovanka = pastorkyňa). Ta se zamiluje do bratrance Števy, ale ten si ji nevezme. Kostelnička chce zabránit hanbě. Lidem namluví, že Jenůfa odjela do Vídně, a když se jí narodí dítě, odnese ho pryč a hodí pod led. Jenůfě řekne, že dítě zemřelo. Vina Kostelničky vyjde najevo a musí do vězení. Jenůfa se provdá za Števova bratra, hodného Laca, který ji měl rád a před lidmi ji bránil. 
 
 
 #### Alois a Vilém Mrštíkovi (1861 - 1925, 1863 - 1912)
