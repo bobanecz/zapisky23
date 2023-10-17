@@ -63,4 +63,10 @@ Agrese Japonska
 		- Kominterna - Komunistická internacionála
 
 Zápas na obranu demokreacie a republiky
-- 
+- Obklopeno nedemokratickýmy státy
+- Odklon ostatních zemí od spolupráce s čr
+- Vojenská opevnění
+- Sudetoněmecká strana
+	- K. Henlein
+		- Průměrný tělocvikář v Liberci
+	- 
