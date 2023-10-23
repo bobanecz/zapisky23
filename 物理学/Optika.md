@@ -126,4 +126,17 @@ $$\uparrow\text{Ta dvojka se tam nedává???}\uparrow$$
 - Vlnová délka o indexu lomu n nkrát menší než ve vakuu
 
 $$2nd+\frac{\lambda}{2}=2k\frac\lambda2$$
-$\frac\lambda2$ - započítání vlivu změny fáze na opticky hustším prostředí
+- $\frac\lambda2$ - započítání vlivu změny fáze na opticky hustším prostředí
+
+- *Difrakce*
+	- Ohyb světla
+	- Důsledek *Hugensova principu*
+	- Proniká do míst, kde by měl být stín
+	- V místech kde by mělo být světlo vzniká *difrakční obrazec*
+	- Ohyb na mřížce, nejen na štěrbině
+
+- Na vrstvu oleje tloušťky 0.2 $\micro m$, která je na vodě, dopadá kolmo sluneční světlo. Určete vlnovou délku světla, která se bude v odraženém světla nejvíce a která nejméně zesilovat, je-li rychlost světla v oleji $2.10^8 m*s^{-1}$
+
+$$d = 0.2\micro m;\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space v_0=2*10^8\frac ms$$$$2nd+\frac \lambda 2 = 2k \frac \lambda 2$$
+$$n = \frac c v_{0} $$
+$$dosazujeme: k=1; k=$$
