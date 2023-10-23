@@ -133,8 +133,7 @@ Romance beze slov
 - v básních se odráží krize z dob soužití s Rimbaudem
 
 
-Jean Arthur Rimbaud (1854 - 1891)
-
+# Jean Arthur Rimbaud (1854 - 1891)
 - bývá nazýván „božský rošťák“
 - byl velmi nadaný, ale lákal ho svobodný, bohémský život
 - dětství měl neradostné, otec dobrodruh, matka – zlá, panovačná žena
