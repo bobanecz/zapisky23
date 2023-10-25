@@ -62,11 +62,37 @@ Agrese Japonska
 	- Pakt proti kominterně
 		- Kominterna - Komunistická internacionála
 
-Zápas na obranu demokreacie a republiky
+Zápas na obranu demokreacie a republiky čr
 - Obklopeno nedemokratickýmy státy
 - Odklon ostatních zemí od spolupráce s čr
 - Vojenská opevnění
 - Sudetoněmecká strana
 	- K. Henlein
 		- Průměrný tělocvikář v Liberci
+
+- Falgrin - plán napadení česka
+- Karlovarský program
+- ???
+
+- Mnichovská dohoda
+	- Hitler
+	- Mussolini
+	- Chamberlain
+	- Daladier
+- Důsledky mnichovského diktátu
+	- Polsko a Maďarsko si taky užďobli
+- Období první republiky
+- Končí 2. republka
+- Obraný systém v sudetách
+- Kinda nás prostě snědli
+- POLIČKA BYLA V NĚMECKU???
+- Těšínsko ostravě
+- Závislost na okolních státech
+- Politické změny
+- Edvard beneš odstupuje
+- Rozpadá se koalice
+- Rudolf beran
+- Slováci vyhlásili autonomii
+	- 14.3.1939
 	- 
+- ____>____>____>____>____>____>____>____>____>____>____>____>__>__>__>__>__>__>__>__>__>__>__>__>__>__>__>__>__>__ _>_>_>_>_>_>_>_>_>_>_>_>_>_>_>_ >>>>>>>>>> 
