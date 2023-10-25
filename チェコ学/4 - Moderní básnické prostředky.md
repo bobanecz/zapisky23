@@ -190,8 +190,13 @@ Faunovo odpoledne
 
 - literární vědou bývá k prokletým básníkům řazen
 
-Alfréd Jarry (1873 - 1907)
+## Alfréd Jarry (1873 - 1907)
 - dramatik a prozaik
+- chábr
+- zvonil na kole, ne zvonkem ale revolverem
+- absinth
+- anry russeau
+- řád panděry
 - již během středoškolských studií se věnoval literatuře
 - jeho život byl sledem výstředností, výtržností a mystifikací
 - zemřel v bídě na tuberkulózu
@@ -200,7 +205,7 @@ Tvorba
 - byl ovlivněn symbolismem, surrealismem, uplatňoval principy absurdní literatury
 - proslavil se parodickým cyklem na omezenost a hloupost o králi Ubu
 
-Ubu králem
+## Ubu králem
 - satirická hra, výsměch nadutosti, hlouposti, krutosti
 - šokující slovník, jednotlivé postavy symbolizují určité typy chování
 - otec Ubu = svým vystupováním, omezeným slovníkem plným vulgarismů představuje nenasytnou
