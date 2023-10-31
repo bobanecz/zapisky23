@@ -212,25 +212,21 @@ Tvorba
   chamtivost a zbabělost primitivního mocipána (smyslem života jsou pro něho peníze)
 - premiéra hry patřila k největším skandálům v dějinách divadla
 
-Ubu spoutaný
-Ubu paroháč
-	- tímto cyklem se stal iniciátorem absurdního divadla (absurdus = nesmyslný, označuje se tak
-	  drama 2. poloviny 50. let 20. století)
-	- u nás uvedlo tuto postavu na jeviště Osvobozené divadlo (ve 20. letech), později Divadlo Na zábradlí
-
+#### Ubu spoutaný
+#### Ubu paroháč
+- tímto cyklem se stal iniciátorem absurdního divadla (absurdus = nesmyslný, označuje se tak
+  drama 2. poloviny 50. let 20. století)
+- u nás uvedlo tuto postavu na jeviště Osvobozené divadlo (ve 20. letech), později Divadlo Na zábradlí
 - do erotické literatury patří jeho groteskní romány
-Nadsamec
+#### Nadsamec
 - parodický obraz „vědeckého“ pokusu o zjištění hranice sexuálních možností člověka
 - hrdina předjímá typ „amerického supermana“
-Messalina
+#### Messalina
 - zachycuje sexuální život aristokratické společnosti ve starém Římě
 - Messalina = manželka císaře Claudia
 
-
-
-Belgie
-
-Maurice Maeterlinck (1862 - 1949)
+# Belgie
+## Maurice Maeterlinck (1862 - 1949)
 - dramatik a básník píšící francouzsky, nositel Nobelovy ceny
 - žil ve Francii
 - cítil se osamělý, prožíval úzkostné stavy
@@ -238,17 +234,19 @@ Maurice Maeterlinck (1862 - 1949)
 - hrdinové nejsou schopni rozhodovat o vlastním životě, jsou hříčkou v rukou osudu
 - osudovou mocí je většinou láska a smrt
 
-Modrý pták
+#### Modrý pták
 - symbolická pohádková hra
 - dvě děti chudého dřevorubce ve snu hledají lidské štěstí
 - pochopí, že štěstí je v každodenním životě, v dobrých činech
 
+*|||||||*
+**|||||||**
+|||||||
+**|||||||**
+*||||||||||||||||||||||||||||||||||||||||||*
 
-
-Anglie
-
-Oscar Wilde (1854 - 1900)
-
+# Anglie
+## Oscar Wilde (1854 - 1900)
 - básník, prozaik, dramatik
 - představitel anglické dekadence
 - původem Ir (narodil se v Dublinu)
@@ -257,9 +255,8 @@ Oscar Wilde (1854 - 1900)
 - po propuštění žil v pařížském vyhnanství, zemřel v chudobě v pařížském hotelu
 
 Tvorba
-
 - napsal jediný román
-Obraz Doriana Graye
+#### Obraz Doriana Graye
 - světoznámé dílo se složitou interpretací
 - vyjadřuje hlavní myšlenku anglické dekadence – jediným cílem života je krása a rozkoš
 - příběh o rozpolcené osobnosti
@@ -268,32 +265,29 @@ Obraz Doriana Graye
 - nakonec nevydrží pohled na své „druhé já“ a obraz zničí (probodne jej)
 - tím zabíjí sebe, portrét získává původní krásu
 
-Strašidlo cantervillské
+#### Strašidlo cantervillské
 - povídka, parodie gotických příběhů
 - bohatá americká rodina si koupí anglický zámek
 - svým materialistickým přístupem dokáže zvládnout místní strašidlo
 
 - psal také romantické pohádky (vliv Andersena)
-Šťastný princ a jiné pohádky
+#### Šťastný princ a jiné pohádky
 - sbírka pohádek psaných působivým básnickým stylem
 - nejznámější je pohádka Slavík a růže
 
 - popularitu získal především konverzačními (společenskými) komediemi
 - postavy upoutávají vtipem, groteskností, 
 - hry mají vtipné zápletky, duchaplné dialogy
+#### Vějíř lady Windermerové
+#### Ideální manžel
+#### Jak je důležité míti Filipa
+- podtitul Triviální komedie pro seriózní lidi / Lehkovážná komedie pro vážné lidi
+- vysmívá se konvencím, omezenosti, puritánskému svatouškovství a sentimentalismu anglické „vyšší společnosti“
+- hrdinou je nalezenec John (byl odložen v úschovně zavazadel), který se zamiluje do dcery lady Bracknellové
+- tu svým původem šokuje, ale nakonec se ukáže, že je synem sestry lady Bracknellové
+#### Lady Fuckingham
 
-Vějíř lady Windermerové 
-Ideální manžel
-Jak je důležité míti Filipa 
-	- podtitul Triviální komedie pro seriózní lidi / Lehkovážná komedie pro vážné lidi
-	- vysmívá se konvencím, omezenosti, puritánskému svatouškovství a sentimentalismu anglické „vyšší společnosti“
-	- hrdinou je nalezenec John (byl odložen v úschovně zavazadel), který se zamiluje do dcery lady Bracknellové
-	- tu svým původem šokuje, ale nakonec se ukáže, že je synem sestry lady Bracknellové
-
-
-
-USA
-
+# USA
 Walt Whitman (1819 - 1892)
 - severoamerický básník a publicista
 - průkopník civilismu
