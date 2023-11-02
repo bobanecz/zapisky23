@@ -239,10 +239,10 @@ Tvorba
 - dvě děti chudého dřevorubce ve snu hledají lidské štěstí
 - pochopí, že štěstí je v každodenním životě, v dobrých činech
 
-*|||||||*
-**|||||||**
-|||||||
-**|||||||**
+*||||||||||||||||||||||||||||||||||||||||||*
+**||||||||||||||||||||||||||||||||||||||**
+||||||||||||||||||||||||||||||||||||||||||
+**|||||||||||||||||||||||||||||||||||||||**
 *||||||||||||||||||||||||||||||||||||||||||*
 
 # Anglie
@@ -261,6 +261,8 @@ Tvorba
 - vyjadřuje hlavní myšlenku anglické dekadence – jediným cílem života je krása a rozkoš
 - příběh o rozpolcené osobnosti
 - titulní hrdina, nadaný a krásný mladík, je okouzlen vlastním portrétem a vysloví přání zůstat věčně mladý
+- Henry - Hedonistické názory
+	- Krása > dcuh
 - změny jeho zevnějšku i duše však zaznamenává portrét
 - nakonec nevydrží pohled na své „druhé já“ a obraz zničí (probodne jej)
 - tím zabíjí sebe, portrét získává původní krásu
@@ -286,6 +288,8 @@ Tvorba
 - hrdinou je nalezenec John (byl odložen v úschovně zavazadel), který se zamiluje do dcery lady Bracknellové
 - tu svým původem šokuje, ale nakonec se ukáže, že je synem sestry lady Bracknellové
 #### Lady Fuckingham
+
+Farma zvířat, 1984, Manon lescaut, Dáma s kaméliemi, Stoletý stařík, který vyskočil z okna a utekl, Obraz doriana graye, Král Ubu, Kuře melancholik, 
 
 # USA
 Walt Whitman (1819 - 1892)
