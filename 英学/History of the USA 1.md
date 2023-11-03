@@ -86,10 +86,61 @@ No navy
 
 #### USA Spreading west
 ```
-	North    South
-Capitalist
-
+	North         South
+Capitalist     Agricultural
+Industrial     Slaves
 ```
+
+![[Pasted image 20231103081400.png]]
+
+> "Not a big fan of all the segregation dudes"
+- 1860 - Prez Linc against slavery
+
+#### Civil Warrrrrrrrr!! 1861 - 65
+```
+	North       South
+22mil 人     5mil 人
+23 States    11 States
+             4mil 奴隷
+Federation   'Confederation'
+             Capital - Richmond
+             English support
+Blue         Red
+Gen Grant    Gen Lee
+```
+
+- *Fort sumter*
+	- Federal troops refused to leave
+	- South took it by force
+- N losing
+- 1863 - Emancipation Proclamation
+	- Freed the slaves
+- 1863 - *Battle of Gettysburg*
+	- Turning point
+	- N won
+	- 1865 gen Lee surrendered
+	- 215 000 lost
+
+- *Slaves free*
+- Capitalism everywhere
+- Koupili alijašku
+- KKK
+	- Končí Hawaii 1894
+
+![[Pasted image 20231103083143.png]]
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 *qqqqqqqqqqqqqqqqqqqqqqqq*
 **qqqqqqqqqqqqqqqqqqqqqqq**
