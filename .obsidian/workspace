@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "哲学/Klasické období filosofie.md",
+            "file": "英学/History of the USA 1.md",
             "mode": "source",
             "source": false
           }
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -79,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "哲学/Klasické období filosofie.md",
+                "file": "英学/History of the USA 1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -129,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "哲学/Klasické období filosofie.md",
+                "file": "英学/History of the USA 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "哲学/Klasické období filosofie.md",
+                "file": "英学/History of the USA 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "哲学/Klasické období filosofie.md"
+                "file": "英学/History of the USA 1.md"
               }
             }
           }
@@ -182,15 +181,15 @@
   },
   "active": "9b761fc078dcfa31",
   "lastOpenFiles": [
+    "英学/History of GB.md",
+    "英学/History of the USA 1.md",
+    "哲学/Klasické období filosofie.md",
     "歴史学/Zahraniční politika 30. let.md",
     "歴史学/WW2.md",
     "化学/Untitled.md",
     "哲学/Počátek filosofování.md",
     "哲学/Oddíly filosofie.md",
-    "哲学/Klasické období filosofie.md",
     "哲学/AAAAAAAJ.md",
-    "チェコ学/4 - Moderní básnické prostředky.md",
-    "歴史学/Španělská Občanská Válka.md",
-    "歴史学/Sovětský svaz.md"
+    "チェコ学/4 - Moderní básnické prostředky.md"
   ]
 }
