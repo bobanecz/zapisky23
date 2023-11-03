@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "チェコ学/4 - Moderní básnické prostředky.md",
+            "file": "哲学/Klasické období filosofie.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sokr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -78,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "チェコ学/4 - Moderní básnické prostředky.md",
+                "file": "哲学/Klasické období filosofie.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "チェコ学/4 - Moderní básnické prostředky.md",
+                "file": "哲学/Klasické období filosofie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "チェコ学/4 - Moderní básnické prostředky.md",
+                "file": "哲学/Klasické období filosofie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "チェコ学/4 - Moderní básnické prostředky.md"
+                "file": "哲学/Klasické období filosofie.md"
               }
             }
           }
@@ -181,15 +182,15 @@
   },
   "active": "9b761fc078dcfa31",
   "lastOpenFiles": [
-    "哲学/Klasické období filosofie.md",
-    "歴史学/WW2.md",
-    "チェコ学/4 - Moderní básnické prostředky.md",
     "歴史学/Zahraniční politika 30. let.md",
+    "歴史学/WW2.md",
+    "化学/Untitled.md",
+    "哲学/Počátek filosofování.md",
+    "哲学/Oddíly filosofie.md",
+    "哲学/Klasické období filosofie.md",
+    "哲学/AAAAAAAJ.md",
+    "チェコ学/4 - Moderní básnické prostředky.md",
     "歴史学/Španělská Občanská Válka.md",
-    "歴史学/Sovětský svaz.md",
-    "歴史学/Nacistické Německo.md",
-    "Pasted image 20230922074401.png",
-    "Pasted image 20230915091256.png",
-    "チェコ学/3 - Kritický realismus v ČR.md"
+    "歴史学/Sovětský svaz.md"
   ]
 }
