@@ -276,13 +276,18 @@ Tvorba
 #### Šťastný princ a jiné pohádky
 - sbírka pohádek psaných působivým básnickým stylem
 - nejznámější je pohádka Slavík a růže
+- Neuvěřitelně kruté
+
+###### Moderní Pohádka
+- Situace z okolí
+- Pořád prvky pohádky
 
 - popularitu získal především konverzačními (společenskými) komediemi
 - postavy upoutávají vtipem, groteskností, 
 - hry mají vtipné zápletky, duchaplné dialogy
 #### Vějíř lady Windermerové
 #### Ideální manžel
-#### Jak je důležité míti Filipa
+#### Jak je důležité míti Filipa/Ernst
 - podtitul Triviální komedie pro seriózní lidi / Lehkovážná komedie pro vážné lidi
 - vysmívá se konvencím, omezenosti, puritánskému svatouškovství a sentimentalismu anglické „vyšší společnosti“
 - hrdinou je nalezenec John (byl odložen v úschovně zavazadel), který se zamiluje do dcery lady Bracknellové
@@ -290,6 +295,7 @@ Tvorba
 #### Lady Fuckingham
 
 Farma zvířat, 1984, Manon lescaut, Dáma s kaméliemi, Stoletý stařík, který vyskočil z okna a utekl, Obraz doriana graye, Král Ubu, Kuře melancholik, 
+
 
 # USA
 Walt Whitman (1819 - 1892)
