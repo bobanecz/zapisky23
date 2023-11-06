@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ab674baec029affe",
+        "id": "4d4a9ba5e7030503",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "歴史学/WW2.md",
+            "file": "化学/Untitled 1.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "歴史学/WW2.md",
+                "file": "化学/Untitled 1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "歴史学/WW2.md",
+                "file": "化学/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "歴史学/WW2.md",
+                "file": "化学/Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "歴史学/WW2.md"
+                "file": "化学/Untitled 1.md"
               }
             }
           }
@@ -179,17 +179,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ab674baec029affe",
+  "active": "4d4a9ba5e7030503",
   "lastOpenFiles": [
     "歴史学/Zahraniční politika 30. let.md",
+    "歴史学/WW2.md",
+    "化学/Untitled 1.md",
+    "化学/Untitled.md",
     "物理学/Něco.md",
     "物理学/Optika.md",
     "英学/Sport.md",
     "英学/History of GB.md",
     "英学/History of the USA 1.md",
-    "哲学/Klasické období filosofie.md",
-    "歴史学/WW2.md",
-    "化学/Untitled.md",
-    "哲学/Počátek filosofování.md"
+    "哲学/Klasické období filosofie.md"
   ]
 }
