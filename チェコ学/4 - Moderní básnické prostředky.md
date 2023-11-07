@@ -296,7 +296,7 @@ Tvorba
 Farma zvířat, 1984, Manon lescaut, Dáma s kaméliemi, Stoletý stařík, který vyskočil z okna a utekl, Obraz doriana graye, Král Ubu, Kuře melancholik, 
 
 # USA
-Walt Whitman (1819 - 1892)
+## Walt Whitman (1819 - 1892)
 - severoamerický básník a publicista
 - průkopník civilismu
 	- tendence v poezii začátku 20. století
@@ -305,7 +305,7 @@ Walt Whitman (1819 - 1892)
 	- poezie se sbližuje s prózou
 
 - je autorem jediné sbírky
-Stébla trávy
+#### Stébla trávy
 - celoživotní dílo, od prvního vydání sbírku neustále upravoval a obměňoval
 - oslava všedních věcí, přírody, lidské práce
 - vyslovuje představu jednoty člověka a moderního světa
@@ -313,44 +313,40 @@ Stébla trávy
 - je psána volným veršem = na rozhraní poezie a prózy, nemá předepsaný počet slabik a přízvuků, často se objevuje přesah 
 - volný verš více respektuje přirozený spád řeči
 
-
-
-Německo 
-
-Rainer Maria Rilke (1875 - 1926)
+# Německo 
+## Rainer Maria Rilke (1875 - 1926)
 - básník a překladatel
 - pražský rodák, v Čechách žil do svých 20 let
 - od dětství trpěl pocity osamělosti, pobýval v různých evropských zemích a v severní Africe
 - celoživotní neklid, roztěkanost, hledání smyslu života
+- matka ho nitila crossdressovat od mala
 
 Tvorba
 - jeho tvorba se vyvíjela od impresionismu a dekadence k meditativní poezii
 - vyjadřuje pocity moderního člověka, řeší problémy lásky, utrpení, smrti
 
-Kniha hodin
--básnická sbírka
+#### Kniha hodin
+- básnická sbírka
 - smysl lidské existence, útočiště v meditacích
 
-Dech rodné země
+#### Dech rodné země
 - básnická sbírka
 - vzdal hold rodným Čechám
 
 
-Christian Morgenstern (1871 - 1914)
+# Christian Morgenstern (1871 - 1914)
 - básník, novinář, překladatel
 - narodil se v Mnichově, v rodině známého malíře, studoval dějiny umění a práva
 - za života byl znám ve své vlasti pouze malou částí díla, ve světě byl zcela neznám
 
-Tvorba
+### Tvorba
 - je tvůrcem básnické grotesky, mistr slovních hříček a jazykového vtipu
 - básně jsou hrou představivosti, vzorem jazykové vynalézavosti
 - výrazem dobového humoru a ironie (intelektuálního protestu)
 - je zakladatelem poezie nonsensu = ne-smyslu, spojuje zdánlivě nesmyslná slova nebo představy
-
-Šibeniční písně
+#### Šibeniční písně
 - básnická sbírka
 - kromě slovních hříček obsahuje i grafické básně
 - objevuje se množství neologismů, vědomé prohřešky proti jazykovým pravidlům
 - básně budily pohoršení pro nemožnost vážné interpretace
-
 - svou tvorbou je pokládán za předchůdce řady moderních směrů – dadaismus, surrealismus, expresionismus, poetismus
