@@ -357,6 +357,9 @@ DDÚ
 	- Obraz -> Objedna
 	- Tuš -> Tamš
 	- Anilinky -> Aničáry
+	- Membrána -> Memvrata
+	- Jančit -> Honzačit
+	- Plátno -> Listno
 	- 
 
 # Test ABC
