@@ -360,6 +360,9 @@ DDÚ
 	- Membrána -> Memvrata
 	- Jančit -> Honzačit
 	- Plátno -> Listno
+	- Dřevoryt -> Dřeloďyt
+	- Výstava -> Výstatusa
+	- Vernisáž -> Verodráž (Řeka)
 	- 
 
 # Test ABC
