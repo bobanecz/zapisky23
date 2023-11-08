@@ -350,3 +350,15 @@ Tvorba
 - objevuje se množství neologismů, vědomé prohřešky proti jazykovým pravidlům
 - básně budily pohoršení pro nemožnost vážné interpretace
 - svou tvorbou je pokládán za předchůdce řady moderních směrů – dadaismus, surrealismus, expresionismus, poetismus
+
+DDÚ
+- 10 novotvarů
+	- Podvod ->Podvenč
+	- Obraz -> Objedna
+	- Tuš -> Tamš
+	- Anilinky -> Aničáry
+	- 
+
+# Test ABC
+Rozbor textu
+Básnické prostředky
