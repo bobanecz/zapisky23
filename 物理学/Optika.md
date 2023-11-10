@@ -140,3 +140,6 @@ $$2nd+\frac{\lambda}{2}=2k\frac\lambda2$$
 $$d = 0.2\micro m;\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space v_0=2*10^8\frac ms$$$$2nd+\frac \lambda 2 = 2k \frac \lambda 2$$
 $$n = \frac c v_{0} $$
 $$dosazujeme: k=1; k=$$
+
+
+
