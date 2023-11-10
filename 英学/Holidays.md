@@ -90,4 +90,62 @@
 - If you are invited to a guy's family's thanksgiving 
 - Families together
 	- Eat turkey
-- 
+- Prez sets a turkey free
+
+![[Pasted image 20231110081617.png]]
+
+#### Next day - Black Friday
+- Sales
+- Start of Christmas season
+![[Pasted image 20231110081820.png]]
+
+### Christmas
+#### 24th -  Christmas Eve
+- Work day
+- Families are getting together
+- Decor -> Tree
+- Christmas Stockings
+	- On the mantel of the fireplace
+		- Or bed if you're a peasant
+- *Mr Bean - good study material*
+
+- Crackers, Misteltoe...
+
+![[Pasted image 20231110082032.png]]
+
+#### 25th - Christmas day
+- USA
+	- Santa (Klaus) Clause
+		- Milk + Cookies
+		- Chimney
+	- Sledges + Reindeers
+- UK
+	- Father Christmas
+		- No milk and cookies
+		- Presents in the morning
+	- Xmas Dinner
+		- Turkey
+		- Christmas pudding
+- Church
+	- Birth of Je*sus* Christ
+- Afternoon TV
+
+![[Pasted image 20231110082232.png]]
+
+#### 26th - Boxing day
+- Carol singers
+- Boys from shops used to sing carols going around with boxes
+- Day for visiting friends and relatives
+
+![[Pasted image 20231110082704.png]]
+
+#### December 31st - New Year's Eve
+- Celebrations, Parties, Champagne, Fireworks
+- Midnight
+- USA
+	- NT Times square Ball drop
+- UK
+	- Big Ben
+	- Sing Auld Lang Sync
+
+![[Pasted image 20231110083220.png]]
