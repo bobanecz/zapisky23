@@ -33,4 +33,3 @@
 
 ![[Pasted image 20231110093634.png]]
 	- Kulové
-- 
