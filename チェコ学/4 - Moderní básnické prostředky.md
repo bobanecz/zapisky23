@@ -70,8 +70,7 @@ Prokletí básníci
 
 Francie
 
-Charles Baudelaire (1821 - 1867)
-
+## Charles Baudelaire (1821 - 1867)
 - předchůdce moderní poezie, básník a překladatel
 - narodil se v Paříži ve věkově nerovném manželství (otec 62, matka 28)
 - otec brzy zemřel, matka se znovu provdala
@@ -103,7 +102,7 @@ Zdechlina
 - láska přináší radost i zklamání
 
 
-Paul Verlaine (1844 - 1896)
+## Paul Verlaine (1844 - 1896)
 
 - přední představitel symbolismu (ovlivněn i dalšími směry)
 - narodil se v Métách, přestěhoval se do Paříže, nedokončil studia práv, pracoval jako úředník
@@ -113,7 +112,7 @@ Paul Verlaine (1844 - 1896)
 
 Tvorba
 - v básních vyjadřuje city, okamžité nálady a představy (volně řazené)
-- láska, stesk, smutek
+- láska, stesk, smutek 
 - klade důraz na rytmus a melodii verše (dlouhé samohlásky, dvojhlásky, sykavky...)
 
 Básnické umění
@@ -133,7 +132,7 @@ Romance beze slov
 - v básních se odráží krize z dob soužití s Rimbaudem
 
 
-# Jean Arthur Rimbaud (1854 - 1891)
+## Jean Arthur Rimbaud (1854 - 1891)
 - bývá nazýván „božský rošťák“
 - byl velmi nadaný, ale lákal ho svobodný, bohémský život
 - dětství měl neradostné, otec dobrodruh, matka – zlá, panovačná žena
@@ -151,11 +150,11 @@ Tvorba
 - důraz na zvukovou stránku verše 
 - kritický vztah k měšťácké společnosti, šokující otevřenost
 
-Iluminace
+#### Iluminace
 - soubor básní v próze i ve verších
 - byl vydán bez autorova vědomí Verlainem
 - zaznívá zde cynismus k měšťácké morálce, falešnému vlastenectví
-Mé bohémství
+#### Mé bohémství
 - báseň, forma sonetu
 - výraz odporu k soudobé společnosti
 - básníkův životní postoj, tuláctví = pocit spokojenosti, štěstí
@@ -172,7 +171,7 @@ Mé bohémství
 
 
 
-Stéphane Mallarmé (1842 - 1898)
+## Stéphane Mallarmé (1842 - 1898)
 - tvůrce symbolistické poezie
 - pocházel z pařížské úřednické rodiny, pracoval jako úředník
 - studoval jazyky, stal se středoškolským profesorem angličtiny
@@ -181,7 +180,7 @@ Tvorba
 - poezie je pro něho hudbou = hudební koncepce poezie (nejen libozvučnost hlásek, ale hudebnost poezie v její podstatě)
 - účin básně záleží na dojmech, které je schopna ve svých čtenářích vyvolat
 
-Faunovo odpoledne
+#### Faunovo odpoledne
 - 110veršová báseň 
 - Faun vzpomíná na milostné opojení se dvěma nymfami (skutečnost – sen?)
 - náznakovostí a hudebností verše dosáhl autor „čisté poezie“
@@ -319,7 +318,7 @@ Farma zvířat, 1984, Manon lescaut, Dáma s kaméliemi, Stoletý stařík, kter
 - pražský rodák, v Čechách žil do svých 20 let
 - od dětství trpěl pocity osamělosti, pobýval v různých evropských zemích a v severní Africe
 - celoživotní neklid, roztěkanost, hledání smyslu života
-- matka ho nitila crossdressovat od mala
+- matka ho nutila crossdressovat od mala
 
 Tvorba
 - jeho tvorba se vyvíjela od impresionismu a dekadence k meditativní poezii
@@ -332,7 +331,6 @@ Tvorba
 #### Dech rodné země
 - básnická sbírka
 - vzdal hold rodným Čechám
-
 
 # Christian Morgenstern (1871 - 1914)
 - básník, novinář, překladatel
