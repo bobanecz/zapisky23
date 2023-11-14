@@ -222,7 +222,7 @@ Ruce
 	- optimističtější víra v budoucnost (představa o sbratření lidstva = symbol spojených rukou)
 
 
-Česká dekadence
+# Česká dekadence
 - literární skupina kolem časopisu Moderní revue (1894 – 1925)
 - způsobem básnické tvorby jsou představitelé spjati se symbolismem a z části i impresionismem
 - nebyli všichni důslednými dekadenty, velká nejednotnost
@@ -231,42 +231,52 @@ Ruce
 	- odklon od realistického způsobu ztvárnění
 - představitelé: Karásek, Hlaváček, literární kritik Arnošt Procházka
 - vůdčí osobností české dekadence byl
-Jiří Karásek ze Lvovic (1871 - 1951)
+
+## Jiří Karásek ze Lvovic (1871 - 1951)
+- Dělník
+- Cope
 - vlastním jménem Josef Jiří Antonín Karásek
 - po maturitě studoval bohosloví, ale po 2 letech odešel, stal se poštovním úředníkem, později ředitelem Poštovního muzea a archivu
 - významná je jeho sběratelská činnost – vytvořil jednu z nejvýznamnějších soukromých sbírek výtvarného umění
 - zemřel v bídě a zapomnění
 
-Tvorba
+> "Většina homosexuálů nedělá tělocvik"
+- Křapová 23
+
+> "Já to nemyslím špatně, ale je to pravda"
+- Křapová 23 
+
+### Tvorba
 - v lyrických sbírkách se objevují dekadentní obrazy chorobných vášní, sexuálního znechucení, rozkladu a marnosti lidské existence
 - netajil svou homosexuální orientaci, provokoval protiměšťáckým zaměřením a morbidní erotikou
 - příznačná je formální propracovanost
-Sodoma
+#### Sodoma
 - básnická sbírka
 - první vydání bylo zkonfiskováno
 - protikladné postoje – smyslnost, vášeň x dekadentní umdlenost, melancholie, hrůza smrti
-Zazděná okna
+#### Zazděná okna
 - básnická sbírka
 - opěvuje samotu, sen, zánik, existence je beznadějná hra vyplněná úzkostí
 	
 
 - nejvýraznějším básnickým talentem české dekadence byl
-Karel Hlaváček (1874 - 1898)
+## Karel Hlaváček (1874 - 1898)
 - narodil se v Praze v rodině dělníka = vztah k chudým a utlačovaným
 - studoval na filozofii moderní jazyky, měl i výtvarné nadání, spolupracoval s časopisem Moderní revue (básně, výtvarné kritiky, kresby)
 - zemřel předčasně na tuberkulózu
+- Nadšený sokol
 
-Tvorba
+### Tvorba
 - autor náladových, melancholicky teskných a zádumčivých veršů
 - vyznačují se dokonalou zvukovou kvalitou
 - jeho poezie ovlivnila vývoj českého verše (výrazná hudebnost)
 - k dekadenci se přihlásil sbírkou
-Pozdě k ránu
+#### Pozdě k ránu
 - básnická sbírka plná chorobných nálad a smutku „konce století“
 - pocit melancholie, zmaru, marnosti
 - snové, bizarní krajiny (neurčité, pohádkové, bez pevných kontur)
 - časté jsou básně v próze
-Mstivá kantiléna
+#### Mstivá kantiléna
 - básnická sbírka 12 balad
 - vrchol českého symbolismu
 - pocit společenského vyděděnce
