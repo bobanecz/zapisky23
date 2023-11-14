@@ -119,7 +119,7 @@ Hudba
 - podle jeho představ byl antický člověk šťastný a vyrovnaný, životní vyrovnanost potlačilo až křesťanství
 - obdiv k silným individualitám, nepokořeným, s lidskou důstojností
 - vliv Nietzscheho filozofie
-
+	- **Prozaizovaný verš** -> Vypadá jako próza, ale je báseň; nemusí se rýmovat; evokují příběhx
 
 #### Antonín Sova (1864 - 1928)
 - básník české krajiny
@@ -181,13 +181,16 @@ Ještě jednou se vrátíme
 - milostné motivy, plynutí času, stárnutí
 
 
-Otokar Březina (1868 - 1929)
+## Otokar Březina (1868 - 1929)
 - přední symbolista
-- vlastním jménem Václav Jebavý
+- vlastním jménem **Václav Jebavý**
+	- Není to jméno do kultury
 - narodil se v Počátcích na Českomoravské vrchovině
 - po studiích působil jako učitel na Moravě, věnoval se studiu jazyků
 - byl nespokojen se svým životem (povolání, venkov), žil stranou od kulturních center, ale přesto umělecky rostl
 - tvorba dosahuje světové úrovně
+- "Šílenství metafor"
+- Nešťastný život
 
 Tvorba
 - jeho básnická tvorba je už od první sbírky umělecky i myšlenkově vyzrálá
