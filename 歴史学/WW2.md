@@ -66,7 +66,42 @@
 	- **Jmenuje se po stalinovi**
 		- "haha, když to zaberu, budu cool"
 	- Nepovedlo se mu to
+	- Protiofenzíva -> Stalingradský kotel
+- Ofenzíva v *kurském oblouku*
+
+## Mimoevropská Bojiště
+- Boje o Atlantik
+	- Ponorková válka
+	- Enigma
+
+- Severní afrika
+	- Itálie zahájila 1940 útok na egypt
+	- Afrikakorps
+	- Pevnost *Tobrúk*
+		- Němcové jim začali říkat pouštní krysy
+
+- Tichomoří
+	- 日本とアメリカ
+	- Pearl harbor
+	- Všichni blbí
+	- Midway
+	- 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+*男の娘男の娘男の娘男の娘男の娘男の娘*
+**男の娘男の娘男の娘男の娘男の娘男の娘**
