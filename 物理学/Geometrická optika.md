@@ -33,3 +33,8 @@
 
 ![[Pasted image 20231110093634.png]]
 	- Kulové
+
+- Zobrazení dutým zrcadlem
+	- C - střed; F - Ohnisko; obraz
+![[Pasted image 20231120130422.png]]
+- Na ohnisku obraz není ~protne se v nekonečnu
