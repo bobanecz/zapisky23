@@ -121,7 +121,7 @@ Hudba
 - vliv Nietzscheho filozofie
 	- **Prozaizovaný verš** -> Vypadá jako próza, ale je báseň; nemusí se rýmovat; evokují příběhx
 
-#### Antonín Sova (1864 - 1928)
+## Antonín Sova (1864 - 1928)
 - básník české krajiny
 - impresionista a symbolista
 - narodil se v jihočeském Pacově, kde byl jeho otec učitelem
@@ -283,15 +283,14 @@ Ruce
 - obrátil se do historie (nizozemský odboj proti Španělům), vyjadřuje solidaritu s ubohými tohoto světa
 - marnost revolty
 
-
 - největším literárním kritikem 19. století a počátku 20. století byl
-František Xaver Šalda (1867 - 1937)
+## František Xaver Šalda (1867 - 1937)
 - literární kritik, básník, prozaik, dramatik
 - narodil se v Liberci, v Praze studoval práva, nedokončil a stal se spisovatelem a profesorem románských literatur na UK
 - přispíval do řady časopisů, později založil vlastní
 - na sklonku 90. let ho postihla těžká míšní choroba, následků se nezbavil celý život
 
-Tvorba
+### Tvorba
 - je považován za zakladatele české literární kritiky jako samostatné literární disciplíny
 - nové pojetí
 	- rovnocenná umělecké činnosti
@@ -300,19 +299,19 @@ Tvorba
 - byl tvrdým a nekompromisním kritikem
 - nade vše cenil individualitu, odmítal průměrnost
 - psal literární, výtvarné a divadelní kritiky
-Boje o zítřek
+#### Boje o zítřek
 - soubor esejů
 - úvahy o smyslu umění v životě
-Duše a dílo
+#### Duše a dílo
 - medailony českých a světových autorů
 - např. Mácha, Němcová, Březina, Ibsen, Flaubert ...
-- vytvořil nový žánr -  kritická esej o umění 
+- vytvořil nový žánr -  *kritická esej o umění* 
 			- na rozhraní uměleckého a vědeckého stylu
 			- pojednává duchaplně a zajímavě o otázkách uměleckých a filozofických
-O nejmladší poezii české
+#### O nejmladší poezii české
 - kniha statí o vývoji moderní české poezie
 - pochopení pro talenty
 
-Šaldův zápisník
+#### Šaldův zápisník
 - časopis s vlastními kritickými a beletristickými příspěvky
 - vycházel v letech 1928 – 1937 (9 ročníků)
