@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "物理学/Geometrická optika.md",
+            "file": "Výtvarka/Byzantské umění.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "物理学/Geometrická optika.md",
+                "file": "Výtvarka/Byzantské umění.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "物理学/Geometrická optika.md",
+                "file": "Výtvarka/Byzantské umění.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "物理学/Geometrická optika.md",
+                "file": "Výtvarka/Byzantské umění.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "物理学/Geometrická optika.md"
+                "file": "Výtvarka/Byzantské umění.md"
               }
             }
           }
@@ -181,15 +181,15 @@
   },
   "active": "4d4a9ba5e7030503",
   "lastOpenFiles": [
-    "物理学/Vlnová optika.md",
+    "Výtvarka/Křesštanská antika opáčko.md",
+    "Výtvarka/Byzantské umění.md",
+    "歴史学/Zahraniční politika 30. let.md",
     "物理学/Geometrická optika.md",
+    "歴史学/WW2.md",
+    "物理学/Vlnová optika.md",
     "物理学/Něco.md",
     "チェコ学/6 - Světová próza do poloviny 20. století.md",
     "チェコ学/5 - To samý v česku.md",
-    "生物学/Kodominance.md",
-    "歴史学/WW2.md",
-    "歴史学/Sovětský svaz.md",
-    "歴史学/Nacistické Německo.md",
-    "歴史学/Zahraniční politika 30. let.md"
+    "生物学/Kodominance.md"
   ]
 }
