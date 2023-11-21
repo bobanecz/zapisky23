@@ -76,7 +76,7 @@
 
 - Severní afrika
 	- Itálie zahájila 1940 útok na egypt
-	- Afrikakorps
+	- Afrikakorps - **Pouští liška rommel**
 	- Pevnost *Tobrúk*
 		- Němcové jim začali říkat pouštní krysy
 
@@ -85,6 +85,36 @@
 	- Pearl harbor
 	- Všichni blbí
 	- Midway
+
+- Jednání spojenců
+	- Byli tam
+		- Roosevelt
+		- Stalin
+		- Winston churchill
+	- Řešení poválečné situace
+
+- Apeninský poloostrov
+	- Spojenci
+		- USA
+		- Generál *Eisenhower*
+	- Britskofrancouzi
+		- Sicílie
+	- Italský král odvolal mussoliniho
+		- Sepsal se spojenci příměří pak
+	- Německo pak okamžitě převezme severní a střední itálii a obnoví v severní části fašismus
+		- *Republika saló*
+	- Monte casino -> obranný val
+
+- Totální válka v německu
+	- Masivní kobercové nálety
+	- Neúspěšné pokusy o atentát
+		- *C. von Stauffenberg*
+
+- Otevření II. fronty
+	- Operace Overlord
+	- 6.6.1944 = den D
+	- Vylodění v normandii -> Francie????
+		- **Ne** u callais
 	- 
 
 
@@ -99,8 +129,8 @@
 
 
 
-
-
-
+**男の娘男の娘男の娘男の娘男の娘男の娘**
+*男の娘男の娘男の娘男の娘男の娘男の娘*
+男の娘男の娘男の娘男の娘男の娘男の娘
 *男の娘男の娘男の娘男の娘男の娘男の娘*
 **男の娘男の娘男の娘男の娘男の娘男の娘**

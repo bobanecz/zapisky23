@@ -45,4 +45,3 @@
 - Transcendentální ráz
 - anitirealismus
 - Chrám svatého víta základy
-
