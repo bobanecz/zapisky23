@@ -29,4 +29,12 @@
 - Dialog
 - Popraven
 
-## 
+## Platón
+- Sokratův žák
+- Vzdal demokracii, jak vypadala v Aténách
+- Založil filosofickou školu -> Akademii
+- Nauka o ideálech
+	- Ideje
+	- Dokonalá věčná jsoucna
+- Myslel si, že duše je nesmrtelná a že pochází se světa idejí
+- 
