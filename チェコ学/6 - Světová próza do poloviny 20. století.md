@@ -161,7 +161,7 @@ Oheň
 - v závěru se dovídáme, že v boji byli zabiti téměř všichni členové družstva, živí odtahují zraněné na obvaziště
 
 
-Antoine de Saint – Exupéry (1900 – 1944)
+### Antoine de Saint – Exupéry (1900 – 1944)
 - prozaik a reportér
 - narodil se v Lyonu ve šlechtické rodině
 - během vojenské služby se nadchl pro letectví
@@ -179,21 +179,40 @@ Země lidí
 	- všudypřítomný pocit smrti, konce
 	- motiv ztroskotání, které sám zažil
 
-- nejslavnějším dílem se stala moderní filozofická pohádka
+ 
 Malý princ
+- *Moderní filozofická pohádka*
+	- dnešní doba
+	- smutný konec
+	- filisofické prvky:
+		- monotónnost
+		- smysl přátelství
+		- Co je důležité, to je očím neviditelné
+Kdy a kde?
+-> 1/2 20. stol.;;;; na sahaře & na těch planetkách
+-> Svět reálný a vymyšlený
+-> Kontext díla
+	Jsme u konce
+-> Celé je to retrospektiva
+-> Cesta & Rozhovory & Úvahové pasáže
+
+- je nejslavnějším dílem
+- Věnována leonu wertovi, dyž byl dětsko
+- Prej ne pro malý děcka
 - příběh pilota, který havaroval s letadlem na Sahaře
 - potká se s malým princem z daleké planety, který poznává Zemi
 - polemika dvou pohledů na svět, dětský hrdina vidí životní priority zcela jinde
 - původně byla zamýšlena jako dětská kniha, ale je čtena spíše dospělými čtenáři
 
 
+♨️ <- 🔥;🔥<- ♨️
 
 Německo
 
 - německý realismus byl prostoupen protinacionalistickými, protiválečnými a později i protifašistickými myšlenkami
 - němečtí spisovatelé měli odlišné zázemí, žádná jiná země neměla tolik spisovatelů – emigrantů
 
-Erich Maria Remarque (1898 – 1970)
+### Erich Maria Remarque (1898 – 1970)
 - prozaik a dramatik
 - vlastním jménem Erich Paul Remark
 - patří ke generaci, která se v letech dospívání ocitla na frontách první světové války
