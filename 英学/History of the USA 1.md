@@ -130,8 +130,98 @@ Gen Grant    Gen Lee
 ![[Pasted image 20231103083143.png]]
 
 
+# History of the US 2
+- Panama Canal
+- Women's suffrage
+- WWI
+	- Usa neutral
+		- Sending supplies to the Allies
+			- Making great money
+			- Making it a financial superpower
+- April 1917 - Germany sank US steamship Louisiana -> USA entered the war
+- After tbe war NYS, wall street became the financial centre
 
+- US loses
+- 115 00 IUA
+- 320 000 total
+- Spanish flu
+- League of Nations
+	- Usa -> the founding state
+	- Policy of non  interference -> Dumb
 
+- USA IN 1920
+	- Immigration limited for the first time
+	- Policy of isolation
+	- Prohibition
+		- Gangsters -> Smuggling/producing illegal alcohol
+			- Chicago
+			- BIll clinton gangster grandpa
+			- Born the noe welites
+
+![[Pasted image 20231124075511.png]]
+
+####  1929 - Crash on Wall Street
+- World crisis -> USA was 'the best'
+	- Prices fell by 50%
+- New president
+- Franklin Delano Roosevelt
+	- *New deal*
+		- Muricans are proud
+		- 1st intervention into their economy
+		- Old age + disability
+		- Minimum wage
+		- Subsidies
+		- Government bought surpluses off farms
+		- Unions
+	- Sucess -> Unemployment 1936 - 15%
+	- FDR became very popular
+	- Dětská obrna
+	- elected 4 times in a row
+
+![[Pasted image 20231124075650.png]]
+
+#### WW2 September 1 1939 -> May 3 1945 Europe; Sept 1 World
+- US neutral -> Sending supplies to the allies
+- 7th December 1941 -> *Pearl Harbor*
+	- Sunday morning, because Muricans were lazy and didn't work Sunday
+	- So embarassed, they proclaimed war
+	- USA lucky -> no aircraft carriers
+
+![[Pasted image 20231124080741.png]]
+
+- USA mainly in the Pacific
+- Losing as hell
+- Přesekne pušku
+- 1st Victory -> Battle of midway
+	- June 1942
+	- Good airfield
+	- Air battle
+	- Japan lost 3 aircraft carriers
+- Battle of Guadal canal 1942
+	- Land war
+	- Turning point of the war
+- 1944 Battle of Legte
+	- Biggest sea battle of history
+	- First 神風 attacks
+- June 6th 1944 D-Day
+	- Invasion of Normandy
+	- Opened the west front
+- Germany retreating
+	- Surrendered May 8th 45
+	- USA still fighting x Japan
+- April 45 Roosevelt died
+	- Vice president Harry Trumann
+	- Nuclear bombs
+- Hiroshima -> Little Boy
+- Nagasaki -> Fat Man
+- August 9 Japan stopped fighting
+- US lost 420k total; 300k KIA
+- 1945 UN
+
+![[Pasted image 20231124080401.png]]
+
+#### Cold war
+-> Korean War
 
 
 
