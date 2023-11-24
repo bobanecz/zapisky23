@@ -221,9 +221,37 @@ Gen Grant    Gen Lee
 ![[Pasted image 20231124080401.png]]
 
 #### Cold war
--> Korean War
+- Korean War
+	- Didn't have to happen if the US wasn't dumb
+- Vietnam 1950-1975
+	- 1st advirors
+	- 1964 bombing
+	- 1965 soldiers
+	- USA Lost
+		- Skill Issue
+- 1963 Marthin Luther king
+- John F. Kennedy
+	- Democrat
+	- Shot in Dallas
+	- Cuban crisis
+		- Blocade of Cuba
+		- Prevent USSR to ship nuclear weapons to Cuba
+- Richard Nixon
+	- War in vietnam
+	- Watergate scandal
+		- Spying on political opponents
+	- Jediný prezident co odstoupil
+- Obamba
+	- Medical insurance for everyobody
 
+![[Pasted image 20231124083726.png]]
 
+- Trump
+	- Populist
+	- Republican
+	- https://youtu.be/GSk2OP27Li8
+
+![[Pasted image 20231124084110.png]]
 
 
 
