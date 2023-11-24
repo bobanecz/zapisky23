@@ -37,4 +37,22 @@
 	- Ideje
 	- Dokonalá věčná jsoucna
 - Myslel si, že duše je nesmrtelná a že pochází se světa idejí
+- Dialog Ústava - Podobenství o jeskyni
+
+- Tři složky duše
+	- Rozum - Schopnost poznávat ideje
+	- Vznětlivost(Vůle?)
+	- Žádostivost(Pudy?) - Usahuje o uspokojení
+
+- Podle Platóna má vládnout rozum
+	- Až jednostrannej
+	- "U většiny lidí prej vládne žádostivá složka"
+- Vozataj a dva koni
+- Areté
+	- Nějaká vynikající schopnost
+- Moudrost -> Schopnost poznat co prosívá duši
+- Statečnost -> ???
+- Uměřenost -> Schopnost nakládat se smyslovýmy vjemy
+- Spravedlnost -> Správné uspořádání složek duše
+
 - 
