@@ -115,7 +115,23 @@
 	- 6.6.1944 = den D
 	- Vylodění v normandii -> Francie????
 		- **Ne** u callais
-	- 
+
+- Únor 1945
+	- Diplomatická jednání v Jaltě
+	- Poválečné uspořádání německa
+	- Územní uspořádání evropy
+
+- Dobytí itálie a německa
+	- 5/1945 Kapitulace nacistů v Itálii
+- Spojenci v německu
+	- Mosty -> Rýn
+	- Remagen -> Most
+	- Masové kobercové nálety
+- 
+
+
+
+
 
 
 

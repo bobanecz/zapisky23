@@ -38,3 +38,14 @@
 	- C - střed; F - Ohnisko; obraz
 ![[Pasted image 20231120130422.png]]
 - Na ohnisku obraz není ~protne se v nekonečnu
+
+- Znaménková dohoda
+	- a>0 předmět před zrcadlem (Vždy)
+	- a'>0 obraz před zrcadlem
+	- a'<0 obraz za zrcadlem
+	- y, y'>0 nad osou
+	- y, y'<0 pod osou
+- Ohniskové vzdálenosti
+	- r vypoukolst
+- f>0, r>0 Duté
+- Naopak Vypouklé
