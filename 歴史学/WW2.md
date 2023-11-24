@@ -127,7 +127,32 @@
 	- Mosty -> Rýn
 	- Remagen -> Most
 	- Masové kobercové nálety
-- 
+	- Berlínská operace
+		- Dobytí berlína
+			- Neautentická fotka
+			- HItlerova sebevražda -> admirál Donitz
+			- Kapitulace 2.5. Berlín
+				- 7.5. Německa
+				- 8.5. Německa v Berlíně podruhé
+
+- Porážka Japonska
+	- Přesun spojenců do Tichomoří
+	- Použití atomových zbraní
+	- Vstup SSSR do války x Japonsku
+	- Kapitulace japonska 2.9.1945 konec sv. války ve světě
+
+##  Výsledky války a reakce na ni
+- Válečné zločiny:
+	- Holocaust
+	- 6mil židů zemřelo ve vyhlazovacích táborech
+	- Křišťálová noc
+	- Genocida Romů a Sintů
+	- Likvidace odporu v okupovaných zemích
+		- Odbojáři a partyzáni
+		- Koncentrační tábory
+		- Likvidace vesnic
+		- 
+
 
 
 
