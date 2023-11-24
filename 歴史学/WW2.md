@@ -151,7 +151,7 @@
 		- Odbojáři a partyzáni
 		- Koncentrační tábory
 		- Likvidace vesnic
-		- 
+			- 
 
 
 
