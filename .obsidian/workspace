@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Srbská/Untitled.md",
+            "file": "Srbská/Question 3 - Application.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Srbská/Untitled.md",
+                "file": "Srbská/Question 3 - Application.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -101,7 +101,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.009855431585965005,
+                  "scale": 0.22699325218141034,
                   "close": true
                 }
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Srbská/Untitled.md",
+                "file": "Srbská/Question 3 - Application.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Srbská/Untitled.md",
+                "file": "Srbská/Question 3 - Application.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Srbská/Untitled.md"
+                "file": "Srbská/Question 3 - Application.md"
               }
             }
           }
