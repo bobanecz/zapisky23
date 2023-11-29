@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Srbská/Question 5 - Application.md",
+            "file": "Srbská/Question 1 - Application.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Srbská/Question 5 - Application.md",
+                "file": "Srbská/Question 1 - Application.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Srbská/Question 5 - Application.md",
+                "file": "Srbská/Question 1 - Application.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Srbská/Question 5 - Application.md",
+                "file": "Srbská/Question 1 - Application.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Srbská/Question 5 - Application.md"
+                "file": "Srbská/Question 1 - Application.md"
               }
             }
           }
@@ -181,15 +181,15 @@
   },
   "active": "4d4a9ba5e7030503",
   "lastOpenFiles": [
+    "Srbská/Question 6 - Application.md",
+    "Srbská/Question 3 - Application.md",
+    "Srbská/Question 5 - Application.md",
     "Srbská/Question 7 - Application.md",
     "Srbská/Question 2 - Application.md",
-    "Srbská/Question 3 - Application.md",
     "歴史学/WW2.md",
     "物理学/Geometrická optika.md",
     "物理学/Vlnová optika.md",
     "英学/History of the USA 1.md",
-    "英学/Histor.md",
-    "哲学/Klasické období filosofie.md",
-    "哲学/Oddíly filosofie.md"
+    "英学/Histor.md"
   ]
 }
