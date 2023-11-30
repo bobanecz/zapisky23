@@ -55,4 +55,15 @@
 - Uměřenost -> Schopnost nakládat se smyslovýmy vjemy
 - Spravedlnost -> Správné uspořádání složek duše
 
-- 
+- Politické názory
+  - Nauka o ideální obci
+	  - Tři složky
+		  - Vládci -> Rozum
+		  - Strážci -> Vznětlivost
+		  - Zbytek -> Žádostivost
+	- Utopická představa/Spíš dystopie imo
+	- Společnost nikdy nedosáhne utopie, dokud nebudou vládnout filozofové
+	- Silná centralizace
+	- Eugenika
+
+	- K. R. Popper
