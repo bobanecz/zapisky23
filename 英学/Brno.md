@@ -1,0 +1,33 @@
+History
+1000 -> Ford across the sbratka river
+	-> Trade
+
+- 1243 Brno - city rights
+- Fortification - 5 gates
+- Měnínská Brána
+- Jewish
+	- No pogroms
+	- Lived outside the city
+- Běhounská
+- Veselá
+- Starobrněnská
+- 1300 strong immigration
+- Germany, Belgium
+- Centre lower square
+- Czech speaking -> Upper square; Cabbage market
+- Hussite Wars
+- Unsuccessful in conquering
+- Swedish army
+	- 30 year war
+	- 1643 Nrmp legent
+	- Ringing Petrov Bell
+	- 10k -> 3.5k people
+- After this, Brno concidered the capital
+	- It's safe
+- Zemské desky převezeny do brna
+- Indusrtial boom
+	- Textile industry
+		- Cejl
+		- Brno called Moravian Manchester
+		- Brno is better in every way
+	- 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "哲学/Klasické období filosofie.md",
+            "file": "英学/Brno.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "哲学/Klasické období filosofie.md",
+                "file": "英学/Brno.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "哲学/Klasické období filosofie.md",
+                "file": "英学/Brno.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "哲学/Klasické období filosofie.md",
+                "file": "英学/Brno.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "哲学/Klasické období filosofie.md"
+                "file": "英学/Brno.md"
               }
             }
           }
@@ -181,6 +181,7 @@
   },
   "active": "4d4a9ba5e7030503",
   "lastOpenFiles": [
+    "哲学/Klasické období filosofie.md",
     "チェコ学/1 - Májovci asi.md",
     "Srbská/Question 1 - Application.md",
     "Srbská/Question 2 - Application.md",
@@ -189,7 +190,6 @@
     "Srbská/Question 5 - Application.md",
     "Srbská/Question 7 - Application.md",
     "歴史学/WW2.md",
-    "物理学/Geometrická optika.md",
-    "物理学/Vlnová optika.md"
+    "物理学/Geometrická optika.md"
   ]
 }
