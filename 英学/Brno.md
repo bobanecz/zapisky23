@@ -30,4 +30,33 @@ History
 		- Cejl
 		- Brno called Moravian Manchester
 		- Brno is better in every way
-	- 
+- Great Brno - 1920 - neighbouring villages joined Brno
+- 60% German 40% Czech
+- WW2 -> After Brno Lost Its Cosmopolitan Multicultural Feature Cuz German Speakers Were Thrown Out Or Left
+- Sights
+- Cabbage Market
+- Parnas Mountain
+- Reduta
+	- Oldest in central Europe
+- Old town hall
+- Thw wheel et
+- Pether and Pul
+
+Libert sqr
+- Astronomical Cock
+- Plague Column
+- Shape of an old church
+- St. James Chirch
+- Legend little in decent man
+- Špilberk Castle
+	- Keep
+	- Royal Castel
+	- Prison
+	- Fortress
+	- Tugenhat Villa
+	- Unesco protected
+
+**Veveří street all pubs**
+Sleep on night bus
+selfie under jošt
+sit on petrov
