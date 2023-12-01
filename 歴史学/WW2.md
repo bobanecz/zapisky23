@@ -153,6 +153,32 @@
 		- Likvidace vesnic
 			- 
 
+## Protektorát ČM
+- do 15.3.1939 druhá republika
+- Protektorát = forma koloniální vlády
+- Moc:
+	- Protektorátní správa
+	- Protektorátní Prezident
+	- Protektorátní vláda
+	- Říšský protektor
+- Projevy protektorátní totality
+	- Jediná politická Instituce -> Národní souručenství
+	- Zásahy do školství
+	- Curatorium
+	- Organizace vychovávající českou mládež v duchu nacismu
+	- Nucené práce
+- Hospodářství
+	- Státem řízené válečné
+	- Změny ve výrobě
+	- Utlumen spotřební průmysl
+	- Přídělový systém
+<a style="color:orange;">a</a>
+
+## Bipolární rozdělení světa
+- Západ a Východ
+- Západ -> Demokracie
+- Východ -> Komunismus
+
 
 
 
