@@ -1,4 +1,4 @@
-- Východořímská říše
+F- Východořímská říše
 - Podle města Byzanthion
 - Vývoj jinak než západo
 - **Ikonoklasmus**
@@ -13,6 +13,8 @@
 - Otonská renezance
 	- Přechod mezi karolínským a románským
 	- Navázalo na všem
+	- Antirealismus
+	- Rotundy
 
 ## Románské umění
 - Raná fáze až 1100
@@ -45,3 +47,12 @@
 - Transcendentální ráz
 - anitirealismus
 - Chrám svatého víta základy
+
+1. Karolínská a otonská renezance; ??-9. století
+2. druh Vstupu??
+3. Donjon
+4. Raná fáze až 1100 Vrcholná fáze až 1180 pozdní až 1250
+5. Masivní, Půlkruhové oblouky, křížová klenba, pilíře, kvádříkové zdivo, obloučkový vlis
+7. **Rotunda** sv. Jiří na Řípu. 1.  [Rotunda sv. Martina](https://cs.wikipedia.org/wiki/Rotunda_svat%C3%A9ho_Martina_(Vy%C5%A1ehrad)) na [Vyšehradě](https://cs.wikipedia.org/wiki/Vy%C5%A1ehrad "Vyšehrad") v Praze
+8. Roseta
+9. Dóm v pise -> Pilíře? -> Slepé arkády
