@@ -174,6 +174,30 @@
 	- Přídělový systém
 <a style="color:orange;">a</a>
 
+## Atentát na Heinricha
+- Provedla ho výsadková skupina Antropoid
+- Jozef Gabčík
+- Jan Kubiš
+- Heinrich zemřel na sepsi
+	~ Vnitřní otrava krve
+- KH Frank
+	- Zástupce protektora
+	- Vyhlásil, že každý 10. čech zemře jako reparaci
+- Atentátníci byli v kostele Cyrila a Metoděje
+- Čurda je udal
+
+## Zahraniční odboj
+- Snaha obnovit hranice
+- Dosáhnout annulace mnichovské dohody
+- Kontinuální návaznost první republiky
+- Beneš zakládá český národní výbor
+	- Centrální orgán zahraničního odboje
+- Centrum v londýně a v Moskvě
+- Uzavření česko-sovětské smlouvy o válečné pomoci a poválečné spolupráci
+	- Povolili vznik vojenských jednotek
+	- Předurčila poválečnou zahraniční orientaci ČSR
+- Egypt
+
 ## Bipolární rozdělení světa
 - Západ a Východ
 - Západ -> Demokracie
