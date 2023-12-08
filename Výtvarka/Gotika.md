@@ -30,4 +30,41 @@ Malý průvodce dějinami umění - gotika
 		- Snaha o realistickou podobiznu
 
 - Gotické sochařství
-	- 
+	- Vychází už z realistického ztvárnění
+	- Lomený oblouk -> Drapérie -> V Úhlu
+
+- Diptych, triptych polyktych
+- Oltáře
+	- V toledu
+- Pieta
+	- Mrtvej ježíš v náručí máňi
+
+##  Katedrála v laonu
+- Sever francie
+- 1230, 80 let stavěna
+- Relativně konzistentní
+- Významné poutní centrum
+- Nesídlil tam biskup pak
+- Býci někde nahoře s legendou
+- Křížový půdorys se třemi loděmi
+- Fotku interiéru
+- J
+
+Referát na...
+Jeden obraz od jednoho renezančního umělce ???????????????????????????????????????
+WTFFFFFFF
+já už ani nevím, co máme dělat vlastně
+A
+a
+a
+a
+
+
+a
+a
+
+
+
+a
+
+Boticielli -> Zrození venuše nebo flora
