@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "哲学/Klasické období filosofie.md",
+            "file": "生物学/Kodominance.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "哲学/Klasické období filosofie.md",
+                "file": "生物学/Kodominance.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "哲学/Klasické období filosofie.md",
+                "file": "生物学/Kodominance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "哲学/Klasické období filosofie.md",
+                "file": "生物学/Kodominance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "哲学/Klasické období filosofie.md"
+                "file": "生物学/Kodominance.md"
               }
             }
           }
@@ -181,6 +181,7 @@
   },
   "active": "4d4a9ba5e7030503",
   "lastOpenFiles": [
+    "哲学/Klasické období filosofie.md",
     "歴史学/WW2.md",
     "英学/FOod.md",
     "英学/Prague.md",
@@ -189,7 +190,6 @@
     "Výtvarka/Křesštanská antika opáčko.md",
     "歴史学/Untitled.md",
     "英学/Brno.md",
-    "哲学/Klasické období filosofie.md",
     "チェコ学/1 - Májovci asi.md"
   ]
 }
