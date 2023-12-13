@@ -229,7 +229,8 @@ Tvorba
 - vyumělkovanost dějových konfliktů
 
 - do literatury vstoupil v roce 1929 románem
-Na západní frontě klid
+
+#### Na západní frontě klid
 - vypravěčem (v 1. osobě sg. i pl.) a zároveň hlavním hrdinou je gymnazista Pavel Bäumer (19 let)
 - po vypuknutí války se se spolužáky dobrovolně přihlásil do armády
 - po výcviku plném šikanování s nimi prodělává zákopové boje na západní frontě
@@ -238,19 +239,21 @@ Na západní frontě klid
 - v den jeho smrti byl podle vojenského hlášení „na západní frontě klid“
 
 - volným pokračováním byl román
-Cesta zpátky
+#### Cesta zpátky
 - osudy lidí zničených válkou
 - návrat domů a konec frontových přátelství
 - zážitky z války vedou k vnitřní prázdnotě a k vykořeněnosti
-Tři kamarádi
+#### Tři kamarádi
 - román
+- poválečná situace
 - příběh kamarádů z války, kteří hledají své místo, smysl života v poválečném Německu
 - hlavní hrdina Robby najde štěstí v lásce k dívce Pat, která však zemře na tuberu
-Černý obelisk
+#### Černý obelisk
 - román popisuje krizovou situaci v Německu po první světové válce
 
+### K WW2
 - k druhé světové válce se vztahují romány
-Miluj bližního svého
+#### Miluj bližního svého
 Vítězný oblouk
 - romány zobrazují traumata emigrantů z hitlerovského Německa
 Jiskra života
@@ -264,7 +267,7 @@ Nebe nezná vyvolených
 - opět motiv dívky umírající na tuberu
 
 
-Arnold Zweig (1878 – 1968)
+## Arnold Zweig (1878 – 1968)
 - prozaik a dramatik
 - pocházel z židovské rodiny
 - po nucené účasti na frontách 1. světové války se začal věnovat publicistice a literatuře
@@ -273,14 +276,14 @@ Arnold Zweig (1878 – 1968)
 
 Tvorba
 - zkušenosti z 1. světové války ho podnítily k vytvoření šestidílného cyklu
-Velká válka bílých mužů
+#### Velká válka bílých mužů
 - patří sem například román
-Spor o seržanta Gríšu
+#### Spor o seržanta Gríšu
 - román vytvořil na základě skutečné události
 - tragický osud ruského zajatce
 
 
-Heinrich Mann (1871 – 1950)
+## Heinrich Mann (1871 – 1950)
 - prozaik a dramatik
 - narodil se v Lübecku v bohaté židovské rodině jako starší bratr spisovatele Thomase Manna
 - za 1. světové války zaujal ostře antimilitaristický postoj, vystupoval proti nacionalismu
@@ -291,7 +294,8 @@ Heinrich Mann (1871 – 1950)
 Tvorba
 - je představitelem kritického realismu
 
-Profesor Neřád
+#### Profesor Neřád
+- Jako Křapová
 - román
 - satira na císařské Německo, na špatné rysy německé povahy, na nedostatky školství
 - gymnaziální profesor latiny a řečtiny Raat je znám svým despotismem

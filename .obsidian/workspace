@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "生物学/Kodominance.md",
+            "file": "チェコ学/6 - Světová próza do poloviny 20. století.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "生物学/Kodominance.md",
+                "file": "チェコ学/6 - Světová próza do poloviny 20. století.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "生物学/Kodominance.md",
+                "file": "チェコ学/6 - Světová próza do poloviny 20. století.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "生物学/Kodominance.md",
+                "file": "チェコ学/6 - Světová próza do poloviny 20. století.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "生物学/Kodominance.md"
+                "file": "チェコ学/6 - Světová próza do poloviny 20. století.md"
               }
             }
           }
@@ -181,6 +181,7 @@
   },
   "active": "4d4a9ba5e7030503",
   "lastOpenFiles": [
+    "生物学/Kodominance.md",
     "哲学/Klasické období filosofie.md",
     "歴史学/WW2.md",
     "英学/FOod.md",
@@ -189,7 +190,6 @@
     "Výtvarka/Byzantské umění.md",
     "Výtvarka/Křesštanská antika opáčko.md",
     "歴史学/Untitled.md",
-    "英学/Brno.md",
-    "チェコ学/1 - Májovci asi.md"
+    "英学/Brno.md"
   ]
 }
