@@ -67,3 +67,9 @@
 	- Eugenika
 
 	- K. R. Popper
+
+## Aristoteles
+- Ctnosti nejsou vrozené
+	- Mravy a Činy tvoří ctnosti v životě
+- Základní mravní ctnost je statečnost
+- 
