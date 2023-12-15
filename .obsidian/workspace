@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "チェコ学/4 - Moderní básnické prostředky.md",
+            "file": "英学/Czechia.md",
             "mode": "source",
             "source": false
           }
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -79,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "チェコ学/4 - Moderní básnické prostředky.md",
+                "file": "英学/Czechia.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -129,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "チェコ学/4 - Moderní básnické prostředky.md",
+                "file": "英学/Czechia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "チェコ学/4 - Moderní básnické prostředky.md",
+                "file": "英学/Czechia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "チェコ学/4 - Moderní básnické prostředky.md"
+                "file": "英学/Czechia.md"
               }
             }
           }
@@ -180,8 +179,9 @@
     "direction": "horizontal",
     "width": 302
   },
-  "active": "7adad84111e43726",
+  "active": "4d4a9ba5e7030503",
   "lastOpenFiles": [
+    "チェコ学/4 - Moderní básnické prostředky.md",
     "チェコ学/6 - Světová próza do poloviny 20. století.md",
     "生物学/Kodominance.md",
     "哲学/Klasické období filosofie.md",
@@ -190,7 +190,6 @@
     "英学/Prague.md",
     "Výtvarka/Gotika.md",
     "Výtvarka/Byzantské umění.md",
-    "Výtvarka/Křesštanská antika opáčko.md",
-    "歴史学/Untitled.md"
+    "Výtvarka/Křesštanská antika opáčko.md"
   ]
 }

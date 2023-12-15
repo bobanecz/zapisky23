@@ -1,0 +1,36 @@
+# Česko yaaaaaaaaaaaaay
+- Unesko
+- Basic Info
+	- 10mil People
+	- 10% foreigners
+		- Strong immigration
+	- Minorities
+		- Slovaks, Polish, Ukranians, Vietnamese, Russians, Roma
+	- 80k km^3
+	- Natural orfers -> Mountains + Rivers
+	- 3 Lands
+		- Bomemia, Moravia, Silezia
+	- Highest mountain
+		- Sněžka 1603
+		- Giant Mountains
+	- Krušné Hory
+		- Dolování
+	- THE OHŘE
+	- ČR - European Watershed
+	- Continental moderate climate
+
+## History
+- Samoa Empire
+- 1st state
+- Great Moravian Empire
+- Czech Crown Kingdom
+	- Přemysl Dynasty
+- 1306 died by sword
+- Luxembourg dynasty
+	- Charles IV
+- Hussite movement
+	- John Huss burt as a hereting 6.july 1415
+- Habsburg Dynasty
+	- Rudolph 2.
+- Czechoslovak Republic 1918
+	- TGM
