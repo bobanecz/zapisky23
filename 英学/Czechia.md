@@ -34,3 +34,32 @@
 	- Rudolph 2.
 - Czechoslovak Republic 1918
 	- TGM
+- WW2 - German Occupation
+- 1948 - Communist era
+- Prague spring 1960s
+- Reform the system
+- Soviet invasion August 1968
+- Velvet revolution 17Nov. 1989
+- 1.1.1993 Czech Reoublic
+
+- Sights
+	- Unesco sights
+	- National Parks
+	- 2000 Castles
+	- Boubin Virgin Forest
+	- South Bohemia -> Ponds and cycling
+
+- Proud
+	- Old Breweries
+	- Wine region
+	- Safe country
+	- Most developed post-communist country
+	- Polite
+	- Reserved
+	- One of the 8 states that can construct and produce airplane engines
+	- High heathcare
+
+- Bad things
+	- Cigs
+	- Beer
+	- 
