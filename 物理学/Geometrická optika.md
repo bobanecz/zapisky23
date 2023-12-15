@@ -35,7 +35,7 @@
 	- Kulové
 
 - Zobrazení dutým zrcadlem
-	- C - střed; F - Ohnisko; obraz
+	- C - střed křivosti; F - Ohnisko; obraz
 ![[Pasted image 20231120130422.png]]
 - Na ohnisku obraz není ~protne se v nekonečnu
 
@@ -49,3 +49,12 @@
 	- r vypoukolst
 - f>0, r>0 Duté
 - Naopak Vypouklé
+
+- Zobrazovací rovnice Kulových zrcadel
+- Znaménková konvence
+$$\frac 1 a + \frac 1 {a'}=\frac 1 f$$
+- Zvětšení -> Z
+- U rovinného zvětšení 1
+- Příčné zvětšení
+$$Z=\frac {y'} y= -\frac {a'} a$$
+$$f = \frac r 2 \rightarrow\rightarrow \frac 1 a + \frac 1 {a'} = \frac 2 r$$

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "英学/Czechia.md",
+            "file": "物理学/Geometrická optika.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "英学/Czechia.md",
+                "file": "物理学/Geometrická optika.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "英学/Czechia.md",
+                "file": "物理学/Geometrická optika.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "英学/Czechia.md",
+                "file": "物理学/Geometrická optika.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "英学/Czechia.md"
+                "file": "物理学/Geometrická optika.md"
               }
             }
           }
@@ -181,6 +181,7 @@
   },
   "active": "4d4a9ba5e7030503",
   "lastOpenFiles": [
+    "英学/Czechia.md",
     "チェコ学/4 - Moderní básnické prostředky.md",
     "チェコ学/6 - Světová próza do poloviny 20. století.md",
     "生物学/Kodominance.md",
@@ -189,7 +190,6 @@
     "英学/FOod.md",
     "英学/Prague.md",
     "Výtvarka/Gotika.md",
-    "Výtvarka/Byzantské umění.md",
-    "Výtvarka/Křesštanská antika opáčko.md"
+    "Výtvarka/Byzantské umění.md"
   ]
 }
