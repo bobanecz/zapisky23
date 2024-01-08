@@ -4,7 +4,14 @@
 - Japonsko a státy Korejského poloostrova
 	- Poloha a vymezení, přírodní poměry, obyvatelstvo, ekonomika, zajímavost velmoci
 
-## Evropská Integrace
+## Evropská integrace
+### Vznik a vývoj
+### Orgány EU
+### Euro-zóna
+### Schengenský prostor
+### EFTA
+### Další evropské integrace
+
 
 ## Japonsko
 ## Korea
