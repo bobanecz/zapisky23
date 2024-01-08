@@ -58,3 +58,4 @@ $$\frac 1 a + \frac 1 {a'}=\frac 1 f$$
 - Příčné zvětšení
 $$Z=\frac {y'} y= -\frac {a'} a$$
 $$f = \frac r 2 \rightarrow\rightarrow \frac 1 a + \frac 1 {a'} = \frac 2 r$$
+- 

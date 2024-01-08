@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "物理学/Geometrická optika.md",
+            "file": "歴史学/WW2.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "物理学/Geometrická optika.md",
+                "file": "歴史学/WW2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "物理学/Geometrická optika.md",
+                "file": "歴史学/WW2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "物理学/Geometrická optika.md",
+                "file": "歴史学/WW2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "物理学/Geometrická optika.md"
+                "file": "歴史学/WW2.md"
               }
             }
           }
@@ -181,6 +181,7 @@
   },
   "active": "4d4a9ba5e7030503",
   "lastOpenFiles": [
+    "物理学/Geometrická optika.md",
     "英学/Czechia.md",
     "チェコ学/4 - Moderní básnické prostředky.md",
     "チェコ学/6 - Světová próza do poloviny 20. století.md",
@@ -189,7 +190,6 @@
     "歴史学/WW2.md",
     "英学/FOod.md",
     "英学/Prague.md",
-    "Výtvarka/Gotika.md",
-    "Výtvarka/Byzantské umění.md"
+    "Výtvarka/Gotika.md"
   ]
 }

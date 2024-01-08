@@ -203,6 +203,21 @@
 - Západ -> Demokracie
 - Východ -> Komunismus
 
+# Svět po WW2
+- Bipolární rozdělení světa
+- Studená válka
+	- USA x USSR
+- Válka založená na konfrontaci
+- 
+Trumanova doktrína
+	Politika zadržování komunismu
+Marshallův plán
+   Americká ekonomická pomoc státům postiženým WW2
+   Aby tam nedošlo ke komunismu
+   podmíněna vyloučením komunistů z vlády a výměnou informací
+Problém německa
+	1. Berlínksá krize
+	Vznik 2 německých států
 
 
 
@@ -214,14 +229,8 @@
 
 
 
-
-
-
-
-
-
-**男の娘男の娘男の娘男の娘男の娘男の娘**
 *男の娘男の娘男の娘男の娘男の娘男の娘*
+**男の娘男の娘男の娘男の娘男の娘男の娘**
 男の娘男の娘男の娘男の娘男の娘男の娘
-*男の娘男の娘男の娘男の娘男の娘男の娘*
 **男の娘男の娘男の娘男の娘男の娘男の娘**
+*男の娘男の娘男の娘男の娘男の娘男の娘*
