@@ -6,6 +6,22 @@
 
 ## Evropská integrace
 ### Vznik a vývoj
+- Politická situace
+	- Po 2. světové válce
+	- Lidi chtěli, aby se přestalo válčit
+	- Špatná ekonomická situace
+	- Strach z opětovného zbrojení na straně německa
+
+- 1952 - Evropské společenství uhlí a oceli
+	- Pařížská instituční smlouva uzavřena 1951
+	- Schumanův plán
+		- Plán na sjednocení EU
+	- Belgie, Nizozemí, Lucembursko, Itálie, Francie a Západní německo
+
+- 1958 - 
+
+
+
 ### Orgány EU
 ### Euro-zóna
 ### Schengenský prostor
