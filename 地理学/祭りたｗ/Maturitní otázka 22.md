@@ -44,7 +44,7 @@
 
 - 1993 - Maastrichtská smlouva
 	- Zavedení pojmu *Evropská Unie*
-	- Zavedení *Eura*
+	- Plán zavedení Eura
 	- Institut občanství EU
 	- "Tři pilíře EU"
 		1. Stávající Společenství
@@ -60,6 +60,9 @@
 - 2001 - Smlouva z Nice
 	- Přizpůsobila instituce k většímu počtu členů
 
+- 2002 - Zavedení Eura
+	- Přijmuto všemi dosavadními členy kromě Británie, Dánska a Švédska
+
 - 1.5.2004 - Připojení ČR
 
 - 2009 - Lisabonská smlouva
@@ -74,7 +77,8 @@
 ### Orgány EU
 #### Evropská komise
 #### Rada Evropské Unie
-####  Evrop
+#### Evropský parlament
+#### Soudní dvůr EU
 
 ### Euro-zóna
 ### Schengenský prostor
