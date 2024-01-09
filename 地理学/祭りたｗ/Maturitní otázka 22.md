@@ -142,9 +142,21 @@
 #### Evropská centrální banka
 - Založena 1.6.1998
 - Sídlí ve Frankfurtu nad Mohanem
+- Prezidentka - Christine Lagardeová (od 2019)
+- Je kritizována za její relativně nízkou míru nezávislosti
 - Má za úkol
 	- Dodržovat stabilitu cen v euro-zóně
-	- Řídit měnovou politiku EU 
+	- Řídit měnovou politiku EU
+		- Povolování zemím tisknout bankovky
+	- Statistika
+	- Finanční spolupráce
+- Orgány ECB
+	- Výkonná rada
+		- Prezident, Víceprezident + další 4 členové
+		- Jmenováni evropskou radou
+		- Osmileté funkční období
+	- Rada guvernérů
+	- Generální rada
 
 #### Soudní dvůr EU
 - Nejvyšší soud EU
@@ -172,8 +184,25 @@
 	- 6 let funkční období
 
 ### Euro-zóna
-- 
+- Měnová unie
+- Tvořena z 20 států, které přijaly euro
+- Měnová politika Eurozóny je určena ECB
+	- Hlavním úkolem ECB je udržovat inflaci pod kontrolou
+- Žádný stát zatím Eurozónu neopustil
+	- Debatovalo se ale, že by řecko mohlo opustit Eurozónu v první polovině desátých let 21. století. Nakonec se tak nestalo, jelikož by to mělo velmi pravděpodobně devastující účinky pro řeckou ekonomiku a neblahé účinky pro rozvoj eurozóny 
+- Kosovo a Černá Hora přijaly euro jednostranně
+- Poslední stát, který se připojil do Eurozóny je 1.1.2023 Chorvatsko
+
+- Podmínky pro vstup
+	1. Cenová stabilita
+	2. Zdravé a udržitelné veřejné finance
+	3. Stabilita směnného kurzu
+	4. Nízké dlouhodobé úrokové sazby
+
+![[Pasted image 20240109050914.png]]
+
 ### Schengenský prostor
+- 
 ### EFTA
 ### Další evropské integrace
 
