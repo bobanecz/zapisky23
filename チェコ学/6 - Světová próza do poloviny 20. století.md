@@ -548,7 +548,7 @@ Tvorba
 - sní o místě, které by mohli chápat jako domov
 - Rasismus
 - Hospodářská krize
-- 
+
 
 Hrozny hněvu
 - kritický sociální román
