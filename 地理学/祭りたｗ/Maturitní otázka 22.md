@@ -76,27 +76,41 @@
 
 ### Orgány EU
 #### Evropský parlament
-- 905 Poslanců
+- 705 Poslanců
 	- Rozdělení do 7mi politických stran
 - Brusel, Strasbourg a Lucembursko
 - Jedna ze dvou legislativních jednotek EU
 	- Jsou na stejné úrovni
+- Prezident je volen většinově na období dvou a půl roku
+- Aktuálně je jím Roberta Metsolaová
+
 **Pravomoce**
 1. Legislativní
-	- Když Evropská komise přednese návrh na zákon:
-		1. 20 zpravodajů se dohodne na dodatcích
-			- Každý z nich se stará o jednu zájmovou oblast EU
-			- Např. Zahraniční vztahy, Zemědělství, Doprava...
-		2. O zákonu se hlasuje poslanci většinově
-			- Pokud zákon projde, Posílá se na Radu EU
-2. Dozorčí
+	- Když Evropská komise přednese návrh na zákon, o zákonu se hlasuje poslanci většinově
+		- Pokud zákon projde, Posílá se na Radu EU
+1. Dozorčí
 	- Přehlíží akce a rozhodnutí ostatních Evropských institucí
 	- Smí držet stání a vyžadovat vysvětlení od členů komise
-	- Má možnost 
+	- Má možnost přinutit Komisi k resignaci, pokud se na tom dohodnou 2/3 hlasů
+	- Lidé se smí obracet na parlament s peticemi
+	- Občané EU se mohou obracet k Ombudsmanovi
+2. Rozpočtová
+	- Parlament spolu s Radou EU sestavuje a schvaluje rozpočty
+	- Rozpočet nevstoupí v platnost, dokud ho nepodepíše předseda Evropského parlamentu
+	- Parlament má u většiny položek poslední slovo a může ho vetovat
 
 #### Evropská rada
 #### Rada Evropské Unie
 #### Evropská komise
+- Brusel
+- Exekutivní funkce
+- 27 komisařů
+	- Jeden z každého členského státu
+		- Každý zastupuje jednu oblast politiky
+**Funkce**
+1. Legislativní
+	- Vynáší propozice na nové zákony, které následně předá perlamentu
+2. 
 #### Soudní dvůr EU
 #### Evropská centrální banka
 #### Evropský účetní dvůr
