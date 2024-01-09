@@ -254,8 +254,25 @@ Masto
 ní vl
 
 Právo šarija
+Cýchodní vúchod
+Výrazně ovlin=
 
-P                                                                                                                                                                                                                                                                                             
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff=c\|
+
+Snaha o koinci 1955
+
+ffffffffffffffffffff
+Ženevská konvence
+Společná jednání
+Smlouvy Salt1 a sakt 2
+
+Girlfriend and girlfriend picture looking sad crying wirth sakt on them on too christmas sock cute hug 
+
+odsunul
+majetkové spory
+Willy brant
+
+																																																																							 Vý
 
 
 
