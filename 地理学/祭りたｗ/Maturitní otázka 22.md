@@ -75,10 +75,31 @@
 - Z původních smluv ES dnes platí pouze Euratom
 
 ### Orgány EU
-#### Evropská komise
-#### Rada Evropské Unie
 #### Evropský parlament
+- 905 Poslanců
+	- Rozdělení do 7mi politických stran
+- Brusel, Strasbourg a Lucembursko
+- Jedna ze dvou legislativních jednotek EU
+	- Jsou na stejné úrovni
+**Pravomoce**
+1. Legislativní
+	- Když Evropská komise přednese návrh na zákon:
+		1. 20 zpravodajů se dohodne na dodatcích
+			- Každý z nich se stará o jednu zájmovou oblast EU
+			- Např. Zahraniční vztahy, Zemědělství, Doprava...
+		2. O zákonu se hlasuje poslanci většinově
+			- Pokud zákon projde, Posílá se na Radu EU
+2. Dozorčí
+	- Přehlíží akce a rozhodnutí ostatních Evropských institucí
+	- Smí držet stání a vyžadovat vysvětlení od členů komise
+	- Má možnost 
+
+#### Evropská rada
+#### Rada Evropské Unie
+#### Evropská komise
 #### Soudní dvůr EU
+#### Evropská centrální banka
+#### Evropský účetní dvůr
 
 ### Euro-zóna
 ### Schengenský prostor
