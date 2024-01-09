@@ -78,7 +78,8 @@
 #### Evropský parlament
 - 705 Poslanců
 	- Rozdělení do 7mi politických stran
-- Brusel, Strasbourg a Lucembursko
+	- Volební období - 5 let
+- Brusel, Strasbourg a Lucemburk
 - Jedna ze dvou legislativních jednotek EU
 	- Jsou na stejné úrovni s Radou EU
 - Prezident je volen většinově na období dvou a půl roku
@@ -88,13 +89,13 @@
 1. Legislativní
 	- Když Evropská komise přednese návrh na zákon, o zákonu se hlasuje poslanci většinově
 		- Pokud zákon projde, Posílá se na Radu EU
-1. Dozorčí
+2. Dozorčí
 	- Přehlíží akce a rozhodnutí ostatních Evropských institucí
 	- Smí držet stání a vyžadovat vysvětlení od členů komise
 	- Má možnost přinutit Komisi k resignaci, pokud se na tom dohodnou 2/3 hlasů
 	- Lidé se smí obracet na parlament s peticemi
 	- Občané EU se mohou obracet k Ombudsmanovi
-2. Rozpočtová
+3. Rozpočtová
 	- Parlament spolu s Radou EU sestavuje a schvaluje rozpočty
 	- Rozpočet nevstoupí v platnost, dokud ho nepodepíše předseda Evropského parlamentu
 	- Parlament má u většiny položek poslední slovo a může ho vetovat
@@ -107,7 +108,6 @@
 	- Jeden z každého členského státu
 		- Každý zastupuje jednu oblast politiky
 
-
 **Funkce**
 1. Legislativní
 	- Vynáší propozice na nové zákony, které následně předá perlamentu
@@ -117,24 +117,62 @@
 4. Zacházení s rozpočtem
 
 #### Rada Evropské Unie
+- Brusel
+- Generální tajemnice Thérèse Blancheová
 - Druhá ze dvou legislativních jednotek EU
-- Je tvořena z Ministrů z každého členského státu
+- Je tvořena z Velvyslanců z každého členského státu
 - Každá oblast politiky by měla mít 27 ministrů
 - Tito ministři jsou poté zodpovědní za implementaci zákonů
 
 **Funkce**
 1. Legislativní
 	- Narozdíl od parlamentu zastupuje zájmy států jako jednotlivců, ne jako celku
-		~ Parlament má zastupovat obyvatele a Rada 
-	- 
-2. 
+		~ Parlament má zastupovat obyvatele a Rada vládu daných zemí
+	- Pro uznání zákonu je třeba naplnit systém trojí většiny
+		1. Minimálně 260 hlasů z 352
+		2. Nadpoloviční většina členských států
+		3. Součet počtu obyvatel zemí, které hlasovaly pro musí být minimálně 62% populace EU
+1. Koordinace opatření
+	- Ministři mají za úkol hlídat, že všecha opatření a akce EU se konzistentně dodržují v jejich zemích
+2. Tvoření a implementace žahraničních a bezpečnostní politiky
+	- Podle osnov podaných Evropskou radou
+3. Rozpočtová
+	- Spolupráce s parlamentem
+
+#### Evropská centrální banka
+- Založena 1.6.1998
+- Sídlí ve Frankfurtu nad Mohanem
+- Má za úkol
+	- Dodržovat stabilitu cen v euro-zóně
+	- Řídit měnovou politiku EU 
 
 #### Soudní dvůr EU
-#### Evropská centrální banka
-#### Evropský účetní dvůr
+- Nejvyšší soud EU
+- Sídlí v Lucemburku
+- Za každý stát 1 soudce
+	- Voleni na dobu 6 let
+- Tribunál
+
+**Funkce**
+1. Přezkoumává legalitu akcí orgánů EU
+2. Dbá na dodržování povinností členských států vyplývajících ze Smluv
+3. Vykládá právo Unie na žádost vnitrostátních soudů
+
 #### Evropská rada
+- Brusel
+- Členové jsou hlavy států nebo předsedové vlád členských zemí
+- Schází se čtyřikrát ročně
+- Vymezuje obecné politické směry a priority EU
+
+#### Evropský účetní dvůr
+- Provádí kontrolu finančních prostředků EU
+- Každoročně podává výroční zprávu
+- 27 Členů zastupující každý členský stát
+	- Členové jmenovaní radou EU
+	- 6 let funkční období
 
 ### Euro-zóna
+- 
 ### Schengenský prostor
 ### EFTA
 ### Další evropské integrace
