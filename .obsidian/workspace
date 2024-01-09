@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "チェコ学/6 - Světová próza do poloviny 20. století.md",
+            "file": "歴史学/WW2.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "myších",
+                "query": "vietnams",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "チェコ学/6 - Světová próza do poloviny 20. století.md",
+                "file": "歴史学/WW2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "チェコ学/6 - Světová próza do poloviny 20. století.md",
+                "file": "歴史学/WW2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "チェコ学/6 - Světová próza do poloviny 20. století.md",
+                "file": "歴史学/WW2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "チェコ学/6 - Světová próza do poloviny 20. století.md"
+                "file": "歴史学/WW2.md"
               }
             }
           }
@@ -182,13 +182,13 @@
   },
   "active": "7adad84111e43726",
   "lastOpenFiles": [
+    "チェコ学/6 - Světová próza do poloviny 20. století.md",
     "地理学/祭りたｗ/Maturitní otázka 22.md",
     "地理学/祭りたｗ/Maturitní otázka 3.md",
     "歴史学/WW2.md",
     "物理学/Geometrická optika.md",
     "英学/Czechia.md",
     "チェコ学/4 - Moderní básnické prostředky.md",
-    "チェコ学/6 - Světová próza do poloviny 20. století.md",
     "生物学/Kodominance.md",
     "哲学/Klasické období filosofie.md",
     "英学/FOod.md"

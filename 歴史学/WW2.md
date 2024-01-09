@@ -218,6 +218,45 @@ Marshallův plán
 Problém německa
 	1. Berlínksá krize
 	Vznik 2 německých států
+	Blokáda dodávek do západního berlína
+	Letadla
+	
+
+2. Berlínská krize
+	- Masivní odliv východoněmecké inteligence do západního berlína
+	- Kennedy řekl, že je kobliha
+	- Zeď
+
+-  Karibská krize
+- Kuba
+	- Fidel castro
+	- Invaze v Zátoce sviní
+	- Rozmístění atomových zbraní
+		- Námořní blokáda
+	Krom korejské války další nebezpečí WW3
+
+Válka v afghánistánu
+SSSR + Afgánistán
+Komunistická diktatura
+N
+Začátek propagace ateismu
+SS na podporu provedl vojenskou invazi di a
+S´Po arabso izraelských válkách USSR přicházeo
+Gorbačov rozhodl 
+
+Sovětsk´á 
+AMerika si zase vydělává
+Moskva
+1980 olympijské hry
+Sovětský svazn nebyl schopný zas-ahnout
+Válka s USA
+Masto
+ní vl
+
+Právo šarija
+
+P                                                                                                                                                                                                                                                                                             
+
 
 
 
