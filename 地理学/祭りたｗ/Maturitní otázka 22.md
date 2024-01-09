@@ -202,9 +202,42 @@
 ![[Pasted image 20240109050914.png]]
 
 ### Schengenský prostor
-- 
+- Leží na území 27 evropských států
+	- 23 zemí patřících do evropské unie + 4 Přidružené
+	- Nepatří zde Bulharsko, Kypr, Irsko a Rumunsko
+	- Patří zde Island, Norsko, Švýcarsko a Lichtenštejnsko
+	- Zahrnuty jsou I zámořské Azory, Madeira a Kanárské ostrovy
+	- Velká část zámořských oblastí EU do Shengenského prostoru nepatří
+- Odvijí se od Schengenských dohod
+- Principy
+	- Osoby mohou překračovat vnitřní hranice de facto jako kdyby tam vůbec nebyly
+	- Není třeba procházet hraniční kontrolou
+	- Několikrát se ale objevila situace, kdy byly hraniční kontroly obnoveny
+		- Mistrovství světa v atletice 2005 ve Finsku
+		- Mistrovství světa ve fotbale 2006 v Německu
+		- Covid-19
+	- Oproti tomu existují pečlivé kontroly na vnějších hranicích
+	- Cizinci mají jedno vízum, které platí pro celý Schengenský prostor
+	- Rozhodnutí, zabraňující nějaké osobě vstup do jedné členské země blokují vstup do celého Schengenského prostoru
+
+![[Pasted image 20240109055958.png]]
+*Hranice mezi Nizozemím a Belgií*
+
+![[Pasted image 20240109055702.png]]
+
 ### EFTA
+~ Evropské sdružení volného obchodu
+- Aktuální členové: Island, Lichtenštejnsko, Norsko a Švýcarsko
+	- V největším rozpětí bylo 9 členů, avšak většina přestoupila do EU
+- Založeno v roce 1960
+	- Rakousko, Dánsko, Norsko, Portugalsko, Švédsko, Švýcarsko a Spojené království
+- Podpora prosperity a hospodářské spolupráce mezi členy
+- V roce 1992 s EU uzavřeli dohodu o vytvoření Evropského hospodářského prostoru
+	- Kromě Švýcarska, které v referendu účast v Evropském hospodářském prostoru odmítli
+
 ### Další evropské integrace
+CEFTA
+V4
 
 
 ## Japonsko
