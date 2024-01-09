@@ -80,7 +80,7 @@
 	- Rozdělení do 7mi politických stran
 - Brusel, Strasbourg a Lucembursko
 - Jedna ze dvou legislativních jednotek EU
-	- Jsou na stejné úrovni
+	- Jsou na stejné úrovni s Radou EU
 - Prezident je volen většinově na období dvou a půl roku
 - Aktuálně je jím Roberta Metsolaová
 
@@ -99,21 +99,40 @@
 	- Rozpočet nevstoupí v platnost, dokud ho nepodepíše předseda Evropského parlamentu
 	- Parlament má u většiny položek poslední slovo a může ho vetovat
 
-#### Evropská rada
-#### Rada Evropské Unie
 #### Evropská komise
 - Brusel
+- Předsedkyně Ursula von der Leyenová
 - Exekutivní funkce
 - 27 komisařů
 	- Jeden z každého členského státu
 		- Každý zastupuje jednu oblast politiky
+
+
 **Funkce**
 1. Legislativní
 	- Vynáší propozice na nové zákony, které následně předá perlamentu
+2. Vymáhací
+	- Monitoruje implementaci Evropských zákonů v členských zemích a smí podniknout právní kroky(např. sankce) proti zemím které je odmítnou implementovat.
+3. Reprezentativní
+4. Zacházení s rozpočtem
+
+#### Rada Evropské Unie
+- Druhá ze dvou legislativních jednotek EU
+- Je tvořena z Ministrů z každého členského státu
+- Každá oblast politiky by měla mít 27 ministrů
+- Tito ministři jsou poté zodpovědní za implementaci zákonů
+
+**Funkce**
+1. Legislativní
+	- Narozdíl od parlamentu zastupuje zájmy států jako jednotlivců, ne jako celku
+		~ Parlament má zastupovat obyvatele a Rada 
+	- 
 2. 
+
 #### Soudní dvůr EU
 #### Evropská centrální banka
 #### Evropský účetní dvůr
+#### Evropská rada
 
 ### Euro-zóna
 ### Schengenský prostor
