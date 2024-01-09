@@ -542,10 +542,13 @@ Tvorba
 - jeho hrdinové, zejména primitivní, chudí duchem, mají blízko k Bohu, k přírodě
 - často se zabývá konfliktem dobra a zla v člověku
 
-O myších a lidech
+#### O myších a lidech
 - novela
 - příběh dvou chudáků, kteří putují za prací
 - sní o místě, které by mohli chápat jako domov
+- Rasismus
+- Hospodářská krize
+- 
 
 Hrozny hněvu
 - kritický sociální román
