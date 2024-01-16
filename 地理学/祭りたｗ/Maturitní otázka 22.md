@@ -236,9 +236,22 @@
 	- Kromě Švýcarska, které v referendu účast v Evropském hospodářském prostoru odmítli
 
 ### Další evropské integrace
-CEFTA
-V4
+**CEFTA**
+**Varšavská smlouva**
 
+**Visegrádská čtyřka** **(V4)**
+- Česko, Maďarsko, Polsko a Slovensko
+- Vznikla 15.2.1991
+	~ Těsně před zánikem varšavské smlouvy
+- Zakládá se o blízkou spolupráci členských zemí
+**Rada Evropy**
+- Vznikla 5.5.1949 v Haagu
+	- Původně se měla starat o Evropskou Integraci, což se nepodařilo, a převzalo to Evropské společenství
+	- Teď se stará o problematiku lidských práv a svobod
+**Rada vzájemné hospodářské pomoci**
+- Založena v roce 1949 v Moskvě
+- Sdružovala státy sovětského bloku
+- De facto nástroj na ovládání ekonomiky členských států
 
 ## Japonsko
 ## Korea
