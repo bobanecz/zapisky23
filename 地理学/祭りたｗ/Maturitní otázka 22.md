@@ -237,8 +237,19 @@
 
 ### Další evropské integrace
 **CEFTA**
-**Varšavská smlouva**
-
+~Středoevropská zóna volného obchodu
+- Sdružuje některé evropské země, které nejsou členy EU, ale plánují být
+- Vznikla v roce 1992 v Polsku
+- Zóna volného obchodu
+-> Podobná smlouva byla v Baltických zemích - **BAFTA**
+**Varšavská smlouva** (**Smlouva o přátelství, spolupráci a vzájemné pomoci**)
+- Vojenský pakt osmi zemí východního bloku
+	- Albánie, Bulharsko, ČSR, Maďarsko, NDR, Polsko, Rumunsko, SSSR
+- Podepsána 15.5.1995
+**Rada vzájemné hospodářské pomoci**
+- Založena v roce 1949 v Moskvě
+- Sdružovala státy sovětského bloku
+- De facto nástroj na ovládání ekonomiky členských států
 **Visegrádská čtyřka** **(V4)**
 - Česko, Maďarsko, Polsko a Slovensko
 - Vznikla 15.2.1991
@@ -248,10 +259,6 @@
 - Vznikla 5.5.1949 v Haagu
 	- Původně se měla starat o Evropskou Integraci, což se nepodařilo, a převzalo to Evropské společenství
 	- Teď se stará o problematiku lidských práv a svobod
-**Rada vzájemné hospodářské pomoci**
-- Založena v roce 1949 v Moskvě
-- Sdružovala státy sovětského bloku
-- De facto nástroj na ovládání ekonomiky členských států
 
 ## Japonsko
 ## Korea
