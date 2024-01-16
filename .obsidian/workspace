@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "歴史学/WW2.md",
+            "file": "地理学/祭りたｗ/Maturitní otázka 22.md",
             "mode": "source",
             "source": false
           }
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -79,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "歴史学/WW2.md",
+                "file": "地理学/祭りたｗ/Maturitní otázka 22.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -129,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "歴史学/WW2.md",
+                "file": "地理学/祭りたｗ/Maturitní otázka 22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "歴史学/WW2.md",
+                "file": "地理学/祭りたｗ/Maturitní otázka 22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "歴史学/WW2.md"
+                "file": "地理学/祭りたｗ/Maturitní otázka 22.md"
               }
             }
           }
@@ -180,12 +179,12 @@
     "direction": "horizontal",
     "width": 302
   },
-  "active": "7adad84111e43726",
+  "active": "4d4a9ba5e7030503",
   "lastOpenFiles": [
+    "歴史学/WW2.md",
     "チェコ学/6 - Světová próza do poloviny 20. století.md",
     "地理学/祭りたｗ/Maturitní otázka 22.md",
     "地理学/祭りたｗ/Maturitní otázka 3.md",
-    "歴史学/WW2.md",
     "物理学/Geometrická optika.md",
     "英学/Czechia.md",
     "チェコ学/4 - Moderní básnické prostředky.md",
