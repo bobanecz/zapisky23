@@ -1,5 +1,8 @@
 # Česká republika – přírodní poměry
 ## Geologický vývoj
+### Prvohory
+- Několikrát zaplaveno mořem
+- 
 ## Geomorfologické členění
 ## Povrch
 ## Půdy
