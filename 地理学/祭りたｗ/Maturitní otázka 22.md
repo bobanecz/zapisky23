@@ -261,7 +261,304 @@
 	- Teď se stará o problematiku lidských práv a svobod
 
 ## Japonsko
-## Korea
-### Konflikt
-### Severní Korea
-### Jižní Korea
+- Ostrovní stát
+- Hlavní město: Tokyo
+- Obyvatelstvo: 126mil.
+	~Filipíny/Mexico
+- Další důležitá města:
+	- Sapporo
+	- Kjóto
+	- Oosaka
+	- Okinawa
+	- Hirošima
+- Rozloha: 377 974km²
+	- Přirovnatelné k Německu
+- Hustota zalidnění: 347.4 obyvatel/km²
+	~Nizozemí
+- Měna: Jen (￥/円)
+- HDP na občana: $42 940
+- HDP: $4 940 877 780 755
+	- Třetí největší na světě
+- Státní zřízení: Konstituční monarchie
+- Císař: Naruhito
+	- Reprezentace
+- Předseda vlády: Fumio Kišida
+	- Šinzou abe
+- Země je součástí:
+	- Spojené národy
+	- G7
+	- G20
+	- OECD (*Organizace pro hospodářskou spolupráci a rozvoj*)
+	- APEC
+	- IMF
+	- World Bank
+	- WTO
+
+### Povrch
+- Dělení na 47 prefektur (8 regionů)
+- Souostroví
+- 7000 Ostrovů
+	- Důležité:
+		- Honšú
+		- Kjúšú
+		- Hokkaidó
+		- Okinawa
+		- Šikoku
+- Sopečný původ
+- 60% aktivních
+- Hornatý povrch
+- Nejvyšší hora: Fudži (富士山)
+
+### Vodstvo
+- Tichý oceán
+- Moře:
+	- Japonské moře
+	- Východočínské moře
+	- Ochotské moře
+- Korejský průliv
+- Krátké dravé horské řeky
+- Nejdelší řeka: Šinano (信濃川)
+- Horská jezera
+- Největší jezero: Biwa(琵琶湖)
+- Turisticky významná jezera okolo Fudži
+
+### Podnebí
+- Rozmanité
+- Mírný až subtropický pás
+- Vliv monzunů
+- Horká a vlhká léta
+- Studené zimy
+~1600mm srážek
+
+### Historie
+- Izolace 1639-1854
+- Války s Čínou a Koreí
+- První čínsko-japonská válka 1894-95
+- Anexe Koreje: 1910
+- Mandžuský incident: 1931
+- Druhá čínsko-japonská válka 1937-1945
+	- Čína, SSSR a USA
+	- Embarga od USA
+	- Smlouva o neútočení s SSSR
+	- Hirošima a Nagasaki
+- Okupace 1945-1952
+- Ekonomický růst
+- USA zlevnila dolar
+- Japonsko zvýšilo sazby na půjčování mezi bankami
+- Ztracené dekády
+
+### Průmysl
+- Technologie (35%)
+	- Sony
+	- Canon
+	- Panasonic
+	- Nikon
+- Auta (20%)
+	- Toyota
+	- Mitsubishi
+	- Suzuki
+	- Nissan
+	- Honda
+- Zdravotnictví (6%)
+	- Astellas Pharma
+	- Takeda Pharmaceutical
+
+### Zemědělství
+- 1% HDP
+- 12% Půdy vhodné k pěstování
+- Systém teras
+- Jedna z nejvyšších úrovní výnosu plodin na jednotku plochy
+- Rýže
+- Sója
+- Cukrová řepa
+- Cukrová třtina
+- Kaki
+- Brambory
+- Zelí
+- Sladké brambory
+- Taro (Kolokázie jedlá)
+
+### Doprava
+
+
+### Jazyk
+- Japonsko-rjúkjúské jazyky
+- Japonsko a Tchai-wan
+- 3 abecedy
+- Úrovně zdvořilosti
+- 128mil rodilých mluvčích
+
+### Náboženství
+- Jedna z nejméně věřících zemí
+- 31% Buddhismus
+- 3% Shinto
+- 1% Křesťanství
+- 65% Bez vyznání
+
+### Šinto
+- Polyteistické náboženství
+- Necentralizované
+- Soužití s buddhismem
+- Uctívání přírody
+- Kami a Jókai
+- Objekty a místa
+- Torii
+
+### Památky
+- Fujimi inari
+- Kijomizu-dera
+- Ósacký hrad
+- Himedži
+- Kókjo
+
+## Severní Korea
+- hlavní město: Pchjongjang
+- úřední jazyk: korejština
+- rozloha: 120 540 km²
+- počet obyvatel: 26 000 000 (2021)
+- hustota zalidnění: 216,6 obyvatel/km² 
+- státní zřízení: diktatura
+- diktátor: Kim Čong-un
+- měna: severokorejský won (0.024 CZK)
+- náboženství: 
+	64 % - bez vyznání
+	16 % - korejský šamanismus
+	13,5 % čeondoismus
+	4,5 % - buddhisté 
+	1,7% - křesťané
+
+### Povrch
+- Korejský poloostrov
+- velmi hornatý
+- nejvyšší hora: Pektusan (2 744 m n. m.)
+- většina obyvatel žije v rovinách a nížinách
+
+### Vodstvo
+- Žluté moře
+- Japonské moře
+- nejdelší řeka: Jalu (790 km)
+
+### Podnebí
+- vliv monzunů
+- léta vlhká a teplá, zimy studené a suché 
+
+### Politický systém
+- ideologie čučche
+- Kim Ir-Sen (“věčný prezident”)
+- pravidelné čistky
+- totalita
+- izolace země (zejména od západu)
+- Kim Čong-nam 
+	- 2017 – zavražděn jedem na letišti
+
+### Armáda
+- 3. největší armáda na světě
+- jaderný program - uvalení sankcí 
+- povinná vojna i pro ženy (do 23 let)
+
+### Jaderný program
+- jaderná velmoc
+- jaderné testy
+- sankce OSN
+
+### Ekonomika
+- velmi zaostalá
+- hladomor
+- závislost na dovozu potravin ze zahraničí 
+- nezaměstnanost - 25 %
+- těžba nerostných surovin (např. uhlí, železná ruda, vápenec, magnezit, grafit)
+- HDP na obyvatele: $1 300
+- Vývoz drog
+	- Hlavní odbytiště - Čína
+	- užívání metamfetaminu místo léků 
+	- závislost (až 50 % obyvatel)
+
+### Zdravotnictví
+- akutní nedostatek lékařů 
+- operace často prováděny bez anestezie 
+- nesterilní jehly, rezavé skalpely
+
+### Lidská Práva
+- porušování lidských práv 
+- koncentrační tábory
+- internet je cenzurován, je možné se pouze připojit na severokorejský intranet (pouze 28 stránek), který je monitorován 
+
+## Jižní Korea
+hlavní město: Soul
+úřední jazyk: korejština
+rozloha: 98 480 km²
+počet obyvatel: 51,7 mil. (2021)
+hustota zalidnění: 492 obyvatel/km² 
+státní zřízení: prezidentská republika
+prezident: Jun Sok-jol
+měna: jihokorejský won (0.018 CZK)
+náboženství: 
+46 % - bez vyznání
+30 % - křesťanství 
+23 % - buddhismus 
+VÝZNAMNÁ MĚSTA 
+Soul
+Pusan
+Inčchon
+Tegu
+
+POVRCH
+velmi hornatý
+Diamantové hory
+ostrov Čedžu
+pohoří Tchebek
+pohoří Sobek
+VODSTVO
+Hangang
+Kumgang
+Žluté moře
+Japonské moře
+PODNEBÍ
+mírné 
+monzunové
+velké rozdíly mezi létem a zimou
+VZDĚLÁVACÍ SYSTÉM
+velký důraz 
+tlak na úspěch ve škole - vysoká  míra sebevražednosti
+příliš mnoho vysokoškolských absolventů - relativní nedostatek pracovních sil 
+ZDRAVOTNICTVÍ 
+druhé nejkvalitnější zdravotnictví na světě
+vysoká průměrná délka života - 82,8 roku
+nízká míra pociťovaného štěstí obyvatel
+nejvyšší sebevražednost ze zemí OECD (dospívající a důchodci)
+DOPRAVA
+rozvinutá dopravní síť
+dálnice - 4000 km - nesmí po nich jezdit motocykly
+vysokorychlostní vlaky
+Korean Air 
+PRŮMYSL
+jedna z nejvyspělejších zemí na světě
+HDP na obyvatele: $39 091
+
+Známé firmy:
+SAMSUNG
+LG Electronics
+HYUNDAI
+KIA
+PAMÁTKY
+N Seoul Tower
+Gyeongbokgung
+Hwasong
+Klášter Pulguksa
+
+## Konflikt
+- 1945 - rozdělení na severní a jižní část
+- Severní část - ovládaná SSSR (komunistická)
+- Jižní část - ovládaná USA (kapitalistická)
+- neschopnost dohodnout se na společné správě = vznik ideologicky antagonistických států: Korejské lidově demokratické republiky a Korejské republiky
+
+###  Korejská válka (1950 – 1953)
+- KLDR, Čína a SSSR x OSN a USA
+- snaha KLDR sjednotit Koreu pod komunistickou vládou
+- až 3,5 mil. obětí
+- Ustanovení demilitarizovaného pásma
+	- Demarkační linie
+		- 38. rovnoběžka
+		- nejstřeženější hranice světa
+		- 250 km dlouhá 4 km široká
+
