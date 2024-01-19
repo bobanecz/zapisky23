@@ -32,6 +32,8 @@
 	- 1985 - Grónsko opustilo EU na základě referenda v roce 1982
 	- 1.1.1986 - Španělsko a Portugalsko
 
+![[Pasted image 20240119200500.png]]
+
 - Schengenský prostor
 	- 1985 - Schengenská dohoda
 	- 1986(Přijat 7) - Jednotný evropský akt
@@ -84,6 +86,8 @@
 	- Jsou na stejné úrovni s Radou EU
 - Prezident je volen většinově na období dvou a půl roku
 - Aktuálně je jím Roberta Metsolaová
+
+![[Pasted image 20240119200716.png]]
 
 **Pravomoce**
 1. Legislativní
@@ -484,67 +488,63 @@
 - internet je cenzurován, je možné se pouze připojit na severokorejský intranet (pouze 28 stránek), který je monitorován 
 
 ## Jižní Korea
-hlavní město: Soul
-úřední jazyk: korejština
-rozloha: 98 480 km²
-počet obyvatel: 51,7 mil. (2021)
-hustota zalidnění: 492 obyvatel/km² 
-státní zřízení: prezidentská republika
-prezident: Jun Sok-jol
-měna: jihokorejský won (0.018 CZK)
-náboženství: 
-46 % - bez vyznání
-30 % - křesťanství 
-23 % - buddhismus 
-VÝZNAMNÁ MĚSTA 
-Soul
-Pusan
-Inčchon
-Tegu
+- hlavní město: Soul
+- úřední jazyk: korejština
+- rozloha: 98 480 km²
+- počet obyvatel: 51,7 mil. (2021)
+- hustota zalidnění: 492 obyvatel/km² 
+- státní zřízení: prezidentská republika
+- prezident: Jun Sok-jol
+- měna: jihokorejský won (0.018 CZK)
+- náboženství: 
+	- 46 % - bez vyznání
+	- 30 % - křesťanství 
+	- 23 % - buddhismus 
+- významná města 
+	- Soul
+	- Pusan
+	- Inčchon
+	- Tegu
 
-POVRCH
-velmi hornatý
-Diamantové hory
-ostrov Čedžu
-pohoří Tchebek
-pohoří Sobek
-VODSTVO
-Hangang
-Kumgang
-Žluté moře
-Japonské moře
-PODNEBÍ
-mírné 
-monzunové
-velké rozdíly mezi létem a zimou
-VZDĚLÁVACÍ SYSTÉM
-velký důraz 
-tlak na úspěch ve škole - vysoká  míra sebevražednosti
-příliš mnoho vysokoškolských absolventů - relativní nedostatek pracovních sil 
-ZDRAVOTNICTVÍ 
-druhé nejkvalitnější zdravotnictví na světě
-vysoká průměrná délka života - 82,8 roku
-nízká míra pociťovaného štěstí obyvatel
-nejvyšší sebevražednost ze zemí OECD (dospívající a důchodci)
-DOPRAVA
-rozvinutá dopravní síť
-dálnice - 4000 km - nesmí po nich jezdit motocykly
-vysokorychlostní vlaky
-Korean Air 
-PRŮMYSL
-jedna z nejvyspělejších zemí na světě
-HDP na obyvatele: $39 091
+### Povrch
+- velmi hornatý
+- Diamantové hory
+- ostrov Čedžu
+- pohoří Tchebek
+- pohoří Sobek
 
-Známé firmy:
-SAMSUNG
-LG Electronics
-HYUNDAI
-KIA
-PAMÁTKY
-N Seoul Tower
-Gyeongbokgung
-Hwasong
-Klášter Pulguksa
+### Vodstvo
+- Hangang
+- Kumgang
+- Žluté moře
+- Japonské moře
+### Podnebí 
+- vliv monzunů
+- léta vlhká a teplá, zimy studené a suché
+
+### Zdravotnictví
+- druhé nejkvalitnější zdravotnictví na světě
+- vysoká průměrná délka života - 82,8 roku
+- nízká míra pociťovaného štěstí obyvatel
+- nejvyšší sebevražednost ze zemí OECD (dospívající a důchodci)
+
+ ### Doprava
+- rozvinutá dopravní síť
+- dálnice - 4000 km - nesmí po nich jezdit motocykly
+- vysokorychlostní vlaky
+- Korean Air 
+
+### Průmysl
+- jedna z nejvyspělejších zemí na světě
+- HDP na obyvatele: $39 091
+- Značka samsung tvoří 20% exportu země
+	- Symbol národní hrdosti
+	- Podporovaná státem
+- Známé firmy:
+	- Samsung
+	- LG Electronics
+	- Hyundai
+	- KIA
 
 ## Konflikt
 - 1945 - rozdělení na severní a jižní část
@@ -561,4 +561,3 @@ Klášter Pulguksa
 		- 38. rovnoběžka
 		- nejstřeženější hranice světa
 		- 250 km dlouhá 4 km široká
-
