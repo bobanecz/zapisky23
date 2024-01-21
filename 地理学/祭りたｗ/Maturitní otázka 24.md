@@ -1,3 +1,9 @@
+# Maturitní otázka 24
+- Česká republika – přírodní poměry
+	- Geologický vývoj, geomorfologické členění, povrch, půdy
+- Státy jihovýchodní Asie
+	- Poloha a vymezení, přírodní poměry, obyvatelstvo, ekonomika, zajímavost daného regionu
+
 # Česká republika – přírodní poměry
 ## Geologický vývoj
 ### Prvohory
@@ -34,9 +40,27 @@
 ## Geomorfologické členění
 - Čtyři geomorfické provincie
 	- Česká vysočina - 3/4 Území
-	- 
+	- Západní karpaty
+	- Západopanonská pánev
+	- Středoevropská nížina
+![[Pasted image 20240121180504.png]]
+![[Pasted image 20240121181042.png]]
+
 ## Povrch
+- Zemědělská půda zaujímá asi 54% rozlohy ČR
+![[Pasted image 20240121183135.png]]
+- Eroze
+- 
+
+
 ## Půdy
+- Druhy
+	- Černozemě (jižní Morava, Polabí)
+	- Hnědozemě (jižní část České tabule)
+	- Illimerizované půdy (Moravská brána, Ostravská pánev)
+	- Hnědé půdy (Vizovická vrchovina, Středočeská pahorkatina)
+	- Podzoly (Beskydy, Jeseníky, České středohoří, Šumava, Krkonoše)
+	- Rendziny (Český a Moravský kras)
 
 # Státy jihovýchodní Asie
 ## Poloha a vymezení, přírodní poměry, obyvatelstvo, ekonomika, zajímavost daného regionu 
