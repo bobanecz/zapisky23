@@ -36,7 +36,7 @@
 
 - Zobrazení dutým zrcadlem
 	- C - střed křivosti; F - Ohnisko; obraz
-    dddddddd  
+![[Pasted image 20231120130422.png]]
 - Na ohnisku obraz není ~protne se v nekonečnu
 
 - Znaménková dohoda
