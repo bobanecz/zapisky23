@@ -128,7 +128,7 @@
 #### Evropská centrální banka
 - Založena 1.6.1998
 - Sídlí ve Frankfurtu nad Mohanem
-- Prezidentka - Christine Lagardeová (od 2019)
+- Prezidentka - Christine Lagarderová (od 2019)
 - Má za úkol
 	- Dodržovat stabilitu cen v euro-zóně
 	- Řídit měnovou politiku EU
@@ -234,6 +234,8 @@
 - Vznikla v roce 1961 Transformací Organizace pro Evropskou hospodářskou spolupráci
 - Ekonomická a sociálně-politická spolupráce členských zemí
 - Liberalizace mezinárodního obchodu
+
+<div style="page-break-after: always;"></div>
 
 ## Japonsko
 - Ostrovní stát
