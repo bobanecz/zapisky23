@@ -13,24 +13,20 @@
 	- Strach z opětovného zbrojení na straně německa
 
 - 1952 - *Evropské společenství uhlí a oceli*
-	- Pařížská instituční smlouva uzavřena 1951
-	- Schumanův plán
-		- Plán na sjednocení EU
-	- Belgie, Nizozemí, Lucembursko, Itálie, Francie a Západní německo
+	- Belgie, Nizozemí, Lucembursko, Itálie, Francie a NSR
 
-- 1957 - Římské smlouvy
-	- 1958 - Evropské hospodářské společenství
-		- Pro širší nabídku komodit
-		- Zjednodušení cestování a práce v ostatních zemích ve spolku
-	- 1958 - Euratom
+- 1957 - Evropské hospodářské společenství
+	- Pro širší nabídku komodit
+	- Zjednodušení cestování a práce v ostatních zemích ve spolku
+	- Nástupnictví ev. společenství Uhlí a Oceli
 
-- 1967 - Sloučení existujících společenství do *Evropských společenstev (ES)*
-
-- ES se poprvé rozrůstá v letech
+- EU se poprvé rozrůstá v letech
 	- 1.1.1973 - UK, Irsko a Dánsko
 	- 1.1.1981 - Řecko
 	- 1985 - Grónsko opustilo EU na základě referenda v roce 1982
 	- 1.1.1986 - Španělsko a Portugalsko
+	- 1995 - Rakousko, Finsko, Švédsko
+	- 2004 - Česko, Estonsko, Maďarsko,
 
 ![[Pasted image 20240119200500.png]]
 
