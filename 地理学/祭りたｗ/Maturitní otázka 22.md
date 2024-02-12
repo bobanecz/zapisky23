@@ -231,8 +231,9 @@
 	- Teď se stará o problematiku lidských práv a svobod
 **OECD**
 - 38 členů
-- Vznikla v roce 1961
-	- transformací Organizace pro Evropskou hospodářskou spolupráci
+- Vznikla v roce 1961 Transformací Organizace pro Evropskou hospodářskou spolupráci
+- Ekonomická a sociálně-politická spolupráce členských zemí
+- Liberalizace mezinárodního obchodu
 
 ## Japonsko
 - Ostrovní stát
@@ -353,9 +354,8 @@
 - Zelí
 - Sladké brambory
 - Taro (Kolokázie jedlá)
-
-### Doprava
-
+.
+.
 
 ### Jazyk
 - Japonsko-rjúkjúské jazyky
@@ -499,6 +499,7 @@
 - vysoká průměrná délka života - 82,8 roku
 - nízká míra pociťovaného štěstí obyvatel
 - nejvyšší sebevražednost ze zemí OECD (dospívající a důchodci)
+.
 
  ### Doprava
 - rozvinutá dopravní síť
