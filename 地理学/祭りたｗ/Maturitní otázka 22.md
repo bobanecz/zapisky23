@@ -21,22 +21,20 @@
 	- Nástupnictví ev. společenství Uhlí a Oceli
 
 - EU se poprvé rozrůstá v letech
-	- 1.1.1973 - UK, Irsko a Dánsko
-	- 1.1.1981 - Řecko
+	- 1973 - UK, Irsko a Dánsko
+	- 1981 - Řecko
 	- 1985 - Grónsko opustilo EU na základě referenda v roce 1982
-	- 1.1.1986 - Španělsko a Portugalsko
+	- 1986 - Španělsko a Portugalsko
 	- 1995 - Rakousko, Finsko, Švédsko
-	- 2004 - Česko, Estonsko, Maďarsko,
+	- 1.5.2004 - Česko, Estonsko, Maďarsko, Kypr, Lotyšsko, Litva, Malta, Polsko, Slovensko, Slovinsko
+	- 2007 - Bulharsko a Rumunsko
+	- 1.7.2013 - Chorvatsko
 
 ![[Pasted image 20240119200500.png]]
 
 - Schengenský prostor
 	- 1985 - Schengenská dohoda
-	- 1986(Přijat 7) - Jednotný evropský akt
-		- Revize Římských smluv
 	- Postupné odstraňování kontrol na hranicích
-	- 1990 - Schengenská prováděcí úmluva
-		- Vstoupila v platnost 1995
 	- Vznik Schengenského prostoru
 		- Pohyb osob a zboží de facto bez omezení
 
@@ -49,15 +47,6 @@
 		2. Společná zahraniční a bezpečnostní politika
 		3. Spolupráce v oblasti spravedlnosti a vnitřních věcí
 
-- 1997 - Amsterodamská smlouva
-	- Začlenění Shengenských smluv do práva EU
-	- Přesun oblasti justiční spolupráce v civilních věcech do 1. pilíře
-		- Vznik Evropského justičního prostoru v civilních otázkách
-	- Posílení pravomocí parlamentu
-
-- 2001 - Smlouva z Nice
-	- Přizpůsobila instituce k většímu počtu členů
-
 - 2002 - Zavedení Eura
 	- Přijmuto všemi dosavadními členy kromě Británie, Dánska a Švédska
 
@@ -68,11 +57,23 @@
 	- Reforma institucí EU
 
 - 2016 - Brexit
+	- Ukončení členství Británie v EU
 	- Vstoupil v platnost 31.1.2020
+	- Retrospektivně brexit podporuje pouze 9% britů
 
 - Z původních smluv ES dnes platí pouze Euratom
 
 ### Orgány EU
+
+\1. E. Parlament
+\2. Evropská komise
+\3. Rada EU
+*^ nejdůležitější*
+\5. Evropská rada
+\6. Evropská Centrální banka
+\7. Soudní dvůr EU
+\8. Evropský účetní dvůr
+
 #### Evropský parlament
 - 705 Poslanců
 	- Rozdělení do 7mi politických stran
@@ -119,44 +120,21 @@
 #### Rada Evropské Unie
 - Brusel
 - Generální tajemnice Thérèse Blancheová
-- Druhá ze dvou legislativních jednotek EU
 - Je tvořena z Velvyslanců z každého členského státu
 - Každá oblast politiky by měla mít 27 ministrů
 - Tito ministři jsou poté zodpovědní za implementaci zákonů
-
-**Funkce**
-1. Legislativní
-	- Narozdíl od parlamentu zastupuje zájmy států jako jednotlivců, ne jako celku
-		~ Parlament má zastupovat obyvatele a Rada vládu daných zemí
-	- Pro uznání zákonu je třeba naplnit systém trojí většiny
-		1. Minimálně 260 hlasů z 352
-		2. Nadpoloviční většina členských států
-		3. Součet počtu obyvatel zemí, které hlasovaly pro musí být minimálně 62% populace EU
-1. Koordinace opatření
-	- Ministři mají za úkol hlídat, že všecha opatření a akce EU se konzistentně dodržují v jejich zemích
-2. Tvoření a implementace žahraničních a bezpečnostní politiky
-	- Podle osnov podaných Evropskou radou
-3. Rozpočtová
-	- Spolupráce s parlamentem
+- Ministři mají za úkol hlídat, že všecha opatření a akce EU se konzistentně dodržují v jejich zemích
 
 #### Evropská centrální banka
 - Založena 1.6.1998
 - Sídlí ve Frankfurtu nad Mohanem
 - Prezidentka - Christine Lagardeová (od 2019)
-- Je kritizována za její relativně nízkou míru nezávislosti
 - Má za úkol
 	- Dodržovat stabilitu cen v euro-zóně
 	- Řídit měnovou politiku EU
 		- Povolování zemím tisknout bankovky
 	- Statistika
 	- Finanční spolupráce
-- Orgány ECB
-	- Výkonná rada
-		- Prezident, Víceprezident + další 4 členové
-		- Jmenováni evropskou radou
-		- Osmileté funkční období
-	- Rada guvernérů
-	- Generální rada
 
 #### Soudní dvůr EU
 - Nejvyšší soud EU
@@ -189,7 +167,7 @@
 - Měnová politika Eurozóny je určena ECB
 	- Hlavním úkolem ECB je udržovat inflaci pod kontrolou
 - Žádný stát zatím Eurozónu neopustil
-	- Debatovalo se ale, že by řecko mohlo opustit Eurozónu v první polovině desátých let 21. století. Nakonec se tak nestalo, jelikož by to mělo velmi pravděpodobně devastující účinky pro řeckou ekonomiku a neblahé účinky pro rozvoj eurozóny 
+	- Debatovalo se ale, že by Řecko mohlo opustit Eurozónu v první polovině desátých let 21. století. Nakonec se tak nestalo, jelikož by to mělo velmi pravděpodobně devastující účinky pro řeckou ekonomiku a neblahé účinky pro rozvoj eurozóny 
 - Kosovo a Černá Hora přijaly euro jednostranně
 - Poslední stát, který se připojil do Eurozóny je 1.1.2023 Chorvatsko
 
@@ -242,14 +220,6 @@
 - Vznikla v roce 1992 v Polsku
 - Zóna volného obchodu
 -> Podobná smlouva byla v Baltických zemích - **BAFTA**
-**Varšavská smlouva** (**Smlouva o přátelství, spolupráci a vzájemné pomoci**)
-- Vojenský pakt osmi zemí východního bloku
-	- Albánie, Bulharsko, ČSR, Maďarsko, NDR, Polsko, Rumunsko, SSSR
-- Podepsána 15.5.1995
-**Rada vzájemné hospodářské pomoci**
-- Založena v roce 1949 v Moskvě
-- Sdružovala státy sovětského bloku
-- De facto nástroj na ovládání ekonomiky členských států
 **Visegrádská čtyřka** **(V4)**
 - Česko, Maďarsko, Polsko a Slovensko
 - Vznikla 15.2.1991
@@ -259,6 +229,10 @@
 - Vznikla 5.5.1949 v Haagu
 	- Původně se měla starat o Evropskou Integraci, což se nepodařilo, a převzalo to Evropské společenství
 	- Teď se stará o problematiku lidských práv a svobod
+**OECD**
+- 38 členů
+- Vznikla v roce 1961
+	- transformací Organizace pro Evropskou hospodářskou spolupráci
 
 ## Japonsko
 - Ostrovní stát
@@ -277,13 +251,11 @@
 	~Nizozemí
 - Měna: Jen (￥/円)
 - HDP na občana: $42 940
-- HDP: $4 940 877 780 755
-	- Třetí největší na světě
 - Státní zřízení: Konstituční monarchie
 - Císař: Naruhito
 	- Reprezentace
 - Předseda vlády: Fumio Kišida
-	- Šinzou abe
+	- Šinzou Abe
 - Země je součástí:
 	- Spojené národy
 	- G7
@@ -294,7 +266,7 @@
 	- World Bank
 	- WTO
 
-### Povrch
+### Povrch a členitost
 - Dělení na 47 prefektur (8 regionů)
 - Souostroví
 - 7000 Ostrovů
@@ -306,7 +278,11 @@
 		- Šikoku
 - Sopečný původ
 - 60% aktivních
+- Aktivní seismická zóna
+	- Euroazijská, Severoamerická, Filipínská a Pacifická deska
 - Hornatý povrch
+	- 7 hor nad 3000m
+- Centrální část Honšů vyplňují "Japonské Alpy"
 - Nejvyšší hora: Fudži (富士山)
 
 ### Vodstvo
@@ -440,6 +416,7 @@
 
 ### Podnebí
 - vliv monzunů
+- vliv větrů ze sibiře
 - léta vlhká a teplá, zimy studené a suché 
 
 ### Politický systém
@@ -505,17 +482,16 @@
 ### Povrch
 - velmi hornatý
 - Diamantové hory
-- ostrov Čedžu
-- pohoří Tchebek
-- pohoří Sobek
 
 ### Vodstvo
 - Hangang
 - Kumgang
 - Žluté moře
 - Japonské moře
+
 ### Podnebí 
 - vliv monzunů
+- vliv větrů ze Sibiře
 - léta vlhká a teplá, zimy studené a suché
 
 ### Zdravotnictví
@@ -543,7 +519,7 @@
 	- KIA
 
 ## Konflikt
-- 1945 - rozdělení na severní a jižní část
+- 1945 - rozdělení na severní a jižní část podle 38. rovnoběžky
 - Severní část - ovládaná SSSR (komunistická)
 - Jižní část - ovládaná USA (kapitalistická)
 - neschopnost dohodnout se na společné správě = vznik ideologicky antagonistických států: Korejské lidově demokratické republiky a Korejské republiky
