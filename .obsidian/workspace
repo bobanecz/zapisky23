@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "地理学/祭りたｗ/Maturitní otázka 22.md",
+            "file": "地理学/祭りたｗ/Maturitní otázka 24.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "oecd",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -79,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "地理学/祭りたｗ/Maturitní otázka 22.md",
+                "file": "地理学/祭りたｗ/Maturitní otázka 24.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -129,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "地理学/祭りたｗ/Maturitní otázka 22.md",
+                "file": "地理学/祭りたｗ/Maturitní otázka 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "地理学/祭りたｗ/Maturitní otázka 22.md",
+                "file": "地理学/祭りたｗ/Maturitní otázka 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "地理学/祭りたｗ/Maturitní otázka 22.md"
+                "file": "地理学/祭りたｗ/Maturitní otázka 24.md"
               }
             }
           }
@@ -180,10 +179,10 @@
     "direction": "horizontal",
     "width": 302
   },
-  "active": "7adad84111e43726",
+  "active": "4d4a9ba5e7030503",
   "lastOpenFiles": [
-    "地理学/祭りたｗ/Maturitní otázka 24.md",
     "地理学/祭りたｗ/Maturitní otázka 22.md",
+    "地理学/祭りたｗ/Maturitní otázka 24.md",
     "物理学/Geometrická optika.md",
     "地理学/祭りたｗ/Zjednodušený kavkaz.md",
     "歴史学/WW2.md",
