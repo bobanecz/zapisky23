@@ -50,8 +50,6 @@
 - Zemědělská půda zaujímá asi 54% rozlohy ČR
 ![[Pasted image 20240121183135.png]]
 - Eroze
-- 
-
 
 ## Půdy
 - Druhy
