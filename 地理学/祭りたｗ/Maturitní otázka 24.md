@@ -56,6 +56,41 @@
 	- 32% území 500-1000mnm
 	- 1% území 1000+mnm
 
+### Vodstvo
+- Česko leží na hlavním evropském rozvodí
+- Celostátní průměr srážek - 693mm
+- Sněhovo-Dešťový odtokový režim
+- Nejdelší řeka - Vltava
+- 3 povodí
+	- Severní moře - Labe
+	- Černé moře - Morava
+	- Baltské moře - Odra
+
+**Vodní plochy**
+- Největší vodní plocha - Lipno
+- Největší zadržovaný objem - Orlík
+- Nejhlubší nádrž - Dalešice
+- Rybníky
+	- Třeboňská pánev
+	- Nejvěťší plocha - Rožmberk
+	- Největší objem - Staňkovský rybník
+- Jezera
+	- Málo
+	- Ledovcová, Říční a krasová
+	- Největší - Černé jezero
+	- Nejhlubší - Jezírko v hranické propasti
+	- Nejmladší - Odlezeské jezero (\*1872\*)
+
+**Podzemní vody**
+- Většina vsakováním srážkových vod
+- Ohroženy znečištěním životního prostředí
+- Nejvíce podzemní vody je na území České tabule, Chebské, Českobudějovické a Třeboňské pánve
+- 18 Chráněných oblastí přirozené akumulace vod
+- Nejvýznamnější oblasti výskytu minerálních vod:
+	- SZ Čechy - Karlovy Vary, Mariánské Lázně, Františkovy Lázně, Teplice
+	- Střední Čechy - Poděbrady, Sadská
+	- 
+
 ### Horniny
 - Vyvřelé - Žula, Čedič, Znělec
 - Usazené - Pískovec, Vápenec, Břidlice
