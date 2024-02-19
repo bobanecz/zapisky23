@@ -60,5 +60,28 @@
 	- Podzoly (Beskydy, Jeseníky, České středohoří, Šumava, Krkonoše)
 	- Rendziny (Český a Moravský kras)
 
+![[Pasted image 20240219045207.png]]
+
+### Černozemě
+- V nejsušších a nejteplejších oblastech
+- Naše nejúrodnější půdy
+- Hodně vysychají
+- Vznikly po konci poslední doby ledové
+- Víno, Pšenice, Ovoce, Cukrovka
+- Jižní Morava a část Polabí
+
+### Hnědozemě
+- Hodnotné zemědělské půdy
+- Vysychají méně než černozemě
+- Pšenice, Ječmen, Cukrovka...
+- Jižní část České tabule
+
+### Hnědé půdy (Kambizem)
+- Nejrozšířenější v ČR
+- Ve všech typech členitějšího reliéfu
+- Střední až nižší úrodnost
+
+###
+
 # Státy jihovýchodní Asie
 ## Poloha a vymezení, přírodní poměry, obyvatelstvo, ekonomika, zajímavost daného regionu 
