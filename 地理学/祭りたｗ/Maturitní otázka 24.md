@@ -210,6 +210,7 @@ Vymezení
 - Brunej, Filipíny, Indonésie, Kambodža, Laos, Malajsie, Myanmar, Singapur, Thajsko a Vietnam
 - Cíle
 	- Urychlit ekonomický růst
+		- Rozvoj turismu
 	- Sociální pokrok
 	- Kulturní rozvoj
 
@@ -220,30 +221,40 @@ Vymezení
 - pěstování máku -> výroba drog 
 - Myanmar - 2. největší producent opia na světě 
 
-## Myanmar (ex. Barma) 
-- Hlavní město - Neipyijto
-- 55mil obyvatel
-- Etnicky rozmanitý stát
-- Buddhismus - 90%
-- 2021 - Vojenský převrat
+## Myanmar (ex. Barma)
+-   Hlavní město - Neipyijto; největší - Yangon (5 mil)
+-   sousedi: Bangladeš, Indie, Čína, Laos, Thajsko
+-   na Indočínském poloostrově; na západ Bengálský záliv, na jih Andamanské moře
+-   obklopují ho na západě Arakanské a na východě Šanské pohoří; mezi nimi největší řeka Iravádí a ji obklopující nížiny
+-   tropické až subtropické klima (3 sezóny)
+-   55mil obyvatel
+-   Barmština (မြန်မာဘာသာ)
+-   Etnicky rozmanitý stát
+-   Buddhismus - 90%
+-   více jak sto let pod koloniální nadvládou V. Británie
+-   2021 - Vojenský převrat
 **Ekonomika:**
-- HDP - 1 209 USD
-- Petrolej, textilie
-- Opium - 2. největší producent
-- Krásné chrámy
+-   HDP - 1 209 US
+-   Petrolej, textilie
+-   Opium - 2. největší producent
+-   Krásné chrámy, prastaré město Yangon (2000 let)
 
 ## Laos
 - Hlavní město - Vientiane
-- Lidově Demokratická Republika
-- Komunistický stát
-- 7mil obyvatel
-- „Zapomenutý klenot Asie“
+- sousedi: Thajsko, Myanmar, Čína, Vietnam, Kambodža
+- na Indočínském poloostrově; vnitrozemní, převážně hornatý stát
+- západní hranici hlavně řeka Mekong, na severozápadě pohoří Luang Prabang a na severovýchodě a východě Annamské hory
+- tropické až subtropické klima (3 sezóny)
+- 7 milionů etnicky diverzních obyvatel	
+	- 60% obyvatel pod 25 let
+- ofic. laoština (pouze polovina), zbytek etnické minoritní jazyky (Khmerština, Hmongština)
+- 60 let pod koloniální nadvládou Francie; po převratu '53 dosud komunistický stát
 - Buddhismus - 90%
 **Ekonomika:**
 - HDP - 2 535 USD
 - Elektřina
 - Těžba vzácného dřeva
-- Měď
+	- Měď
 
 ## Vietnam
 - Hlavní město - Hanoj 
@@ -289,17 +300,21 @@ Vymezení
 - Dřevo a produkty
 - 30% obyvatel trpí podvýživou
 
-
 ## Singapur 
 - Městský stát
 - Velmi vyspělý
+- Mnohonárodnostní
 - Parlamentní republika
 - Velmi nízká korupce
+- Úřední jazyky: Angličtina, Čínština, Malajština a Tamilština
 - Leží na 64 ostrovech
 - 5.6mil obyvatel
+- Třetí nejvyšší hustota obyvatel na světě
 - Velmi vysoké HDP
 **Ekonomika:**
 - HDP - 72 794 USD
+	- Druhé nejvyšší HDP na občana na světě
+- Patří mezi nejdražší místa na život
 - Člen Asijských Tygrů
 - Nízká nezaměstnanost
 - Ropa, Elektronika, Léky
@@ -307,15 +322,24 @@ Vymezení
 
 ## Malajsie 
 - Hlavní město - Kuala Lumpur
-- Federativní konstituční monarchie
+- Federativní volená konstituční monarchie
+	- Hlava státu se volí mezi sultány spolkových států
 - 31mil obyvatel
+- Multietnická a multikulturní země
+- Oficiální jazyk: Malajsijština
+- Ostrov Borneo, Malajský poloostrov a okolní ostrovy
 - Čtvrtina obyvatel Číňané
+- Trest smrti
+	- Polovina poprav jsou cizinci
+- Velmi nízké soukromí
 - Veliká biodiverzita
+	- Mnoho endemitů
 - Islám - 60%
 **Ekonomika:**
 - Poměrně vyspělá
 - HDP - 11 109 USD
 - Ropa
+- Turismus 14% HDP 
 - Rýže, Palmový olej, kaučuk
 - Mikročipy
 
@@ -323,12 +347,20 @@ Vymezení
 ## Brunej 
 - Hlavní město - Bandar Seri Begawan
 - Absolutní monarchie
+- Jazyk - Malajština
 - 440 000 obyvatel
+- Většina Mladí
+- Vysoká migrace
 - Ropná země
+	- Asi 90% exportu
+- Ostrov borneo
 - Islám - 67%
+	- Sunnité
 **Ekonomika:**
 - HDP - 31 449 USD
+- Nemusí se platit dané
 - Velmi nízký státní dluh
+	- Do roku 2006 byla jednou ze 3 zemí s nulovým státním dluhem
 - De facto jenom ropa
 
 ## Filipíny
