@@ -7,8 +7,7 @@
 # Česká republika – přírodní poměry
 ## Geologický vývoj
 ### Prvohory
-- Několikrát zaplaveno mořem
-- V kambrických, ordovických, silurských i devonských souvrstvích mořské fosílie.
+- Hercynské vrásnění
 - Výskyt především v Barrandien
 	- Mezi Prahou a Plzní
 - Pevninské usazeniny a vulkanické horniny
@@ -28,12 +27,9 @@
 	- Jejich zbytky -> Hnědé uhlí
 - Sopečná činnost
 	- Doupovské hory, České středohoří a Lužické hory
-### Rozhraní Třetihor a Čtvrtohor
-- Vznik Šumavy, Českého lesa, Krušných hor a Krkonoš
-- Některé bloky českého masivu vyzdviženy
-- Erozní síla řek -> Hluboká údolí; Říční terasy
 ### Čtvrtohory
 - Sopečná činnost
+- Střídání dob ledových s dobami meziledovými
 - Na severním okraji českého masivu kontinentální ledovec
 - Kamenná moře
 - Tvorba půd
