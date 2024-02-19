@@ -177,7 +177,7 @@ Zelená - Glejosol
 ## Poloha a vymezení, přírodní poměry, obyvatelstvo, ekonomika, zajímavost daného regionu
 
 Vymezení
-- Státy, které leží na Jih od Číny a mezi Tichým a Indickým oceánem
+- Státy, které leží na Jih od Číny na poloostrově zadní Indie a ostrovní státy mezi Tichým a Indickým oceánem
 
 ## Podnebí
 - subtropický a tropický pás
@@ -187,7 +187,23 @@ Vymezení
 	- Zima - Období sucha
 		- Indonésie to má prohozené
 - Seismicky aktivní zóna
-	- rozhraní Euroasijské a Australské tektonické desky 
+	- rozhraní Euroasijské, Filipínské a Australské tektonické desky 
+
+## Členitost
+- Poměrně hodně horizontálně členité pobřeží
+- Poloostrov zadní indie, Malajský poloostrov
+- Annamské pohoří, Arkanské pohoří, Šanská plošina
+- Na ostrovech nízká sopečná pohoří
+- Veliké nerostné bohatství
+- Ostrovy
+	- Sumatra, Jáva (nejlidnatější), Sulawesi(celebes), Kalimantan, Bali, Lombok
+
+## Vodtsvo
+- Řeky
+	- Mekong, Iravadi
+- Moře
+	- Jihočínské moře, Andamanské moře, Celebeské moře, Jávksé moře
+	- Bengálský záliv, Thaiský záliv, Tonkinský záliv, Malacký průliv
 
 ## ASEAN
 - Mezinárodní organizace založena roku 1967
@@ -261,11 +277,18 @@ Vymezení
 - 16.5mil obyvatel
 - Vysoká kriminalita
 - Buddhismus - 90%
+- Angkor Wat - Významné buddhistické místo
+	- Velké prospekty pro turismus
+- Jezero Tolesap
+- Savany
+- V poměru s ostatními zeměmi JV Asie nízká vertikální členitost
 **Ekonomika:**
 - Velmi chudý stát
 - HDP - 1 625 USD
+- Měna - Riel
 - Dřevo a produkty
 - 30% obyvatel trpí podvýživou
+
 
 ## Singapur 
 - Městský stát
