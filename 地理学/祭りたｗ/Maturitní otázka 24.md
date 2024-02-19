@@ -179,7 +179,7 @@ Zelená - Glejosol
 
 # Státy jihovýchodní Asie
 ## Poloha a vymezení, přírodní poměry, obyvatelstvo, ekonomika, zajímavost daného regionu
-	Filipíny, Myanmar, Laos, Vietnam, Thajsko, Kambodža, Singapur malajsie, Brunej, Indonésie, Východní timor
+
 Vymezení
 - Státy, které leží na Jih od Číny a mezi Tichým a Indickým oceánem
 
@@ -192,6 +192,16 @@ Vymezení
 		- Indonésie to má prohozené
 - Seismicky aktivní zóna
 	- rozhraní Euroasijské a Australské tektonické desky 
+
+## ASEAN
+- Mezinárodní organizace založena roku 1967
+- Brunej, Filipíny, Indonésie, Kambodža, Laos, Malajsie, Myanmar, Singapur, Thajsko a Vietnam
+- Cíle
+	- Urychlit ekonomický růst
+	- Sociální pokrok
+	- Kulturní rozvoj
+
+- Většina států JV Asie byly zasaženy Asijskou finanční krizí v roce 1997
 
 **Zlatý trojůhelník**
 - v oblastech hranic Myanmaru, Thajska a Laosu 
@@ -304,8 +314,9 @@ Vymezení
 
 ## Filipíny
 - Hlavní město - Manila
-- Prezidentská republika
+- Unitární prezidentská republika
 - Korupce
+- 114mil obyvatel
 - 7641 ostrovů
 - Křesťanské tradice
 - 83% Římští katolíci
@@ -316,9 +327,22 @@ Vymezení
 - Elektronika, Dřevo
 
 ## Indonésie
-- Jakarta 
-- Comodo National Park - Varani komodští 
+- Hlavní město - Jakarta
+- 17 508 ostrovů
+- Prezidentská republika
+- 272mil obyvatel
+- Muslimové - 86%
+**Ekonomika:**
+- Největší ekonomikou JV Asie
+- HDP 4 332 USD
+- Služby 45% HDP
+- Zaměstnanost v zemědělství 44%
+- Ropa, látky a oděvy, palmový olej, rýže, čaj, káva, koření, guma
 
 ## Východní Timor 
-- Dili 
-- nic = nejezdit!
+- Hlavní město - Dili
+- Jeden z nejmladších států - 2002
+- Parlamentní republika
+- 1.3mil obyvatel
+**Ekonomika:**
+- Ropa, Rýže, Kokos, 
