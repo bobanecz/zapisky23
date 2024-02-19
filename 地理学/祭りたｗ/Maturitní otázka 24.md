@@ -197,6 +197,7 @@ Vymezení
 - Veliké nerostné bohatství
 - Ostrovy
 	- Sumatra, Jáva (nejlidnatější), Sulawesi(celebes), Kalimantan, Bali, Lombok
+	- Velké a Malé sundy
 
 ## Vodtsvo
 - Řeky
@@ -258,10 +259,14 @@ Vymezení
 
 ## Vietnam
 - Hlavní město - Hanoj 
-- Socialistická republika
-	- Vláda jedné strany
+- sousedi: Kambodža, Laos, Čína
+- na Indočínském poloostrově; na východ Tonkinský záliv, Thajský záliv a Tichý oceán; desítky ostrovů (nejv. Phú Quốc) 
+- na severozápadě Annamské hory, na severu delta Červené řeky, v středojižní části Centrální náhorní plošina a na jihu delta řeky Mekong
+- na severu tropické klima se 4 obdobími a na jihu tropické se 2
 - 99.5mil obyvatel
-- Vietnamské lidové náboženství - 45%
+- vietnamština
+- v 19. st. část kolonizována Francií; v WW2 plundrována Japonskem -> Vietnamský hladomor 1945; První indočínská válka: Vietnam rozdělen na severní a jižní (stále Fr. Indočína), Viet. bojuje za nezávislost, poté devastující Vietnamská válka (sever + Sov.Sv. vs. jih + USA). Unifikace, pod socialistickou republikou
+- Rozličná vietnamská lidová náboženství - až 73%
 **Ekonomika:**
 - HDP - 3 756 USD
 - Zemědělství - 48% obyvatelstva
@@ -270,10 +275,15 @@ Vymezení
 
 ## Thajsko 
 - Hlavní město - Bangkok 
+- sousedi: Myanmar, Laos, Kambodža, Malajsie
+- na Indočínském poloostrově a na jihu ústí v Malajský poloostrov; na jihu Thajský záliv, na jihovýchodě Andamanské moře, mnoho ostrovů (nejv. Phuket)
+- hornatý západ+sever+severovýchod, prameny ústící na jih do řeky Čao-Praja, nebo na do řeky Mekong; nížiny a úrodná půda ve středním Thajsku okolo řeky Čao-Praja;
+- tropické klima (3 období)
+- 68 mil obyvatel
+- thajština
+- 76 provincií + Bangkok
 - Formálně konstituční monarchie a parlamentní demokracie
-	- 2014 - Státní převrat -> Vojenská diktatura
-- Poměrně dobrá ekonomika
-- 68mil obyvatel
+    - 2014 - Státní převrat -> Vojenská diktatura
 - Buddhismus - 94%
 **Ekonomika:**
 - HDP - 7 066 USD
@@ -364,15 +374,23 @@ Vymezení
 - De facto jenom ropa
 
 ## Filipíny
-- Hlavní město - Manila
+- Hlavní město - Manila; Největší město - Quezon city
 - Unitární prezidentská republika
 - Korupce
 - 114mil obyvatel
+- Velmi mladá populace - 30% obyvatel pod 15let
+	- Velmi velký přírůstek
+- Vysoká hustota zalidnění - 336ob/km
+- Úřední jazyky: filipínština a angličtina
+- Mnoho různých jazyků ~asi 150
+- Degradace životního prostředí
 - 7641 ostrovů
+	- Největší: Luzon, Mindano
 - Křesťanské tradice
 - 83% Římští katolíci
 **Ekonomika:**
 - HDP - 3 460 USD
+- Obrovské rozdíly mezi nízkou a vysokou vrstvou
 - Jeded z nejvyšších ročních růstů
 	- Pouze pro vysokou vrstvu
 - Elektronika, Dřevo
@@ -380,13 +398,21 @@ Vymezení
 ## Indonésie
 - Hlavní město - Jakarta
 - 17 508 ostrovů
+	- Sumatra, Kalimantan, Celebes, Jáva
+- Seismická aktivita
 - Prezidentská republika
 - 272mil obyvatel
+	- 4. nejlidnatější stát světa
+- Obrovská kulturní diverzita
+- Druhá největší biodiverzita na světě
+- Chudoba
+- Teroristické útoky
 - Muslimové - 86%
 **Ekonomika:**
 - Největší ekonomikou JV Asie
 - HDP 4 332 USD
 - Služby 45% HDP
+- Turismus - Bali
 - Zaměstnanost v zemědělství 44%
 - Ropa, látky a oděvy, palmový olej, rýže, čaj, káva, koření, guma
 
@@ -394,6 +420,14 @@ Vymezení
 - Hlavní město - Dili
 - Jeden z nejmladších států - 2002
 - Parlamentní republika
+- Katolická země - 97%
+- Bývalá portugalská kolinie
+- Ostrov Timor
 - 1.3mil obyvatel
+- 40 jazyků
 **Ekonomika:**
-- Ropa, Rýže, Kokos, 
+- 2 741 USD
+- Velmi rychle roste v posledních letech
+- Ropa zemní plyn - Většina exportu
+- Těžba dřeva
+- Rýže, Kokos
