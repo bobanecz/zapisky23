@@ -244,27 +244,81 @@ Vymezení
 - Buddhismus - 94%
 **Ekonomika:**
 - HDP - 7 066 USD
+- Služby tvoří 56% HDP
+- Turismus - 10% HDP
+- Technika, Rýže, Mořské plody, Auta, Spotřební elektronika
 
-Kambodža 
-- Phnom Penh 
-- chrámy, krajina, kultura 
-Singapur 
-- městský stát 
-- moderní stavby 
-- 2. nejhustší zalidnění 
-Malajsie 
-- Kuala Lumpur 
-- krajina 
-Brunej 
-- Bandar Seri Begawan 
-- těžba ropy 
-Filipíny 
-- Manila 
-- křesťanské tradice 
-- Nártoun filipínský
-Indonésie 
+## Kambodža 
+- Hlavní město - Phnompenh
+- Konstituční monarchie
+	- Současný král žil 13let v ČSR
+- 16.5mil obyvatel
+- Vysoká kriminalita
+- Buddhismus - 90%
+**Ekonomika:**
+- Velmi chudý stát
+- HDP - 1 625 USD
+- Dřevo a produkty
+- 30% obyvatel trpí podvýživou
+
+## Singapur 
+- Městský stát
+- Velmi vyspělý
+- Parlamentní republika
+- Velmi nízká korupce
+- Leží na 64 ostrovech
+- 5.6mil obyvatel
+- Velmi vysoké HDP
+**Ekonomika:**
+- HDP - 72 794 USD
+- Člen Asijských Tygrů
+- Nízká nezaměstnanost
+- Ropa, Elektronika, Léky
+- Druhý největší přístav na světě
+
+## Malajsie 
+- Hlavní město - Kuala Lumpur
+- Federativní konstituční monarchie
+- 31mil obyvatel
+- Čtvrtina obyvatel Číňané
+- Veliká biodiverzita
+- Islám - 60%
+**Ekonomika:**
+- Poměrně vyspělá
+- HDP - 11 109 USD
+- Ropa
+- Rýže, Palmový olej, kaučuk
+- Mikročipy
+
+
+## Brunej 
+- Hlavní město - Bandar Seri Begawan
+- Absolutní monarchie
+- 440 000 obyvatel
+- Ropná země
+- Islám - 67%
+**Ekonomika:**
+- HDP - 31 449 USD
+- Velmi nízký státní dluh
+- De facto jenom ropa
+
+## Filipíny
+- Hlavní město - Manila
+- Prezidentská republika
+- Korupce
+- 7641 ostrovů
+- Křesťanské tradice
+- 83% Římští katolíci
+**Ekonomika:**
+- HDP - 3 460 USD
+- Jeded z nejvyšších ročních růstů
+	- Pouze pro vysokou vrstvu
+- Elektronika, Dřevo
+
+## Indonésie
 - Jakarta 
 - Comodo National Park - Varani komodští 
-Východní Timor 
+
+## Východní Timor 
 - Dili 
 - nic = nejezdit!
