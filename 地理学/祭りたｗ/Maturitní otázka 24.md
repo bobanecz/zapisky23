@@ -89,7 +89,9 @@
 - Nejvýznamnější oblasti výskytu minerálních vod:
 	- SZ Čechy - Karlovy Vary, Mariánské Lázně, Františkovy Lázně, Teplice
 	- Střední Čechy - Poděbrady, Sadská
-	- 
+	- Jeseníky - Karlova Studánka, Velké Losiny
+	- Teplice nad Bečvou
+	- Luhačovice
 
 ### Horniny
 - Vyvřelé - Žula, Čedič, Znělec
@@ -176,4 +178,79 @@ Zelená - Glejosol
 - Rybníky
 
 # Státy jihovýchodní Asie
-## Poloha a vymezení, přírodní poměry, obyvatelstvo, ekonomika, zajímavost daného regionu 
+## Poloha a vymezení, přírodní poměry, obyvatelstvo, ekonomika, zajímavost daného regionu
+	Filipíny, Myanmar, Laos, Vietnam, Thajsko, Kambodža, Singapur malajsie, Brunej, Indonésie, Východní timor
+- Státy, které leží na Jih od Číny a mezi Tichým a Indickým oceánem
+
+
+NÁBOŽENSTVÍ 
+- 1. Buddhismus - Thajsko, Kambodža, Barma, Laos, Singapur
+- 2. Islám - Indonésie, Malajsie, Brunej 
+- 3. Křesťanství - Filipíny, V. Timor 
+- 4. Ateismus - Vietnam
+
+PODNEBÍ
+- subtropický a tropický pás 
+
+POVRCH 
+- Annamské pohoří 
+- na ostrovech nízká sopečná pohoří 
+- vulkány 
+- u řek nížiny 
+- tektonické desky -> zemětřesení 
+- ostrovy 
+- Sumatra, Jáva (nejlidnatější), Sulawesi, Kalimantan, Bali, Lombok 
+ZEMĚDĚLSTVÍ 
+- cukrová třtina, palmy (kokosová a olejná), ananas, kaučukovník a banány 
+- ostrovy - rýže, sója, kávovník, koření 
+- ovce, prasata, drůbež, u moře rybolov 
+PRŮMYSL 
+- export - textilní průmysl, elektrotechnika 
+- potravinářský 
+- těžební - zemní plyn, ropa 
+ZLATÝ TROJÚHELNÍK 
+- v oblastech hranic Barmy, Thajska a Laosu 
+- pěstování máku -> výroba drog 
+- Barma - 2. největší producent opia na světě 
+ZEMĚTŘESENÍ 
+- rozhraní Euroasijské a Australské tektonické desky - běžné 
+- občas tsunami 
+Myanmar (Barma) 
+- Neipyijto 
+- opium - 2. největší producent 
+- chudá, ale chrámy 
+Laos 
+- Vientiane 
+- rýže
+- „Zapomenutý klenot Asie“ 
+Vietnam 
+- Hanoj 
+- příroda, kultura 
+Thajsko 
+- Bangkok 
+- rýže 
+- lokálně sloni 
+- oblíbený král Ráma IX. - vládl 70 let (do r. 2016) 
+Kambodža 
+- Phnom Penh 
+- chrámy, krajina, kultura 
+Singapur 
+- městský stát 
+- moderní stavby 
+- 2. nejhustší zalidnění 
+Malajsie 
+- Kuala Lumpur 
+- krajina 
+Brunej 
+- Bandar Seri Begawan 
+- těžba ropy 
+Filipíny 
+- Manila 
+- křesťanské tradice 
+- Nártoun filipínský
+Indonésie 
+- Jakarta 
+- Comodo National Park - Varani komodští 
+Východní Timor 
+- Dili 
+- nic = nejezdit!
