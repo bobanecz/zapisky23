@@ -48,13 +48,13 @@
 ![[Pasted image 20240121181042.png]]
 
 ## Povrch
-- Nejvyšší místo - Sněžka (1603mnm)
-- Nejvyšší bod - Vysílač na pradědu (1637mnm)
+- Nejvyšší místo - Sněžka (1603m.n.m.)
+- Nejvyšší bod - Vysílač na pradědu (1637m.n.m.)
 - Zemědělská půda zaujímá asi 54% rozlohy ČR
 - Většinu naší půdy tvoří pahorkatiny a vrchoviny
-	- 67% území pod 500mnm
-	- 32% území 500-1000mnm
-	- 1% území 1000+mnm
+	- 67% území pod 500m.n.m.
+	- 32% území 500-1000m.n.m.
+	- 1% území 1000+m.n.m.
 
 ### Vodstvo
 - Česko leží na hlavním evropském rozvodí
@@ -180,57 +180,71 @@ Zelená - Glejosol
 # Státy jihovýchodní Asie
 ## Poloha a vymezení, přírodní poměry, obyvatelstvo, ekonomika, zajímavost daného regionu
 	Filipíny, Myanmar, Laos, Vietnam, Thajsko, Kambodža, Singapur malajsie, Brunej, Indonésie, Východní timor
+Vymezení
 - Státy, které leží na Jih od Číny a mezi Tichým a Indickým oceánem
 
+## Podnebí
+- subtropický a tropický pás
+- oceánské klima
+- výrazný vliv monzunů
+	- Léto - Období dešťů
+	- Zima - Období sucha
+		- Indonésie to má prohozené
+- Seismicky aktivní zóna
+	- rozhraní Euroasijské a Australské tektonické desky 
 
-NÁBOŽENSTVÍ 
-- 1. Buddhismus - Thajsko, Kambodža, Barma, Laos, Singapur
-- 2. Islám - Indonésie, Malajsie, Brunej 
-- 3. Křesťanství - Filipíny, V. Timor 
-- 4. Ateismus - Vietnam
-
-PODNEBÍ
-- subtropický a tropický pás 
-
-POVRCH 
-- Annamské pohoří 
-- na ostrovech nízká sopečná pohoří 
-- vulkány 
-- u řek nížiny 
-- tektonické desky -> zemětřesení 
-- ostrovy 
-- Sumatra, Jáva (nejlidnatější), Sulawesi, Kalimantan, Bali, Lombok 
-ZEMĚDĚLSTVÍ 
-- cukrová třtina, palmy (kokosová a olejná), ananas, kaučukovník a banány 
-- ostrovy - rýže, sója, kávovník, koření 
-- ovce, prasata, drůbež, u moře rybolov 
-PRŮMYSL 
-- export - textilní průmysl, elektrotechnika 
-- potravinářský 
-- těžební - zemní plyn, ropa 
-ZLATÝ TROJÚHELNÍK 
-- v oblastech hranic Barmy, Thajska a Laosu 
+**Zlatý trojůhelník**
+- v oblastech hranic Myanmaru, Thajska a Laosu 
 - pěstování máku -> výroba drog 
-- Barma - 2. největší producent opia na světě 
-ZEMĚTŘESENÍ 
-- rozhraní Euroasijské a Australské tektonické desky - běžné 
-- občas tsunami 
-Myanmar (Barma) 
-- Neipyijto 
-- opium - 2. největší producent 
-- chudá, ale chrámy 
-Laos 
-- Vientiane 
-- rýže
-- „Zapomenutý klenot Asie“ 
-Vietnam 
-- Hanoj 
-- příroda, kultura 
-Thajsko 
-- Bangkok 
-- rýže 
-- lokálně sloni 
-- oblíbený král Ráma IX. - vládl 70 let (do r. 2016) 
+- Myanmar - 2. největší producent opia na světě 
+
+## Myanmar (ex. Barma) 
+- Hlavní město - Neipyijto
+- 55mil obyvatel
+- Etnicky rozmanitý stát
+- Buddhismus - 90%
+- 2021 - Vojenský převrat
+**Ekonomika:**
+- HDP - 1 209 USD
+- Petrolej, textilie
+- Opium - 2. největší producent
+- Krásné chrámy
+
+## Laos
+- Hlavní město - Vientiane
+- Lidově Demokratická Republika
+- Komunistický stát
+- 7mil obyvatel
+- „Zapomenutý klenot Asie“
+- Buddhismus - 90%
+**Ekonomika:**
+- HDP - 2 535 USD
+- Elektřina
+- Těžba vzácného dřeva
+- Měď
+
+## Vietnam
+- Hlavní město - Hanoj 
+- Socialistická republika
+	- Vláda jedné strany
+- 99.5mil obyvatel
+- Vietnamské lidové náboženství - 45%
+**Ekonomika:**
+- HDP - 3 756 USD
+- Zemědělství - 48% obyvatelstva
+- Rýže, Káva, Pepř, Kešu, Čaj
+- Rozvoj turismu
+
+## Thajsko 
+- Hlavní město - Bangkok 
+- Formálně konstituční monarchie a parlamentní demokracie
+	- 2014 - Státní převrat -> Vojenská diktatura
+- Poměrně dobrá ekonomika
+- 68mil obyvatel
+- Buddhismus - 94%
+**Ekonomika:**
+- HDP - 7 066 USD
+
 Kambodža 
 - Phnom Penh 
 - chrámy, krajina, kultura 
