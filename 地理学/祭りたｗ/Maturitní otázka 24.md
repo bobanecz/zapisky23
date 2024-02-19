@@ -22,6 +22,7 @@
 	- Česká křídová tabule - pískovce a opuky
 ### Třetihory
 - Převážně souš
+- Pohraniční pohoří - kerný původ
 - Pod tlakem alpsko-karpatského horstva rozláman do bloků
 - Některé bloky poklesly a vznikly bažiny a jezera
 	- Jejich zbytky -> Hnědé uhlí
@@ -55,13 +56,31 @@
 	- 32% území 500-1000mnm
 	- 1% území 1000+mnm
 
+### Horniny
+- Vyvřelé - Žula, Čedič, Znělec
+- Usazené - Pískovec, Vápenec, Břidlice
+- Přeměněné - Rula, Svor, Fylit
+
+- Žula - základ Českého masivu
+- Čedič - základem sopečných pohoří (České středohoří, Doupovské hory)
+- Znělec - některé kopce (Bezděz, Jedlovoá, Kunětickoá hora...)
+
+- Pískovec - na severu a severovýchodě Čech. - Skalní města
+- Vápenec - krasové oblasti (Český kras, Moravský kras)
+- Břidlice - zejména v západních a jihozápadních Čechách
+
+- Rula - Českomoravská vrchovina, Šumava a Orlické hory
+- Svor - Šumava, Krkonoše a Hrubý Jeseník
+- Fylit - západní Čechy, okolí Železného Brodu a severní Morava
+
 ### Zvláštní typy reliéfu
 - Krasy - Český kras, Moravský kras
 - Skalní města na severu a severovýchodu Čech
 	- Největší skalní město - Adršpašsko teplické skály
 	- Největší skalní most - Pravčická brána (Největší pískovcový most v Evropě)
+- Nejhlubší propast - Hranická propast - největší zatím potvrzená hloubka 473.5m
+	- Nejhlubší propast na světě
 
-- Eroze
 
 ## Půdy
 - Druhy
