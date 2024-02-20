@@ -89,6 +89,8 @@
 	- Teplice nad Bečvou
 	- Luhačovice
 
+<div style="page-break-after: always;"></div>
+
 ### Horniny
 - Vyvřelé - Žula, Čedič, Znělec
 - Usazené - Pískovec, Vápenec, Břidlice
@@ -146,6 +148,8 @@ Zelená - Glejosol
 - Vysychají méně než černozemě
 - Pšenice, Ječmen, Cukrovka...
 
+<div style="page-break-after: always;"></div>
+
 ### Illimerizované půdy
 - Illimerizace
 	- Propadání živin do nižších vrstev půdy
@@ -195,6 +199,9 @@ Vymezení
 - Annamské pohoří, Arkanské pohoří, Šanská plošina
 - Na ostrovech nízká sopečná pohoří
 - Veliké nerostné bohatství
+	- Ropa
+	- Na ostrovech Nikl, Zlato
+	- Zadní indie Cín, Měď, Anntimon, Titan, Olovo
 - Ostrovy
 	- Sumatra, Jáva (nejlidnatější), Sulawesi(celebes), Kalimantan, Bali, Lombok
 	- Velké a Malé sundy
@@ -430,4 +437,5 @@ Vymezení
 - Velmi rychle roste v posledních letech
 - Ropa zemní plyn - Většina exportu
 - Těžba dřeva
+- Chov buvolů, skotu...
 - Rýže, Kokos
