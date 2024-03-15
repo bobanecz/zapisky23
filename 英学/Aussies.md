@@ -1,0 +1,92 @@
+History
+- Discovered by James cook 1770
+- since 1788 - penal colony
+	- 1st fleet of ships
+	- 1500 people
+	- 50% prisoners
+- until 1886 - 50 000 prisoners total
+- 1901 Dominium
+- independent
+- official head charles 3
+- Aussies
+	- proud of their origin
+	- 90% briish
+	- Aborigines 1.5%
+	- till 1973 racist imigration laws
+
+- Political system
+- Dominium
+- 6 states 2 territories
+- Capital canberra
+- 88% endemites
+	- TEmu
+	- koala
+	- dingo
+	- platypus
+	- cangaroo
+	- emu
+	- wombat
+- Sights - sydney opera
+- australian open
+- tennis
+- uluru
+- ayers
+- great barrier reef
+- SLAng
+	- barbie
+	- outback
+	- billabong
+
+New zeldn
+- Aotearoa
+- 2 ofcl lang
+- English + Maori
+	- Also NZ sign L
+- 2 main islands
+	- N island and S island
+- many smolr
+	- cook straigt
+- 14% maori ppl
+- 7% speak maori
+- Wellington capital
+- largest ciry -aukland
+	- Both north isl
+- Mountns
+- active volcanoes
+- erth quks
+- ht sprngs
+- frtl vllys
+- fjords
+- highest mountain
+- mt. cook
+	- Southern Alps
+- Climate
+	- moDerate
+	- summer 27max
+	- winter 10c
+		- different in mntns
+- pilitical systtem
+	- dominum
+	- head charles 3
+	- very isolated state
+	- economic problems
+	- now tourism
+	- argiculture
+		- winE
+		- sheep - mor shep the ppl
+		- milk
+	- KIWIS are the ppl called
+
+Nature
+- definition
+- animals
+	- Mammals+examples
+	- Birds
+	- Fish
+	- Reptiles
+- Protections
+	- organizations
+- Disasters
+- natural beauties
+- walk in the nature
+- 
