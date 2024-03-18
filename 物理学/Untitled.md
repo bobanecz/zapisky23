@@ -4,4 +4,3 @@ Francie
 ústavní reformy
 Nastavit suverenitu
 zabezpečit
-J
