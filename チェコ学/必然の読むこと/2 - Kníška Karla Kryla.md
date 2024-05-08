@@ -1,7 +1,9 @@
 # Kníška Karla Kryla
 
 ## Historický kontext
-Prakticky život autora 
+Karel kryl
+\*1944
+Narozen do rodiny knihtiskařů, když byl malý, tak před jeho očima komunisti zničili všechny tiskařské stroje, což silně ovlivnilo jeho postoj vůči režimu. Původně chtěl být hrnčířem. Bratříčku zavírej vrátka byla vydána okamžitě po vtrhnutí vojsk varšavské smlouvy. Jeho písně se napřed hrály v rozhlase, ale pak byly zakázány. Emigroval v roce 1969 po písničkářském festivalu. Pracoval s redakcí Svobodné evropy. Do čech se vrátil hned po sametové revoluci na pohřeb jeho matky. Byl zklamán polistopadovým vývojem: viz. písnička "Sametové Jaro"
 
 ## Tvorba autora
 Jak co všechno napsal, tak jaké prvky se významově objevujou, co kritizuje...
