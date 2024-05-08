@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "歴史学/Vývoj států sovětského bloku a Rozpad USSR.md",
+            "file": "チェコ学/必然の読むこと/0 - Template.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "歴史学/Vývoj států sovětského bloku a Rozpad USSR.md",
+                "file": "チェコ学/必然の読むこと/0 - Template.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "歴史学/Vývoj států sovětského bloku a Rozpad USSR.md",
+                "file": "チェコ学/必然の読むこと/0 - Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "歴史学/Vývoj států sovětského bloku a Rozpad USSR.md",
+                "file": "チェコ学/必然の読むこと/0 - Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "歴史学/Vývoj států sovětského bloku a Rozpad USSR.md"
+                "file": "チェコ学/必然の読むこと/0 - Template.md"
               }
             }
           }
@@ -181,6 +181,8 @@
   },
   "active": "4d4a9ba5e7030503",
   "lastOpenFiles": [
+    "チェコ学/必然の読むこと/2 - Kníška Karla Kryla.md",
+    "歴史学/Vývoj států sovětského bloku a Rozpad USSR.md",
     "歴史学/aA.md",
     "地理学/祭りたｗ/Maturitní otázka 30.md",
     "地理学/祭りたｗ/Maturitní otázka 29.md",
@@ -188,8 +190,6 @@
     "物理学/Vlnová optika.md",
     "物理学/Něco.md",
     "英学/Aussies.md",
-    "地理学/祭りたｗ/Maturitní otázka 24.md",
-    "地理学/祭りたｗ/Maturitní otázka 22.md",
-    "物理学/Geometrická optika.md"
+    "地理学/祭りたｗ/Maturitní otázka 24.md"
   ]
 }
