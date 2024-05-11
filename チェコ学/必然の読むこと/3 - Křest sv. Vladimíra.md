@@ -27,6 +27,9 @@ Policisti vzali peruna, nenašli proti němu žádný zákon, tak ho Vladimír o
 Zabili Peruna, pak říkali, že nic není věčně, že si lidi vymýšlí nový bohy furt a pak končí poučením, že máš poslouchat a chválit absolutistické vládce
 
 ### Pátý zpěv
+O tom, že pro rusko se nic nezměnilo kromě pro církev, kde lidi přestali věřit, až církev a pověrčivé babičky hlásaly konec světa všude
+
+### Šestý zpěv
 
 
 ### Téma a hlavní motiv
