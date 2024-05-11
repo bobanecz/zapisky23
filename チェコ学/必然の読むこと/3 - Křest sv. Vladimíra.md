@@ -30,12 +30,14 @@ Zabili Peruna, pak říkali, že nic není věčně, že si lidi vymýšlí nov�
 O tom, že pro rusko se nic nezměnilo kromě pro církev, kde lidi přestali věřit, až církev a pověrčivé babičky hlásaly konec světa všude
 
 ### Šestý zpěv
+K carovi si přijdou stěžovat lidi jejichž přísun peněz záležel na víře a prosili ho ať sežene nového boha
 
+### Sedmý zpěv.
 
 ### Téma a hlavní motiv
 Čím se inspiroval, čeho chce docílit, co znázorňuje, co kritizuje, další témata....
 
-### Časoprostor
+### Časoprosto
 Retrospektivní/Chronologická/Rámcová/Paralelní(Víc věcí se děje zároveň)
 /Roztříštěná(nonsense)/Mozaikovitá(Roztříštěná, ale pak dává smysl)/Řetězová(Epizodická)
 Kdy se děj odehrává
