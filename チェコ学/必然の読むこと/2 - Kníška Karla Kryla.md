@@ -32,29 +32,23 @@ Pak hlavně v první polovině básně písně pro nekodokončený muzikál kryl
 Ve střední části hlavně antimilitaristické básně
 Na konci především kritika společnosti a anarchistické písně
 
-
 ### Časoprostor
-Retrospektivní/Chronologická/Rámcová/Paralelní(Víc věcí se děje zároveň)
-/Roztříštěná(nonsense)/Mozaikovitá(Roztříštěná, ale pak dává smysl)/Řetězová(Epizodická)
-Kdy se děj odehrává
+Roztříštěná kompozice
 
 ### Kompoziční výstavba
-Jak je to rozdělený/Chronologie
-Kompoziční schéma
+No idea
+Chronologicky???
 
-## Lidi
-### Vypravěč
-
-### Postavy
-
-## Typy promluv
-No idea co tu chce
+Vypravěč:
+\1. osoba - nehažte kamení
+\3. osoba - král a klaun
 
 ## Jazykové prostředky a jejich funkce ve výňatku
-Spisovný/hovorový/nespisovný jazyk
-Citově zabarvené prostředky
-
-## Tropy a figury a jejich funkce ve výňatku
-Próza?
+Obecná/Hovorová čeština
+Většinou spisovná s prvky obecné češtiny pro dodržení rýmu
+Hluboké alegorie
+Aliterace, Metafory, Přirovnání, Dyfemismy, inverze
+Zdrobněliny/Dyfemismy
 
 ## Zajímavosti
+Pes
