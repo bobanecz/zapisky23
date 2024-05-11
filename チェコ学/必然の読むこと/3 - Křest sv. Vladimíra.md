@@ -18,16 +18,16 @@ Vladimír pošle drába pro Peruna, ten ho pošle do pr...
 Pak se dráb vrátí, car pošle čtyři policisty pro peruna, pak se všichni přežerou na oslavě
 
 ### Druhý zpěv
-Blibli
+Popis jak je těžké být bohem, pak ho seřve manželka, nadává se na ženy a pak vypravěč lituje Peruna
 
-### Třetí dějství
-Blublu
+### Třetí zpěv
+Policisti vzali peruna, nenašli proti němu žádný zákon, tak ho Vladimír odsoudil polním soudem a dal ho s žurnalistou který psal proti bohu hodit do Dněpru po vláčení na koňském ocase
 
-### Čtvrté dějství
-Bleble
+### Čtvrtý zpěv
+Zabili Peruna, pak říkali, že nic není věčně, že si lidi vymýšlí nový bohy furt a pak končí poučením, že máš poslouchat a chválit absolutistické vládce
 
-### Páté dějství
-Bloblo
+### Pátý zpěv
+
 
 ### Téma a hlavní motiv
 Čím se inspiroval, čeho chce docílit, co znázorňuje, co kritizuje, další témata....
