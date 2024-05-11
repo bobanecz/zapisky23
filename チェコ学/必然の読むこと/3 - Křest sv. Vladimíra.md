@@ -33,6 +33,10 @@ O tom, že pro rusko se nic nezměnilo kromě pro církev, kde lidi přestali v�
 K carovi si přijdou stěžovat lidi jejichž přísun peněz záležel na víře a prosili ho ať sežene nového boha
 
 ### Sedmý zpěv.
+Ministři se radí jaký ten bůh má být a každý hlasuje pro něco co se jim individually hodí
+
+###  Osmý zpěv
+Vladimír se ptá napřed žen ~kamarily koho tam má dát, pak nakonec řekl matesovi, nějakýmu klukovi co mu sundavá boty a ten vyhlásil konkurs. To se vyhlásilo a papež hned vyrazil
 
 ### Téma a hlavní motiv
 Čím se inspiroval, čeho chce docílit, co znázorňuje, co kritizuje, další témata....
