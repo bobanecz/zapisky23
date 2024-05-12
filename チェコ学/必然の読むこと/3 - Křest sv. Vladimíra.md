@@ -39,7 +39,11 @@ Ministři se radí jaký ten bůh má být a každý hlasuje pro něco co se jim
 Vladimír se ptá napřed žen ~kamarily koho tam má dát, pak nakonec řekl matesovi, nějakýmu klukovi co mu sundavá boty a ten vyhlásil konkurs. To se vyhlásilo a papež hned vyrazil
 
 ### Devátý zpěv
+Složen ze strof o dvou verších
+1. část - latinská hymna
+2. část - takový ty věci co si církevní hodnostáři myslí a neřeknou
 
+### Desátý zpěv
 
 ### Téma a hlavní motiv
 Čím se inspiroval, čeho chce docílit, co znázorňuje, co kritizuje, další témata....
