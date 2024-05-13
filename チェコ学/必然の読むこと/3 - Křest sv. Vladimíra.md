@@ -141,11 +141,14 @@ Matýsek: Hlavní rádce
 Perunice: Věrná žena
 
 ## Jazykové prostředky a jejich funkce ve výňatku
-Hovorový, spisovný jazyk, citoslovce, citově zabarvené termíny
-Spisovný/hovorový/nespisovný jazyk
-Citově zabarvené prostředky
+Hovorový, spisovný jazyk, citoslovce, citově zabarvené termíny, hlavně dyfemismy
+Bohatý jazyk
 
 ## Tropy a figury a jejich funkce ve výňatku
-Próza?
+Hodně básnických prostředků??
+Bohatý jazyk
+ABCB - přerývavý
+9. zpěv sdružený
 
 ## Zajímavosti
+Nejsou
