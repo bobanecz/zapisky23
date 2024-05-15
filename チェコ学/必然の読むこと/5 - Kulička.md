@@ -15,8 +15,15 @@ drama, komedie psaná v próze
 
 ### Děj
 Začínáme "Několik dní po sobě už se táhly přes město trosky rozprášené armády"
-Poražení vojáci se stahují z bitevního pole
-
+Poražení vojáci se stahují z bitevního pole, Němci obsazují město Rouen
+Pár lidí se rozhodlo pro obchod jet do neobsazeného Havru a dostali povolení v odjezdu
+Plánovali emigrovat do Anglie
+schovali se
+Popis lidí
+Ženy se spojí proti kuličce, muži proti Cornudetovi
+Jeli pomalu a ztroskotali, nikdo jim nic nedal
+Kulička si vytáhla košík plný jídla
+	
 
 ### Téma a hlavní motiv
 Čím se inspiroval, čeho chce docílit, co znázorňuje, co kritizuje, další témata....
@@ -34,6 +41,14 @@ Kompoziční schéma
 ### Vypravěč
 
 ### Postavy
+Kulička - Tlustá, Prostitutka, 
+Loiseau - Majitel velkoobchodu s vínem, prodával blbé víno lacině, čilý, veselý, šidíř, manželka vysoká rázná
+Carre-lamadon - Vážený člověk, bavlna, manželka roztomilá
+Hubert de Brévile - Jindřich 4. ties, Hraběnka - dobré vystupování a dobrý salón
+Dvě jeptišky - Stará a mladá
+Cornudet - Opilec, dobrosrdečný, chtěl pomáhat v Havru
+
+
 
 ## Typy promluv
 No idea co tu chce
