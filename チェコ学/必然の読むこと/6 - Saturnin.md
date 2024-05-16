@@ -23,6 +23,16 @@ Utekl marcus aurelius - lev
 Hraje se slečnou barborou tenis
 Prohrál 3-0
 Saturnin mu udělal zeď na lodi
+Teta kateřila a milouš se zabydleli na lodi
+Saturnin, že loď okamžitě vyprázdní
+Škrabošky - krysy
+Dovolená u dědečka
+Hned přijela kateřina s miloušem
+jiu-jitsu, prijela barbora a vlach
+Zraněná noha -> nemocnice, barbora auto
+Bouřka, utržený most
+Přísaha saturnina pronásledovat milouše
+	
 
 
 ### Téma a hlavní motiv
@@ -45,8 +55,10 @@ Doktor Vlach
 Saturnin
 Jiří
 Slečna barbora
-
-
+Strýc František - výbuchy
+Teta - Přísloví
+Milouš - Vymatlaný
+Dědeček - elektřina
 
 ## Typy promluv
 No idea co tu chce
