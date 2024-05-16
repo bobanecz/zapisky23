@@ -23,7 +23,16 @@ Popis lidí
 Ženy se spojí proti kuličce, muži proti Cornudetovi
 Jeli pomalu a ztroskotali, nikdo jim nic nedal
 Kulička si vytáhla košík plný jídla
-	
+Všichni kromě Carre-Lamadona a Brevila s manželkami si dali
+Paní Carre Lamadon omdlela
+Až hrabě si dal po přemlouvání
+Vyprávěli si zážitky
+Kulička byla silně nacionalistická
+Málem někoho zaškrtila
+Lidem se to líbilo
+Pohádala se s cornudetem
+Vznešeným holkám se to líbilo - byly na její straně
+
 
 ### Téma a hlavní motiv
 Čím se inspiroval, čeho chce docílit, co znázorňuje, co kritizuje, další témata....
