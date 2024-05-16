@@ -19,7 +19,10 @@ Přestěhovali jsme se
 Paní jirotková dává koblihy
 Parník - dynamo
 Saturnin o Jiřím vyprávěl bludy
-Utekl marcus aurelius - 
+Utekl marcus aurelius - lev
+Hraje se slečnou barborou tenis
+Prohrál 3-0
+Saturnin mu udělal zeď na lodi
 
 
 ### Téma a hlavní motiv
@@ -41,6 +44,7 @@ Kompoziční schéma
 Doktor Vlach
 Saturnin
 Jiří
+Slečna barbora
 
 
 
