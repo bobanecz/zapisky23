@@ -32,6 +32,12 @@ Málem někoho zaškrtila
 Lidem se to líbilo
 Pohádala se s cornudetem
 Vznešeným holkám se to líbilo - byly na její straně
+Dojeli do Totes, pán je kontroloval, ale bylo to aok
+Někdo předvolal kuličku, byla naštvaná
+Večeře
+Na chodbě - kulička asi spala s důstojníkem, s Cornudetem se nechtěla vyspat
+Kočí měl zákaz vyjet od důstojníka
+
 
 
 ### Téma a hlavní motiv
@@ -50,7 +56,7 @@ Kompoziční schéma
 ### Vypravěč
 
 ### Postavy
-Kulička - Tlustá, Prostitutka, 
+Kulička - Tlustá, Prostitutka, milá, Alžběta Roussetová
 Loiseau - Majitel velkoobchodu s vínem, prodával blbé víno lacině, čilý, veselý, šidíř, manželka vysoká rázná
 Carre-lamadon - Vážený člověk, bavlna, manželka roztomilá
 Hubert de Brévile - Jindřich 4. ties, Hraběnka - dobré vystupování a dobrý salón
