@@ -37,7 +37,12 @@ Někdo předvolal kuličku, byla naštvaná
 Večeře
 Na chodbě - kulička asi spala s důstojníkem, s Cornudetem se nechtěla vyspat
 Kočí měl zákaz vyjet od důstojníka
-
+Důstojník řekl že protože nechce
+večer poslali pro kuličku, která ho poslala do háje
+Pak ráno se lidi proti ní spojili a přemýšleli, jak ji dostat, aby se s ním vyspala
+O den později s ní promluvil hrabě a nakonec se s ním vyspala, lidi oslavovali
+Ráno potom se lidi od ní drželi dál
+Byli jí povr
 
 
 ### Téma a hlavní motiv
