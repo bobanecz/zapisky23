@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "チェコ学/必然の読むこと/Manon Lescaut.md",
+            "file": "チェコ学/必然の読むこと/6 - Saturnin.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "チェコ学/必然の読むこと/Manon Lescaut.md",
+                "file": "チェコ学/必然の読むこと/6 - Saturnin.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "チェコ学/必然の読むこと/Manon Lescaut.md",
+                "file": "チェコ学/必然の読むこと/6 - Saturnin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "チェコ学/必然の読むこと/Manon Lescaut.md",
+                "file": "チェコ学/必然の読むこと/6 - Saturnin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "チェコ学/必然の読むこと/Manon Lescaut.md"
+                "file": "チェコ学/必然の読むこと/6 - Saturnin.md"
               }
             }
           }
@@ -181,15 +181,15 @@
   },
   "active": "4d4a9ba5e7030503",
   "lastOpenFiles": [
+    "チェコ学/必然の読むこと/0 - Template.md",
+    "チェコ学/必然の読むこと/6 - Saturnin.md",
+    "チェコ学/必然の読むこと/Manon Lescaut.md",
     "チェコ学/必然の読むこと/5 - Kulička.md",
     "des Grieux.md",
-    "チェコ学/必然の読むこと/Manon Lescaut.md",
     "チェコ学/必然の読むこと/2 - Kníška Karla Kryla.md",
-    "チェコ学/必然の読むこと/0 - Template.md",
     "チェコ学/Untitled.md",
     "チェコ学/必然の読むこと/4 - Krysař.md",
     "チェコ学/必然の読むこと/1 - Farma Zvířat.md",
-    "チェコ学/必然の読むこと/3 - Křest sv. Vladimíra.md",
-    "歴史学/Vývoj států sovětského bloku a Rozpad USSR.md"
+    "チェコ学/必然の読むこと/3 - Křest sv. Vladimíra.md"
   ]
 }
