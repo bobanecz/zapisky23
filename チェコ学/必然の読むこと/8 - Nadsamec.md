@@ -21,6 +21,14 @@ Zítra začíná závod
 Baví se s kolika ženama se může člověk za noc vyspat
 Ellen řekne, že věří v indiána co se může vyspat s 70 ženama zároveň
 scéna s mamkou a krejčím a PP
+Hádají se o sexu pořád s generálem
+Zavede ho skrz zoo
+Něco s automatem
+Pak bum Ellen přijde za ondřejem, růže
+závod začíná
+Ondřej nepřišel -> ellen je naštvaná
+ondřej dohání závodníky na kole
+Jeden z cyklistů umřel
 
 
 ### Druhé dějství
