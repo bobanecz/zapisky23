@@ -29,6 +29,12 @@ závod začíná
 Ondřej nepřišel -> ellen je naštvaná
 ondřej dohání závodníky na kole
 Jeden z cyklistů umřel
+Ondřej dá růži ellen
+Dojedou do cíle, vyhrají cyklisti
+lidi se zase schází u ondřeje
+Pozve si 3 prostitutky
+přestrojí se za indiána
+má sex s ellen
 
 
 ### Druhé dějství
