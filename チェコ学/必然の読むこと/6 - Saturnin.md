@@ -95,37 +95,44 @@ Kateřina si někoho vzala
 
 ### Téma a hlavní motiv
 Život vyšších společenských vrstev v 1. 1/2 20. stol.
+Příběh saturnina
+Motivy:
+	Život vyšších společenských vrstev v 1.1220.stol
+	Příroda
+	Rodina
 
 ### Časoprostor
-Retrospektivní/Chronologická/Rámcová/Paralelní(Víc věcí se děje zároveň)
-/Roztříštěná(nonsense)/Mozaikovitá(Roztříštěná, ale pak dává smysl)/Řetězová(Epizodická)
-Kdy se děj odehrává
+Praha, Dědečkova chata
+20. 30. léta 20. stol
 
 ### Kompoziční výstavba
-Jak je to rozdělený/Chronologie
-Kompoziční schéma
+Retrospektivní, chronologický
 
 ## Lidi
 ### Vypravěč
-
+Ich forma - Jiří
+poněkud nudný život než saturnin
 ### Postavy
-Doktor Vlach
-Saturnin
-Jiří
-Slečna barbora
+Doktor Vlach - Vznešený a inteligentní
+Saturnin - chytrý, vynalézavý, vtipný, svérázný
+Slečna barbora - krásná, dobrá sportovkyně, milá, šikovná
 Strýc František - výbuchy
-Teta - Přísloví
+Teta - Přísloví, vypočítavá, zlá, manipulativní, kompulzivní lhářka
 Milouš - Vymatlaný
-Dědeček - elektřina
+Dědeček - elektřina, bohatý, baví se trollením kateřiny
 
 ## Typy promluv
-No idea co tu chce
+ich forma, monolog, nepřímá řeč
 
 ## Jazykové prostředky a jejich funkce ve výňatku
-Spisovný/hovorový/nespisovný jazyk
-Citově zabarvené prostředky
+Přísloví
+Řečnické otázky
+Cynický humor
 
 ## Tropy a figury a jejich funkce ve výňatku
-Próza?
+Hyperboly
+Přirovnání
 
 ## Zajímavosti
+Idk
+Hodně populární
