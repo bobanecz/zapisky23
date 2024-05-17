@@ -1,17 +1,5 @@
-# Jméno knihy
-
-## Historický kontext
-Prakticky život autora 
-
-## Tvorba autora
-Jak co všechno napsal, tak jaké prvky se významově objevujou, co kritizuje...
-
-## Literární kontext
-O období, současníci, co bylo populární atm, z čeho se jeho tvorba vyvinula
-
-## Analýza
 ### Literární druh a žánr
-drama, komedie psaná v próze
+Drama, absurdní komedie
 
 ### První dějství
 Matka ubu dostane otce ubu aby chtěl být králem, ten svolá vobrubu a dohodnou se vyvraždit královskou rodinu
@@ -39,37 +27,36 @@ Utekla skříní
 ty dvě děti se snaží rozmnožovat
 král ubu chce zabít vojáka
 car je laid back
-
-
-
-### Druhé dějství
-Blibli
-
-### Třetí dějství
-Blublu
-
-### Čtvrté dějství
-Bleble
-
-### Páté dějství
-Bloblo
+matka ubu spí s celým ruským plukem
+Král ubu se potká s carem
+král ubu se toulá po bojišti
+Matka ubu spí s medvědem
+zabil obrubu
+král ubu potká matku ubu
+medvěd snědl šperky
+mají děti, vobruba 5 let leží, ubu bydlí in the sewer
+granát
+Dítě přežilo
+Končí na moři???
 
 ### Téma a hlavní motiv
-Čím se inspiroval, čeho chce docílit, co znázorňuje, co kritizuje, další témata....
+Témata - zážitky otce ubu jak uspořádává státní převrat
 
 ### Časoprostor
-Retrospektivní/Chronologická/Rámcová/Paralelní(Víc věcí se děje zároveň)
-/Roztříštěná(nonsense)/Mozaikovitá(Roztříštěná, ale pak dává smysl)/Řetězová(Epizodická)
-Kdy se děj odehrává
+Nejspíš v období konce 19. stol v polsku
 
 ### Kompoziční výstavba
-Jak je to rozdělený/Chronologie
-Kompoziční schéma
+Chronologicky
+5 jednání
 
 ## Lidi
-### Vypravěč
-
 ### Postavy
+Král ubu - sprostý hnusný zlý blbý
+matka ubu - zlá manipulativní sebestředná
+obruba - trochu chamtivý, kam vítr tam plášť
+car - chillec
+klín, sloup tyčka - vojvodové
+
 
 ## Typy promluv
 No idea co tu chce
