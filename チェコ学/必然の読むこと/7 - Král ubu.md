@@ -57,15 +57,14 @@ obruba - trochu chamtivý, kam vítr tam plášť
 car - chillec
 klín, sloup tyčka - vojvodové
 
-
 ## Typy promluv
-No idea co tu chce
+přímá řeč
 
 ## Jazykové prostředky a jejich funkce ve výňatku
-Spisovný/hovorový/nespisovný jazyk
-Citově zabarvené prostředky
+Hovorový jazyk, nespisovný, sprostý, dětinský
 
 ## Tropy a figury a jejich funkce ve výňatku
-Próza?
+nejsou
 
 ## Zajímavosti
+hnusný to je
