@@ -32,7 +32,22 @@ jiu-jitsu, prijela barbora a vlach
 Zraněná noha -> nemocnice, barbora auto
 Bouřka, utržený most
 Přísaha saturnina pronásledovat milouše
-	
+Kateřina uvařila oběd na ohništi
+Šli na houby -> 4 krátké
+Rozhodli se jít na orlí hnízdo dr Vlacha
+Nhaodil elektřinu
+Kateřina řekla saturninovi ať ukradne jídlo
+Klíč od srubu byla uprostřed tůně
+Vlach spadl
+Přenocovali v lese
+Pusa -> Měl by jste se oholit
+vrátili se -> most už byl
+Dědeček odkázal závěť na dobročinné účely
+Teta kateřina odjela
+Saturnin zůstal s dědečkem
+S barborou se pka potkali
+Kancelář pro uvádění románových příběhů na pravou míru
+Kateřina si někoho vzala
 
 
 ### Téma a hlavní motiv
