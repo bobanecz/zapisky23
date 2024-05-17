@@ -22,7 +22,23 @@ Dával peníze
 Zavřel vobrubu
 Podplatil žalářníka
 Král dal vyvraždit šlechtu
-Hromoslav se schovává u šlechty
+Hromoslav se schovává u šlechty - markýz
+král ubu popravuje šlechtu - díra
+král ubu chce spát s dcerou markýze
+Matka ubu ho zbuší
+Jde zabít historiky
+Vybírá daně
+Vobruba utekl
+Vobruba jel do ruska
+Car ho přijme do vojska
+král ubu chystá vojnu
+matka ubu hned podvádí
+Hromoslav přebral vládu
+schovala se do skříně
+Utekla skříní
+ty dvě děti se snaží rozmnožovat
+král ubu chce zabít vojáka
+car je laid back
 
 
 
