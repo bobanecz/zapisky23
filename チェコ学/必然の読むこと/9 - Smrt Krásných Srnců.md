@@ -33,8 +33,17 @@ nechlebovi se líbila maminka a chtěl ji namalovat
 nechleba poslal Irmu do háje
 Pak byli všichni jakžtakž happy když ten idiot přestal dělat blbosti
 
-### Třetí dějství
-Blublu
+### Smrt krásných srnců
+V létě se jezdilo na chalupu
+Bydleli u proška
+prošek měl psa holana
+choval se k němu hnusně
+stráň smrt krásných srnců
+Prošek tam s holanem pytlačili srnce
+Pan novotný je málem chytil
+Pak přišli němci
+Bratry vypravěče povolali do koncentráku, tak tatínek jel na ryby aby je mohl nakrmit
+
 
 ### Čtvrté dějství
 Bleble
