@@ -1,13 +1,98 @@
 # Smrt krásných srnců
 
 ## Historický kontext
-Prakticky život autora 
+Ota Pavel (1930 - 1973)
+- prozaik, novinář
+- vlastním jménem Ota Popper, syn židovského obchodního cestujícího Leo Poppera
+- otec měl na něho silný vliv (láska k přírodě, rybaření, ke sportu), dětství prožil v okolí Berounky, křivoklátských lesů
+- harmonické dětství skončilo okupací (pro židovský původ byli oba bratři, Hugo a Jiří, i otec posláni do koncentračního tábora, žil s matkou, 
+  ve 13 letech začal pracovat v dole)
+- nastoupil jako sportovní redaktor do rozhlasu, spolupracoval i se sportovním časopisem Stadion
+- v roce 1962 byl s fotbalisty Dukly Praha na zájezdu v USA
+- v roce 1964 na zimních olympijských hrách v Innsbrucku onemocněl těžkou duševní chorobou a odešel do invalidního důchodu
+- posledních 9 let života bylo vyplněno nemocniční nebo ambulantní léčbou, deprese se střídaly s klidnými chvílemi
+- přes zdravotní problémy nepřestával tvořit, připravil k tisku 5 knížek
 
 ## Tvorba autora
-Jak co všechno napsal, tak jaké prvky se významově objevujou, co kritizuje...
+Tvorba
+- silně autobiografická, dva hlavní zdroje inspirace - otec Leo a příroda
+- charakteristické znaky
+	- poetické vyprávění (lyrický vypravěč), něžnost, laskavost, upřímnost, opravdovost
+	- prosté, hluboce lidské osudy (reálné)
+	- humor, někdy tragikomický nádech
+	- spojení žurnalistiky s krásnou literaturou
+- tematicky lze tvorbu rozdělit do dvou celků
+
+a) povídky a reportáže ze sportovního prostředí
+- ve středu zájmu nejsou rekordy, ale povahové a mravní kvality člověka a rub sportovní slávy
+Dukla mezi mrakodrapy 
+- kniha reportáží o zájezdu fotbalového klubu do Ameriky
+Plná bedna šampaňského 
+- kniha sportovních povídek o fotbalistech, cyklistech…
+Pohádka o Raškovi 
+- povídka o vítězství skokana na lyžích na olympiádě v Grenoblu v roce 1968
+
+b) vzpomínkové prózy
+- vrcholem tvorby jsou dvě povídkové knihy, které napsal v období těžké nemoci
+Smrt krásných srnců 
+Jak jsem potkal ryby 
+- později vyšel výbor z těchto povídek
+Zlatí úhoři 
+	- autobiografické povídky
+	- zachycují svět dětství, které Pavel trávil u řeky Berounky v chalupě převozníka Proška
+	- nejčastějšími hrdiny jsou fanfarónský tatínek, členové rodiny, přátelé…
+	- významnou roli hraje příroda (řeka, ryby…)
+	- jakoby mimochodem (o to sugestivněji) se dozvídáme o transportech do koncentračních
+	  táborů, o dobové atmosféře za války a po válce
+	- nejznámější povídky
+	Nedražší ve střední Evropě
+		- tatínek koupil za 10 000 rybník s jedním kaprem
+	Ve službách Švédska
+		- tatínek se stal úspěšným obchodním zástupcem švédské firmy Elektrolux
+		- prodával vysavače a ledničky, pro pletky s ženami byl málem vyhozen
+	Smrt krásných srnců
+		- Pavlovi bratři museli do koncentráku
+		- tatínek chtěl, aby se ještě pořádně najedli, vydal se na ryby, ale nic neulovil
+		- vypůjčil si od Proška psa Holana, který ulovil srnce
+	Kapři pro wehrmacht
+- tatínek před odchodem do koncentráku v noci vyloví ze svého rybníka, který mu Němci na začátku okupace zabrali,   
+  všechny ryby
+	Zlatí úhoři
+		- Ota nachytal pro tatínka zlaté úhoře (= hodně, aby se vyplatilo nechat je vyudit), řezník je však přesolil, nedali se jíst
+
+- známé jsou i filmové adaptace Karla Kachyni Zlatí úhoři (1979), Smrt krásných srnců (1986)
+
+- některé povídky byly cenzurou vyřazeny z normalizačních vydání, například
+Prase nebude - kritika socialistického zemědělství
+Běh Prahou - tatínkův politický vývoj (od voleb 1946 přes vystřízlivění z komunistických idejí)
 
 ## Literární kontext
-O období, současníci, co bylo populární atm, z čeho se jeho tvorba vyvinula
+60. léta	
+- období 1962 – 67		 
+- vrchol svobody a nezávislosti, otevřeny hranice na Západ
+- rozkvět literatury (zejména prózy a dramatu), rozkvět filmu
+- 21. 8. 1968
+- okupace vojsky Varšavské smlouvy
+
+70. a 80. léta
+- počátek 70. let znamenal počátek tvrdé „normalizace“ v české politice i kultuře, návrat totalitního režimu
+- materiálním východiskem se stal spis Poučení z krizového vývoje a materiály XIV. sjezdu KSČ
+- jedinou vládnoucí silou je KSČ, Československo je včleněno do socialistické světové soustavy (v čele se SSSR)
+- nastává 20 let nesvobody politické i kulturní
+- jednou z nejvýznamnějších iniciativ vystupujících proti režimu byla Charta 77
+- toto prohlášení mělo celonárodní dosah, prvními mluvčími se stali Václav Havel, Jan Patočka a Jiří Hájek
+- v textu byl vznesen požadavek na dodržování lidských práv, signatáři byli stíháni a vězněni
+- ministerstvo kultury vydává seznam zakázaných autorů a děl
+- dochází k další vlně emigrace
+- literatura se vyvíjí ve 3 proudech
+	- oficiální literatura
+	- samizdatová literatura
+	- exilová literatura
+- řada spisovatelů se podřídila požadavkům doby, a tak měli možnost oficiálně publikovat
+- tato literatura utíkala od společenských problémů do soukromí
+- oblíbenými tématy jsou vztah muže a ženy, oslava přírody, návraty do dětství
+- teprve v 80. letech se do literatury vracejí starší autoři, kteří byli dosud zakázáni nebo diskriminováni 
+- objevují se mladé básnické a prozaické osobnosti, které se snaží jít svou cestou
 
 ## Analýza
 ### Literární druh a žánr
@@ -113,7 +198,8 @@ on s ní nejel a umřel
 Čím se inspiroval, čeho chce docílit, co znázorňuje, co kritizuje, další témata....
 
 ### Časoprostor
-Před, během a po ww2 v praze
+Před, během a po ww2
+v Praze, Buštěhradu, Kročehlavech, Křivoklátsku a v okolí řeky berounky
 
 ### Kompoziční výstavba
 Řetězové kompozice
@@ -121,17 +207,27 @@ chronologická
 
 ## Lidi
 ### Vypravěč
+v příběhu bezejmenný - ota pavel
+ich forma
 
 ### Postavy
+Leo - tatínek - Prochytralý, hezký, zlý vůči mamince, sebestředný měl šarm
+Pan Prošek - pytlák, zlý vůči psovi
+Holan - Věrný silný pes
+maminka - smutná, moc nevystupovala, opatrná, chtěla do itálie
+Hugo a Jiří - sourozenci
+Irma
 
 ## Typy promluv
-No idea co tu chce
+Přímá řeč
+Dialogy, Přímá řeč
 
 ## Jazykové prostředky a jejich funkce ve výňatku
-Spisovný/hovorový/nespisovný jazyk
-Citově zabarvené prostředky
+spisovný jazyk, hovorový jazyk
+citové zabarvení, cizí slova
 
 ## Tropy a figury a jejich funkce ve výňatku
-Próza?
+metafory
 
 ## Zajímavosti
+bylo napřed 7 povídek
