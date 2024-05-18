@@ -104,18 +104,20 @@ otec se cítil betrayed komunistama
 
 ### Králíci s Moudrýma očima
 otec pěstoval králíky
+nevyhrál cenu na nějaké soutěži, tak je všechny vypustil
+sotva se dobelhal domů
+Maminka mu zavolala sanitku
+on s ní nejel a umřel
 
 ### Téma a hlavní motiv
 Čím se inspiroval, čeho chce docílit, co znázorňuje, co kritizuje, další témata....
 
 ### Časoprostor
-Retrospektivní/Chronologická/Rámcová/Paralelní(Víc věcí se děje zároveň)
-/Roztříštěná(nonsense)/Mozaikovitá(Roztříštěná, ale pak dává smysl)/Řetězová(Epizodická)
-Kdy se děj odehrává
+Před, během a po ww2 v praze
 
 ### Kompoziční výstavba
-Jak je to rozdělený/Chronologie
-Kompoziční schéma
+Řetězové kompozice
+chronologická
 
 ## Lidi
 ### Vypravěč
