@@ -57,8 +57,13 @@ prošek umřel
 némci zabavili rybník
 tatínek byl vlastenec
 přestěhoali je na buštěhrad
+vedle nich vyvraždili lidice
+povolali tatínka do koncentráku
+málem je vystříleli
+ukradli kapry
+měli jídlo
 
-### Páté dějství
+### Jak jsme se střetli s Vlky
 Bloblo
 
 ### Téma a hlavní motiv
