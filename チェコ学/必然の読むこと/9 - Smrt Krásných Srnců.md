@@ -85,6 +85,13 @@ tatínek byl mrtvý
 
 ### Prase nebude
 krmil prasata
+byl prakticky prase
+maminka tam za ním šla
+slíbili jim prase
+Prase nebude
+Tak se odstěhovali
+
+### Běh Prahou
 
 
 ### Téma a hlavní motiv
