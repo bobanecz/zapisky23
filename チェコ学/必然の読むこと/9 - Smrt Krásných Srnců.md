@@ -21,7 +21,17 @@ Otec, IDIOT, koupil rybník s jedním obrovským kaprem a udělal rodině ostudu
 o pár let později udělal to stejný panu doktorovi Václavíkovi s ledničkou
 
 ### Ve službách švédska
-
+Tatínek byl zamilovaný do Irmy
+Stal se nejlepší podomní prodejce světa
+Seznámil se s umělcem nechlebou
+Manžel Irmy chtěl namalovat irenu nechlebou
+Tatínek přestal pracovat a jenom chodil za nechlebou
+NEMĚL FUCKING PENÍZE PROTOŽE NIC NEDĚLAL, JEHO RODINA NEMĚLA CO FUCKING JÍST
+NOTE, ŽE CELOU TUHLE DOBU MÁ MANŽELKU A DĚTI A UŽ ROK NEPRACUJE KVŮLI TOMU, ŽE PODLÍZÁ NĚČÍ ŽENĚ, KTERÁ HO ANI NEMÁ RÁDA
+jeli na ryby
+nechlebovi se líbila maminka a chtěl ji namalovat
+nechleba poslal Irmu do háje
+Pak byli všichni jakžtakž happy když ten idiot přestal dělat blbosti
 
 ### Třetí dějství
 Blublu
