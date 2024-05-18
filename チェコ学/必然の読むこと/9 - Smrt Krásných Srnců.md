@@ -75,6 +75,16 @@ Napřed prodával skříňky a sponky na klopy
 Pak k němu přišel nějaký inženýr s mucholapkama
 Švýcar muller vynalezl DDT
 Byl ředitelem té firmy
+Hrozně se jim dařilo
+Ale pak začaly být cejni
+takže poslal vypravěče
+ten prodal 50 000 kusů
+Lidi je začali vracet
+Pak holandská firma začala prodávat to stejný a mělo to úspěch
+tatínek byl mrtvý
+
+### Prase nebude
+krmil prasata
 
 
 ### Téma a hlavní motiv
