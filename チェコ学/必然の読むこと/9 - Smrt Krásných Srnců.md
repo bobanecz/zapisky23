@@ -64,7 +64,18 @@ ukradli kapry
 měli jídlo
 
 ### Jak jsme se střetli s Vlky
-Bloblo
+Po válce přijeli za Proškem, lovili štiky
+Soutěž s vlkama kdo uloví víc štik
+Měli 3
+Vlkové měli 5 velkých
+
+### Otázka hmyzu vyřešena
+Otec sháněl práci po válce
+Napřed prodával skříňky a sponky na klopy
+Pak k němu přišel nějaký inženýr s mucholapkama
+Švýcar muller vynalezl DDT
+Byl ředitelem té firmy
+
 
 ### Téma a hlavní motiv
 Čím se inspiroval, čeho chce docílit, co znázorňuje, co kritizuje, další témata....
