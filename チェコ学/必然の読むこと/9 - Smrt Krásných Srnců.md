@@ -92,7 +92,18 @@ Prase nebude
 Tak se odstěhovali
 
 ### Běh Prahou
+Otec okamžitě vstoupil ke komunistům
+Johny existuje
+Otec chtěl na volby ve 46 udělat běh
+dali jim lístečky a měli představovat jak to půjde různým stranám
+public event to byl????
+probíhali kolem václaváku, kde byli národní socialisté
+bili ho
+ošetřili ho
+otec se cítil betrayed komunistama
 
+### Králíci s Moudrýma očima
+otec pěstoval králíky
 
 ### Téma a hlavní motiv
 Čím se inspiroval, čeho chce docílit, co znázorňuje, co kritizuje, další témata....
