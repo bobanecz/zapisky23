@@ -1,17 +1,63 @@
 # Jméno knihy
 
 ## Historický kontext
-Prakticky život autora 
+Alfréd Jarry (1873 - 1907)
+- dramatik a prozaik
+- již během středoškolských studií se věnoval literatuře
+- jeho život byl sledem výstředností, výtržností a mystifikací
+- zemřel v bídě na tuberkulózu
 
 ## Tvorba autora
-Jak co všechno napsal, tak jaké prvky se významově objevujou, co kritizuje...
+Tvorba
+- byl ovlivněn symbolismem, surrealismem, uplatňoval principy absurdní literatury
+- proslavil se parodickým cyklem na omezenost a hloupost o králi Ubu
+
+Ubu králem
+- satirická hra, výsměch nadutosti, hlouposti, krutosti
+- šokující slovník, jednotlivé postavy symbolizují určité typy chování
+- otec Ubu = svým vystupováním, omezeným slovníkem plným vulgarismů představuje nenasytnou
+  chamtivost a zbabělost primitivního mocipána (smyslem života jsou pro něho peníze)
+- premiéra hry patřila k největším skandálům v dějinách divadla
+
+Ubu spoutaný
+Ubu paroháč
+	- tímto cyklem se stal iniciátorem absurdního divadla (absurdus = nesmyslný, označuje se tak
+	  drama 2. poloviny 50. let 20. století)
+	- u nás uvedlo tuto postavu na jeviště Osvobozené divadlo (ve 20. letech), později Divadlo Na zábradlí
+
+- do erotické literatury patří jeho groteskní romány
+Nadsamec
+- parodický obraz „vědeckého“ pokusu o zjištění hranice sexuálních možností člověka
+- hrdina předjímá typ „amerického supermana“
+Messalina
+- zachycuje sexuální život aristokratické společnosti ve starém Římě
+- Messalina = manželka císaře Claudia
 
 ## Literární kontext
-O období, současníci, co bylo populární atm, z čeho se jeho tvorba vyvinula
+Historická situace
+- konec 19. století je dobou úspěšného rozvoje (vědy, techniky...) = optimismus
+- rychlé životní tempo, konkurenční boj, chaos...  = růst napětí a neshod
+- odmítnutí hodnot a ideálů měšťanské společnosti
+- pesimistický životní pocit, beznaděj
+- tento životní pocit s sebou přináší i vlnu spiritualismu (= duchovnost)
+- společenská situace se odráží i v literatuře
+
+Literatura
+- rozchod s měšťanským uměním
+- dochází ke střídání uměleckých směrů, ve kterých umělci vyjadřují
+	- odpor ke společnosti, její morálce, vkusu
+	- zdůrazňují svobodu jedince (individualismus)
+	- právo na osobité vidění světa, na vyjádření osobních zkušeností, prožitků, nálad
+	- soustřeďují se na vnitřní život člověka, jeho senzibilitu (citlivost smyslů a nervů na podněty)
+- v tvorbě autorů začíná převažovat úsilí o „čisté umění“ (lartpourlartismus) = umění pro umění, má sloužit jen sobě samému
+
+
+Umělecké směry
+- vznikají ve snaze po novém vyjádření
 
 ## Analýza
 ### Literární druh a žánr
-drama, komedie psaná v próze
+drama, absurdní komedie
 
 ### První dějství
 Party, ondřej je nudný
@@ -35,46 +81,43 @@ lidi se zase schází u ondřeje
 Pozve si 3 prostitutky
 přestrojí se za indiána
 má sex s ellen
-
-
-### Druhé dějství
-Blibli
-
-### Třetí dějství
-Blublu
-
-### Čtvrté dějství
-Bleble
-
-### Páté dějství
-Bloblo
+82krát
+Holky jsou čarodějnice
+Vylezou ven - zaspívají písničku, ellen umírá
+Ondřej je smutný
+Přijde Elson a Gough
+Přivážou ondřeje do nějakýho stroje a chtějí ho dostat aby miloval Ellen
+Začne blábolit o bozích
 
 ### Téma a hlavní motiv
-Čím se inspiroval, čeho chce docílit, co znázorňuje, co kritizuje, další témata....
+Téma je mez lidské schopnosti
+Hlavní motiv - superčlověk
 
 ### Časoprostor
-Retrospektivní/Chronologická/Rámcová/Paralelní(Víc věcí se děje zároveň)
-/Roztříštěná(nonsense)/Mozaikovitá(Roztříštěná, ale pak dává smysl)/Řetězová(Epizodická)
-Kdy se děj odehrává
+V období druhé průmyslové revoluce
+Chronologická
 
 ### Kompoziční výstavba
-Jak je to rozdělený/Chronologie
-Kompoziční schéma
+Chronologie
 
 ## Lidi
 ### Vypravěč
-
+není
 ### Postavy
-Ondřej
+Ondřej - Nadsamec idk, snaží se být normální, ale čím víc to dělá, tím víc se děje opak
+Ellen - Zvídavá vědecky založená mladá dívka
+Doktor - silně vědecký člověk
+Elson a Gogh - Vědec a chemik, opovrhují evropou
 
 ## Typy promluv
-No idea co tu chce
+Jenom monology a polylogy
 
 ## Jazykové prostředky a jejich funkce ve výňatku
-Spisovný/hovorový/nespisovný jazyk
-Citově zabarvené prostředky
+Spisovný jazyk
+Hovorový a nespisovný místy
 
 ## Tropy a figury a jejich funkce ve výňatku
-Próza?
+Ne
 
 ## Zajímavosti
+Jakože, fuj
