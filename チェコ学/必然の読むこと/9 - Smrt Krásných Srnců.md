@@ -43,10 +43,20 @@ Prošek tam s holanem pytlačili srnce
 Pan novotný je málem chytil
 Pak přišli němci
 Bratry vypravěče povolali do koncentráku, tak tatínek jel na ryby aby je mohl nakrmit
+Ryby nebyly, srnce nemohl zabít
+Holan ho neposlouchal když tam byl srnec
+Holanovi se nepodařilo srnce efektivně zabít
+Nakonec tam byli rybáři a oni je odehnali a maso dostali
+Jel, cestou zůstal u někoho kdo si všiml že je od krve
+Rozdělili maso i mezi lidi kdo jim pomáhali
+Bratři koncentráky sotva přežili
+hlavu ukradli
+prošek umřel
 
-
-### Čtvrté dějství
-Bleble
+### Kapři pro wehrmacht
+némci zabavili rybník
+tatínek byl vlastenec
+přestěhoali je na buštěhrad
 
 ### Páté dějství
 Bloblo
