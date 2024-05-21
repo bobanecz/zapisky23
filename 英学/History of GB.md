@@ -100,7 +100,7 @@ X
 
 
 # History of GB 2
-- Henry VIII
+	- Henry VIII
 	- 6 wives
 
 #### 1534 - Reformation/Church of England
