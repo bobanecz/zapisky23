@@ -1,4 +1,5 @@
 # Smrt krásných srnců
+ladislav fuks, bohumil hrabal
 
 ## Historický kontext
 Ota Pavel (1930 - 1973)

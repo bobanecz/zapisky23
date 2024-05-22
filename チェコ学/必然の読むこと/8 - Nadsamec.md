@@ -1,4 +1,5 @@
 # Jméno knihy
+Wilde, Verlaine
 
 ## Historický kontext
 Alfréd Jarry (1873 - 1907)
