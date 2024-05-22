@@ -1,4 +1,5 @@
 # Kulička
+# Dumas mladší, Zola
 
 ## Historický kontext
 Guy de Maupassant (1850 – 1893)
