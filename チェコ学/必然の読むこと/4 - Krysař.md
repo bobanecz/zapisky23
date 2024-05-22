@@ -142,7 +142,7 @@ Sedmihradská zem - píseň
 Hledají kam šla
 Šílená
 Krysař všechny zabil
-Shodil píšťalu a pak sebe
+Shodil píšťalu a pak sebe`
 
 
 ### Téma a hlavní motiv
