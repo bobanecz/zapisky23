@@ -1,6 +1,7 @@
 # Jméno knihy
 
 ## Historický kontext
+Viktor Dyk
 (1877  -  1931)
 - básník, prozaik, dramatik
 - studoval v Praze gymnázium a práva, už za studií se zapojoval do politického života
@@ -19,10 +20,13 @@
 - první sbírky byly psány pod vlivem dekadence, s níž ho spojoval zejména pocit marnosti
 - cítil skepsi, ale zároveň touhu po překonání
 - sbírky vyšly souborně pod názvem
+
 Marnosti
+Šrámek, bezruč
 
 - pod vlivem anarchismu vznikla lyrickoepická skladba
 Milá sedmi loupežníků
+
 - balada o lásce a žárlivosti, o zradě a pomstě
 - autor chce ukázat špatnou morálku své doby – jak je nemorální hlavní hrdinka, tak je nemorální společnost
 - příběh o dívce, která miluje i zrazuje a přivádí své druhy na šibenici proto, aby se pomstila za úkladné zavraždění svého přítele
@@ -31,11 +35,10 @@ Milá sedmi loupežníků
 
 - v souvislosti s aktivní politickou činností se zaměřil na politickou satiru
 - satirami na nedostatky národní společnosti jsou sbírky
+
 Satiry a sarkasmy
 Pohádky z naší vesnice
 	- útočí na nehybnost českého politického života
-
-
 
 - jeho politická lyrika vrcholí v tzv. Válečné tetralogii
 Lehké a těžké kroky

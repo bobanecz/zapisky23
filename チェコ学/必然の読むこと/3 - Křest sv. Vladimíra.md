@@ -57,6 +57,8 @@ Epigramy
 
 
 ## Literární kontext
+Božena němcová, 
+
 Národní obrození, 4. etapa
 - ve 40. – 50. letech 19. století se pozvolna dovršuje proces NO v politickém i kulturním životě
 - porážka revoluce proces nezastavila, pouze zpomalila
