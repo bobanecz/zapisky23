@@ -2,6 +2,20 @@
 - George Orwell
 - 1944(vydáno 1945)
 
+Narodil se v indii
+Oxfordshire -> Orwell
+Eton
+Peníze
+Policie indie
+Novinář
+
+Tvorba:
+Novinář
+Kritik politických a sociálních problémů
+předběhl svou dobu
+
+
+
 ## Forma:
 
 ## Příběh:
